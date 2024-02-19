@@ -1,0 +1,1126 @@
+{
+    "date_published": 1651795200,
+    "name": "Calathea Orbifolia 01",
+    "type": 2,
+    "authors": {
+        "Rob Tuytel": "scanning",
+        "Rico Cilliers": "modeling"
+    },
+    "files_hash": "70bd4035bdb594b4744aa7f8be7cf31ab325aeb8",
+    "categories": [
+        "plants",
+        "nature",
+        "ground cover",
+        "collection: smugglers_cove"
+    ],
+    "tags": [
+        "nature",
+        "bush",
+        "leaf",
+        "shrub",
+        "green",
+        "leaves",
+        "forest",
+        "plant",
+        "jungle",
+        "outdoor",
+        "botany",
+        "decorative"
+    ],
+    "download_count": 14491,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/calathea_orbifolia_01.png?width=256&height=256",
+    "files": {
+        "Diffuse": {
+            "8k": {
+                "jpg": {
+                    "size": 18231465,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/calathea_orbifolia_01/calathea_orbifolia_01_diff_8k.jpg",
+                    "md5": "6a3ae73f6e802e17c41ee3b3bfe38dd8"
+                },
+                "png": {
+                    "size": 128480398,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/calathea_orbifolia_01/calathea_orbifolia_01_diff_8k.png",
+                    "md5": "58758a8d5fdde1b927a7cb40801c7cb4"
+                },
+                "exr": {
+                    "size": 40885436,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/calathea_orbifolia_01/calathea_orbifolia_01_diff_8k.exr",
+                    "md5": "0446f397f3a3a14703addce61888669f"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 5516055,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/calathea_orbifolia_01/calathea_orbifolia_01_diff_4k.jpg",
+                    "md5": "d1ed7d51635ffeac851648d29cb10dbb"
+                },
+                "png": {
+                    "size": 46596509,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/calathea_orbifolia_01/calathea_orbifolia_01_diff_4k.png",
+                    "md5": "931ba2aec8a134ca6fe0860deb1eccc7"
+                },
+                "exr": {
+                    "size": 11780073,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/calathea_orbifolia_01/calathea_orbifolia_01_diff_4k.exr",
+                    "md5": "8259b4d61682a580fa70eb09f449d698"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1570805,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/calathea_orbifolia_01/calathea_orbifolia_01_diff_2k.jpg",
+                    "md5": "bcca322935beb8e5da625aad2bae1d52"
+                },
+                "png": {
+                    "size": 13647362,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/calathea_orbifolia_01/calathea_orbifolia_01_diff_2k.png",
+                    "md5": "3d7b9caff819434044f023183b8255a0"
+                },
+                "exr": {
+                    "size": 3356987,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/calathea_orbifolia_01/calathea_orbifolia_01_diff_2k.exr",
+                    "md5": "edcc41ff754ef26946756fe192a30e90"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 453006,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/calathea_orbifolia_01/calathea_orbifolia_01_diff_1k.jpg",
+                    "md5": "3b7321ec2f6eeb192cf68ce50f643029"
+                },
+                "png": {
+                    "size": 3883576,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/calathea_orbifolia_01/calathea_orbifolia_01_diff_1k.png",
+                    "md5": "fb7f46801b99a0514cc31e97b6b45f63"
+                },
+                "exr": {
+                    "size": 984570,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/calathea_orbifolia_01/calathea_orbifolia_01_diff_1k.exr",
+                    "md5": "b2605929871c593a5adfc1a9d0713e1b"
+                }
+            }
+        },
+        "nor_dx": {
+            "8k": {
+                "jpg": {
+                    "size": 33107278,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/calathea_orbifolia_01/calathea_orbifolia_01_nor_dx_8k.jpg",
+                    "md5": "bec71a906828f647119b9f068739d26c"
+                },
+                "png": {
+                    "size": 207004849,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/calathea_orbifolia_01/calathea_orbifolia_01_nor_dx_8k.png",
+                    "md5": "af3969334b644f376da5027400013862"
+                },
+                "exr": {
+                    "size": 63705097,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/calathea_orbifolia_01/calathea_orbifolia_01_nor_dx_8k.exr",
+                    "md5": "0a0554413291140bef0cb9f383f93f69"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 9487042,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/calathea_orbifolia_01/calathea_orbifolia_01_nor_dx_4k.jpg",
+                    "md5": "ca0b6a243baff2e1383cb625af5921fa"
+                },
+                "png": {
+                    "size": 57744105,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/calathea_orbifolia_01/calathea_orbifolia_01_nor_dx_4k.png",
+                    "md5": "2a4d17ad6f0f17b8e2b3de85c23dc751"
+                },
+                "exr": {
+                    "size": 20673972,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/calathea_orbifolia_01/calathea_orbifolia_01_nor_dx_4k.exr",
+                    "md5": "605c91de508eefbd8649284c218444c4"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2334185,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/calathea_orbifolia_01/calathea_orbifolia_01_nor_dx_2k.jpg",
+                    "md5": "8b5d7219bc06b8a1b5d59ab08c51cdba"
+                },
+                "png": {
+                    "size": 15708893,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/calathea_orbifolia_01/calathea_orbifolia_01_nor_dx_2k.png",
+                    "md5": "d06644bc4312add05a36b9c64b87a07f"
+                },
+                "exr": {
+                    "size": 5281217,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/calathea_orbifolia_01/calathea_orbifolia_01_nor_dx_2k.exr",
+                    "md5": "38224944841530e35086eb1d92f44070"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 588422,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/calathea_orbifolia_01/calathea_orbifolia_01_nor_dx_1k.jpg",
+                    "md5": "c965e3d8721e6ab553efea080e164d02"
+                },
+                "png": {
+                    "size": 4237796,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/calathea_orbifolia_01/calathea_orbifolia_01_nor_dx_1k.png",
+                    "md5": "117e326bef44b4f153f79e462fe49846"
+                },
+                "exr": {
+                    "size": 1330759,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/calathea_orbifolia_01/calathea_orbifolia_01_nor_dx_1k.exr",
+                    "md5": "a880ee32eb739436c7d391415508c001"
+                }
+            }
+        },
+        "nor_gl": {
+            "8k": {
+                "jpg": {
+                    "size": 32985034,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/calathea_orbifolia_01/calathea_orbifolia_01_nor_gl_8k.jpg",
+                    "md5": "7dcce6a6fd44827f9746bdcb6e35d272"
+                },
+                "png": {
+                    "size": 207003713,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/calathea_orbifolia_01/calathea_orbifolia_01_nor_gl_8k.png",
+                    "md5": "fe34bb388b4d7c69a3e7bc8093fbb677"
+                },
+                "exr": {
+                    "size": 63607916,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/calathea_orbifolia_01/calathea_orbifolia_01_nor_gl_8k.exr",
+                    "md5": "698da9c08005c736c6e04ed9797f69d0"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 9441151,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/calathea_orbifolia_01/calathea_orbifolia_01_nor_gl_4k.jpg",
+                    "md5": "bfbdb88ae137cbe25c8fe864a1bdc571"
+                },
+                "png": {
+                    "size": 57736003,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/calathea_orbifolia_01/calathea_orbifolia_01_nor_gl_4k.png",
+                    "md5": "32a971e5cfd3e6164a6c13ec4d063d66"
+                },
+                "exr": {
+                    "size": 20634319,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/calathea_orbifolia_01/calathea_orbifolia_01_nor_gl_4k.exr",
+                    "md5": "fbef3685e69ca1fbac0f3bf0b982045f"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2319304,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/calathea_orbifolia_01/calathea_orbifolia_01_nor_gl_2k.jpg",
+                    "md5": "a162690b2a63efd89a87f11851388c34"
+                },
+                "png": {
+                    "size": 15706270,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/calathea_orbifolia_01/calathea_orbifolia_01_nor_gl_2k.png",
+                    "md5": "db4e35a029822b813df7e138692f1a7c"
+                },
+                "exr": {
+                    "size": 5263902,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/calathea_orbifolia_01/calathea_orbifolia_01_nor_gl_2k.exr",
+                    "md5": "d27388172d3d4940ebf214b9fcf6cede"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 583620,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/calathea_orbifolia_01/calathea_orbifolia_01_nor_gl_1k.jpg",
+                    "md5": "2a2b269299d48b5552ca93171c05ca93"
+                },
+                "png": {
+                    "size": 4239479,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/calathea_orbifolia_01/calathea_orbifolia_01_nor_gl_1k.png",
+                    "md5": "f21d3a44302a81d67421724273868ded"
+                },
+                "exr": {
+                    "size": 1321044,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/calathea_orbifolia_01/calathea_orbifolia_01_nor_gl_1k.exr",
+                    "md5": "912a462ce46a3a67ab4282ce04823746"
+                }
+            }
+        },
+        "blend": {
+            "8k": {
+                "blend": {
+                    "include": {
+                        "textures/calathea_orbifolia_01_nor_gl_8k.exr": {
+                            "size": 63607916,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/calathea_orbifolia_01/calathea_orbifolia_01_nor_gl_8k.exr",
+                            "md5": "698da9c08005c736c6e04ed9797f69d0"
+                        },
+                        "textures/calathea_orbifolia_01_diff_8k.jpg": {
+                            "size": 18231465,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/calathea_orbifolia_01/calathea_orbifolia_01_diff_8k.jpg",
+                            "md5": "6a3ae73f6e802e17c41ee3b3bfe38dd8"
+                        },
+                        "textures/calathea_orbifolia_01_alpha_8k.png": {
+                            "size": 687705,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/calathea_orbifolia_01/calathea_orbifolia_01_alpha_8k.png",
+                            "md5": "d242a65914a679a348db7eab25d3d0bb"
+                        },
+                        "textures/calathea_orbifolia_01_rough_8k.exr": {
+                            "size": 21159536,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/calathea_orbifolia_01/calathea_orbifolia_01_rough_8k.exr",
+                            "md5": "0d818f48c835263c69ea0a98931445be"
+                        },
+                        "textures/calathea_orbifolia_01_disp_8k.png": {
+                            "size": 48841505,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/calathea_orbifolia_01/calathea_orbifolia_01_disp_8k.png",
+                            "md5": "1f4e605cbdb8f696a8f89290613214ed"
+                        }
+                    },
+                    "size": 227748,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/8k/calathea_orbifolia_01/calathea_orbifolia_01_8k.blend",
+                    "md5": "21af59754ac640d91cd81c6b3ad70a4b"
+                }
+            },
+            "4k": {
+                "blend": {
+                    "include": {
+                        "textures/calathea_orbifolia_01_alpha_4k.png": {
+                            "size": 291595,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/calathea_orbifolia_01/calathea_orbifolia_01_alpha_4k.png",
+                            "md5": "16220a956c1656caf81b2818284073b5"
+                        },
+                        "textures/calathea_orbifolia_01_rough_4k.exr": {
+                            "size": 8487080,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/calathea_orbifolia_01/calathea_orbifolia_01_rough_4k.exr",
+                            "md5": "a0174bd0e38a1136d7b86b7394ed938c"
+                        },
+                        "textures/calathea_orbifolia_01_nor_gl_4k.exr": {
+                            "size": 20634319,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/calathea_orbifolia_01/calathea_orbifolia_01_nor_gl_4k.exr",
+                            "md5": "fbef3685e69ca1fbac0f3bf0b982045f"
+                        },
+                        "textures/calathea_orbifolia_01_diff_4k.jpg": {
+                            "size": 5516055,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/calathea_orbifolia_01/calathea_orbifolia_01_diff_4k.jpg",
+                            "md5": "d1ed7d51635ffeac851648d29cb10dbb"
+                        },
+                        "textures/calathea_orbifolia_01_disp_4k.png": {
+                            "size": 15554689,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/calathea_orbifolia_01/calathea_orbifolia_01_disp_4k.png",
+                            "md5": "1bf0a4c2f2520a9221330200d504b7f0"
+                        }
+                    },
+                    "size": 227825,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/4k/calathea_orbifolia_01/calathea_orbifolia_01_4k.blend",
+                    "md5": "3c8d737f6c9e2656fae70cbfd688192a"
+                }
+            },
+            "2k": {
+                "blend": {
+                    "include": {
+                        "textures/calathea_orbifolia_01_diff_2k.jpg": {
+                            "size": 1570805,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/calathea_orbifolia_01/calathea_orbifolia_01_diff_2k.jpg",
+                            "md5": "bcca322935beb8e5da625aad2bae1d52"
+                        },
+                        "textures/calathea_orbifolia_01_alpha_2k.png": {
+                            "size": 126232,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/calathea_orbifolia_01/calathea_orbifolia_01_alpha_2k.png",
+                            "md5": "d7a90ee6b3c4c6620078145d0ef4b1b9"
+                        },
+                        "textures/calathea_orbifolia_01_disp_2k.png": {
+                            "size": 4459347,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/calathea_orbifolia_01/calathea_orbifolia_01_disp_2k.png",
+                            "md5": "41dbe2e2b8895018691673212a5d5189"
+                        },
+                        "textures/calathea_orbifolia_01_rough_2k.exr": {
+                            "size": 2764107,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/calathea_orbifolia_01/calathea_orbifolia_01_rough_2k.exr",
+                            "md5": "7c2e4ffcd3351e8ec3e9fa26109f01b8"
+                        },
+                        "textures/calathea_orbifolia_01_nor_gl_2k.exr": {
+                            "size": 5263902,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/calathea_orbifolia_01/calathea_orbifolia_01_nor_gl_2k.exr",
+                            "md5": "d27388172d3d4940ebf214b9fcf6cede"
+                        }
+                    },
+                    "size": 228006,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/2k/calathea_orbifolia_01/calathea_orbifolia_01_2k.blend",
+                    "md5": "35cd4e38b6c1cbae60f89bac87355b0f"
+                }
+            },
+            "1k": {
+                "blend": {
+                    "include": {
+                        "textures/calathea_orbifolia_01_rough_1k.exr": {
+                            "size": 805944,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/calathea_orbifolia_01/calathea_orbifolia_01_rough_1k.exr",
+                            "md5": "cec1445fc9f9f47d53991aec035ebb55"
+                        },
+                        "textures/calathea_orbifolia_01_alpha_1k.png": {
+                            "size": 57184,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/calathea_orbifolia_01/calathea_orbifolia_01_alpha_1k.png",
+                            "md5": "e21846fecc6bd405e14ab26bc7e4695e"
+                        },
+                        "textures/calathea_orbifolia_01_diff_1k.jpg": {
+                            "size": 453006,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/calathea_orbifolia_01/calathea_orbifolia_01_diff_1k.jpg",
+                            "md5": "3b7321ec2f6eeb192cf68ce50f643029"
+                        },
+                        "textures/calathea_orbifolia_01_disp_1k.png": {
+                            "size": 1284473,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/calathea_orbifolia_01/calathea_orbifolia_01_disp_1k.png",
+                            "md5": "f3936cbd4497d3a758915d6fb551d866"
+                        },
+                        "textures/calathea_orbifolia_01_nor_gl_1k.exr": {
+                            "size": 1321044,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/calathea_orbifolia_01/calathea_orbifolia_01_nor_gl_1k.exr",
+                            "md5": "912a462ce46a3a67ab4282ce04823746"
+                        }
+                    },
+                    "size": 227826,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/1k/calathea_orbifolia_01/calathea_orbifolia_01_1k.blend",
+                    "md5": "85342147df7f65b5c2c45c2755ee5cee"
+                }
+            }
+        },
+        "gltf": {
+            "8k": {
+                "gltf": {
+                    "include": {
+                        "textures/calathea_orbifolia_01_diff_8k.jpg": {
+                            "size": 18231465,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/calathea_orbifolia_01/calathea_orbifolia_01_diff_8k.jpg",
+                            "md5": "6a3ae73f6e802e17c41ee3b3bfe38dd8"
+                        },
+                        "textures/calathea_orbifolia_01_nor_gl_8k.jpg": {
+                            "size": 32985034,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/calathea_orbifolia_01/calathea_orbifolia_01_nor_gl_8k.jpg",
+                            "md5": "7dcce6a6fd44827f9746bdcb6e35d272"
+                        },
+                        "textures/calathea_orbifolia_01_arm_8k.jpg": {
+                            "size": 15947958,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/calathea_orbifolia_01/calathea_orbifolia_01_arm_8k.jpg",
+                            "md5": "779391432b993234c96291d48627114b"
+                        },
+                        "calathea_orbifolia_01.bin": {
+                            "size": 1757352,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/calathea_orbifolia_01/calathea_orbifolia_01.bin",
+                            "md5": "348f1ddffa552931d3ec48b6a9d0120d"
+                        }
+                    },
+                    "size": 8749,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/calathea_orbifolia_01/calathea_orbifolia_01_8k.gltf",
+                    "md5": "60b7a8117fb9a1c8be309550251d7faa"
+                }
+            },
+            "4k": {
+                "gltf": {
+                    "include": {
+                        "textures/calathea_orbifolia_01_arm_4k.jpg": {
+                            "size": 4845340,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/calathea_orbifolia_01/calathea_orbifolia_01_arm_4k.jpg",
+                            "md5": "dd77160706e1612f19348d66472be3af"
+                        },
+                        "textures/calathea_orbifolia_01_nor_gl_4k.jpg": {
+                            "size": 9441151,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/calathea_orbifolia_01/calathea_orbifolia_01_nor_gl_4k.jpg",
+                            "md5": "bfbdb88ae137cbe25c8fe864a1bdc571"
+                        },
+                        "calathea_orbifolia_01.bin": {
+                            "size": 1757352,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/calathea_orbifolia_01/calathea_orbifolia_01.bin",
+                            "md5": "348f1ddffa552931d3ec48b6a9d0120d"
+                        },
+                        "textures/calathea_orbifolia_01_diff_4k.jpg": {
+                            "size": 5516055,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/calathea_orbifolia_01/calathea_orbifolia_01_diff_4k.jpg",
+                            "md5": "d1ed7d51635ffeac851648d29cb10dbb"
+                        }
+                    },
+                    "size": 8749,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/calathea_orbifolia_01/calathea_orbifolia_01_4k.gltf",
+                    "md5": "1f39953b95474184bfb4925f7d17f122"
+                }
+            },
+            "2k": {
+                "gltf": {
+                    "include": {
+                        "textures/calathea_orbifolia_01_diff_2k.jpg": {
+                            "size": 1570805,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/calathea_orbifolia_01/calathea_orbifolia_01_diff_2k.jpg",
+                            "md5": "bcca322935beb8e5da625aad2bae1d52"
+                        },
+                        "textures/calathea_orbifolia_01_arm_2k.jpg": {
+                            "size": 1425187,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/calathea_orbifolia_01/calathea_orbifolia_01_arm_2k.jpg",
+                            "md5": "839a860ea71ac126df454628ccf8b4d6"
+                        },
+                        "textures/calathea_orbifolia_01_nor_gl_2k.jpg": {
+                            "size": 2319304,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/calathea_orbifolia_01/calathea_orbifolia_01_nor_gl_2k.jpg",
+                            "md5": "a162690b2a63efd89a87f11851388c34"
+                        },
+                        "calathea_orbifolia_01.bin": {
+                            "size": 1757352,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/calathea_orbifolia_01/calathea_orbifolia_01.bin",
+                            "md5": "348f1ddffa552931d3ec48b6a9d0120d"
+                        }
+                    },
+                    "size": 8749,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/calathea_orbifolia_01/calathea_orbifolia_01_2k.gltf",
+                    "md5": "089ccdaabc41a5923f218efaddbb88b4"
+                }
+            },
+            "1k": {
+                "gltf": {
+                    "include": {
+                        "textures/calathea_orbifolia_01_arm_1k.jpg": {
+                            "size": 423266,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/calathea_orbifolia_01/calathea_orbifolia_01_arm_1k.jpg",
+                            "md5": "762377fd21435fd7e15c84c162b38365"
+                        },
+                        "textures/calathea_orbifolia_01_diff_1k.jpg": {
+                            "size": 453006,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/calathea_orbifolia_01/calathea_orbifolia_01_diff_1k.jpg",
+                            "md5": "3b7321ec2f6eeb192cf68ce50f643029"
+                        },
+                        "calathea_orbifolia_01.bin": {
+                            "size": 1757352,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/calathea_orbifolia_01/calathea_orbifolia_01.bin",
+                            "md5": "348f1ddffa552931d3ec48b6a9d0120d"
+                        },
+                        "textures/calathea_orbifolia_01_nor_gl_1k.jpg": {
+                            "size": 583620,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/calathea_orbifolia_01/calathea_orbifolia_01_nor_gl_1k.jpg",
+                            "md5": "2a2b269299d48b5552ca93171c05ca93"
+                        }
+                    },
+                    "size": 8749,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/calathea_orbifolia_01/calathea_orbifolia_01_1k.gltf",
+                    "md5": "80db825d26ca0dc6e20fc2c6eb942330"
+                }
+            }
+        },
+        "usd": {
+            "8k": {
+                "usd": {
+                    "include": {
+                        "textures/calathea_orbifolia_01_nor_gl_8k.exr": {
+                            "size": 63607916,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/calathea_orbifolia_01/calathea_orbifolia_01_nor_gl_8k.exr",
+                            "md5": "698da9c08005c736c6e04ed9797f69d0"
+                        },
+                        "textures/calathea_orbifolia_01_diff_8k.jpg": {
+                            "size": 18231465,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/calathea_orbifolia_01/calathea_orbifolia_01_diff_8k.jpg",
+                            "md5": "6a3ae73f6e802e17c41ee3b3bfe38dd8"
+                        },
+                        "textures/calathea_orbifolia_01_alpha_8k.png": {
+                            "size": 687705,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/calathea_orbifolia_01/calathea_orbifolia_01_alpha_8k.png",
+                            "md5": "d242a65914a679a348db7eab25d3d0bb"
+                        },
+                        "textures/calathea_orbifolia_01_rough_8k.exr": {
+                            "size": 21159536,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/calathea_orbifolia_01/calathea_orbifolia_01_rough_8k.exr",
+                            "md5": "0d818f48c835263c69ea0a98931445be"
+                        },
+                        "textures/calathea_orbifolia_01_disp_8k.png": {
+                            "size": 48841505,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/calathea_orbifolia_01/calathea_orbifolia_01_disp_8k.png",
+                            "md5": "1f4e605cbdb8f696a8f89290613214ed"
+                        }
+                    },
+                    "size": 12648242,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/8k/calathea_orbifolia_01/calathea_orbifolia_01_8k.usdc",
+                    "md5": "af96eab2bf22b584dee98bb2c8817e5d"
+                }
+            },
+            "4k": {
+                "usd": {
+                    "include": {
+                        "textures/calathea_orbifolia_01_alpha_4k.png": {
+                            "size": 291595,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/calathea_orbifolia_01/calathea_orbifolia_01_alpha_4k.png",
+                            "md5": "16220a956c1656caf81b2818284073b5"
+                        },
+                        "textures/calathea_orbifolia_01_rough_4k.exr": {
+                            "size": 8487080,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/calathea_orbifolia_01/calathea_orbifolia_01_rough_4k.exr",
+                            "md5": "a0174bd0e38a1136d7b86b7394ed938c"
+                        },
+                        "textures/calathea_orbifolia_01_nor_gl_4k.exr": {
+                            "size": 20634319,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/calathea_orbifolia_01/calathea_orbifolia_01_nor_gl_4k.exr",
+                            "md5": "fbef3685e69ca1fbac0f3bf0b982045f"
+                        },
+                        "textures/calathea_orbifolia_01_diff_4k.jpg": {
+                            "size": 5516055,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/calathea_orbifolia_01/calathea_orbifolia_01_diff_4k.jpg",
+                            "md5": "d1ed7d51635ffeac851648d29cb10dbb"
+                        },
+                        "textures/calathea_orbifolia_01_disp_4k.png": {
+                            "size": 15554689,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/calathea_orbifolia_01/calathea_orbifolia_01_disp_4k.png",
+                            "md5": "1bf0a4c2f2520a9221330200d504b7f0"
+                        }
+                    },
+                    "size": 12648242,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/4k/calathea_orbifolia_01/calathea_orbifolia_01_4k.usdc",
+                    "md5": "79decc34583b093281de2f2251f9954e"
+                }
+            },
+            "2k": {
+                "usd": {
+                    "include": {
+                        "textures/calathea_orbifolia_01_diff_2k.jpg": {
+                            "size": 1570805,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/calathea_orbifolia_01/calathea_orbifolia_01_diff_2k.jpg",
+                            "md5": "bcca322935beb8e5da625aad2bae1d52"
+                        },
+                        "textures/calathea_orbifolia_01_alpha_2k.png": {
+                            "size": 126232,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/calathea_orbifolia_01/calathea_orbifolia_01_alpha_2k.png",
+                            "md5": "d7a90ee6b3c4c6620078145d0ef4b1b9"
+                        },
+                        "textures/calathea_orbifolia_01_disp_2k.png": {
+                            "size": 4459347,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/calathea_orbifolia_01/calathea_orbifolia_01_disp_2k.png",
+                            "md5": "41dbe2e2b8895018691673212a5d5189"
+                        },
+                        "textures/calathea_orbifolia_01_rough_2k.exr": {
+                            "size": 2764107,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/calathea_orbifolia_01/calathea_orbifolia_01_rough_2k.exr",
+                            "md5": "7c2e4ffcd3351e8ec3e9fa26109f01b8"
+                        },
+                        "textures/calathea_orbifolia_01_nor_gl_2k.exr": {
+                            "size": 5263902,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/calathea_orbifolia_01/calathea_orbifolia_01_nor_gl_2k.exr",
+                            "md5": "d27388172d3d4940ebf214b9fcf6cede"
+                        }
+                    },
+                    "size": 12648242,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/2k/calathea_orbifolia_01/calathea_orbifolia_01_2k.usdc",
+                    "md5": "9bdc63d5914b6e942152995c924efcbd"
+                }
+            },
+            "1k": {
+                "usd": {
+                    "include": {
+                        "textures/calathea_orbifolia_01_rough_1k.exr": {
+                            "size": 805944,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/calathea_orbifolia_01/calathea_orbifolia_01_rough_1k.exr",
+                            "md5": "cec1445fc9f9f47d53991aec035ebb55"
+                        },
+                        "textures/calathea_orbifolia_01_alpha_1k.png": {
+                            "size": 57184,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/calathea_orbifolia_01/calathea_orbifolia_01_alpha_1k.png",
+                            "md5": "e21846fecc6bd405e14ab26bc7e4695e"
+                        },
+                        "textures/calathea_orbifolia_01_diff_1k.jpg": {
+                            "size": 453006,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/calathea_orbifolia_01/calathea_orbifolia_01_diff_1k.jpg",
+                            "md5": "3b7321ec2f6eeb192cf68ce50f643029"
+                        },
+                        "textures/calathea_orbifolia_01_disp_1k.png": {
+                            "size": 1284473,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/calathea_orbifolia_01/calathea_orbifolia_01_disp_1k.png",
+                            "md5": "f3936cbd4497d3a758915d6fb551d866"
+                        },
+                        "textures/calathea_orbifolia_01_nor_gl_1k.exr": {
+                            "size": 1321044,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/calathea_orbifolia_01/calathea_orbifolia_01_nor_gl_1k.exr",
+                            "md5": "912a462ce46a3a67ab4282ce04823746"
+                        }
+                    },
+                    "size": 12648242,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/calathea_orbifolia_01/calathea_orbifolia_01_1k.usdc",
+                    "md5": "3b9a11d2e2936be898c5af656403ead9"
+                }
+            }
+        },
+        "Alpha": {
+            "8k": {
+                "jpg": {
+                    "size": 1413502,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/calathea_orbifolia_01/calathea_orbifolia_01_alpha_8k.jpg",
+                    "md5": "c1b67c88b5a05842ce08280f2ee9539a"
+                },
+                "png": {
+                    "size": 687705,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/calathea_orbifolia_01/calathea_orbifolia_01_alpha_8k.png",
+                    "md5": "d242a65914a679a348db7eab25d3d0bb"
+                },
+                "exr": {
+                    "size": 849060,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/calathea_orbifolia_01/calathea_orbifolia_01_alpha_8k.exr",
+                    "md5": "4bac4f1640e43608a3f2cd994300a48f"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 513280,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/calathea_orbifolia_01/calathea_orbifolia_01_alpha_4k.jpg",
+                    "md5": "df2b97cf52bd065dbd98254971af6b6a"
+                },
+                "png": {
+                    "size": 291595,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/calathea_orbifolia_01/calathea_orbifolia_01_alpha_4k.png",
+                    "md5": "16220a956c1656caf81b2818284073b5"
+                },
+                "exr": {
+                    "size": 357241,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/calathea_orbifolia_01/calathea_orbifolia_01_alpha_4k.exr",
+                    "md5": "3cdf88b41299bb81950c279b724fb864"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 203731,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/calathea_orbifolia_01/calathea_orbifolia_01_alpha_2k.jpg",
+                    "md5": "1e894e24f42a2147aa703084dfcfb0f8"
+                },
+                "png": {
+                    "size": 126232,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/calathea_orbifolia_01/calathea_orbifolia_01_alpha_2k.png",
+                    "md5": "d7a90ee6b3c4c6620078145d0ef4b1b9"
+                },
+                "exr": {
+                    "size": 158837,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/calathea_orbifolia_01/calathea_orbifolia_01_alpha_2k.exr",
+                    "md5": "db22fd64c024cc7aa766b9984fb50007"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 90300,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/calathea_orbifolia_01/calathea_orbifolia_01_alpha_1k.jpg",
+                    "md5": "91a687d52d9a06793064bbb6177132f2"
+                },
+                "png": {
+                    "size": 57184,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/calathea_orbifolia_01/calathea_orbifolia_01_alpha_1k.png",
+                    "md5": "e21846fecc6bd405e14ab26bc7e4695e"
+                },
+                "exr": {
+                    "size": 73239,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/calathea_orbifolia_01/calathea_orbifolia_01_alpha_1k.exr",
+                    "md5": "543825e93057b8c8efba63c00a563095"
+                }
+            }
+        },
+        "arm": {
+            "8k": {
+                "jpg": {
+                    "size": 15947958,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/calathea_orbifolia_01/calathea_orbifolia_01_arm_8k.jpg",
+                    "md5": "779391432b993234c96291d48627114b"
+                },
+                "png": {
+                    "size": 28745952,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/calathea_orbifolia_01/calathea_orbifolia_01_arm_8k.png",
+                    "md5": "27125d87ad791310278df6a37a7036cc"
+                },
+                "exr": {
+                    "size": 29829589,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/calathea_orbifolia_01/calathea_orbifolia_01_arm_8k.exr",
+                    "md5": "ef9589441e611f132495f54923758d7b"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 4845340,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/calathea_orbifolia_01/calathea_orbifolia_01_arm_4k.jpg",
+                    "md5": "dd77160706e1612f19348d66472be3af"
+                },
+                "png": {
+                    "size": 9106540,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/calathea_orbifolia_01/calathea_orbifolia_01_arm_4k.png",
+                    "md5": "d22ffd14f321c4fab4bccf83bddb6dcc"
+                },
+                "exr": {
+                    "size": 9631552,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/calathea_orbifolia_01/calathea_orbifolia_01_arm_4k.exr",
+                    "md5": "5ef4d8b513b74554a3b42e240d6aab1c"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1425187,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/calathea_orbifolia_01/calathea_orbifolia_01_arm_2k.jpg",
+                    "md5": "839a860ea71ac126df454628ccf8b4d6"
+                },
+                "png": {
+                    "size": 2612261,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/calathea_orbifolia_01/calathea_orbifolia_01_arm_2k.png",
+                    "md5": "c95f2c3aa5a8247fd10218d12768aaf1"
+                },
+                "exr": {
+                    "size": 2887562,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/calathea_orbifolia_01/calathea_orbifolia_01_arm_2k.exr",
+                    "md5": "0b03853d4ec3094d28256c34857fbded"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 423266,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/calathea_orbifolia_01/calathea_orbifolia_01_arm_1k.jpg",
+                    "md5": "762377fd21435fd7e15c84c162b38365"
+                },
+                "png": {
+                    "size": 741030,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/calathea_orbifolia_01/calathea_orbifolia_01_arm_1k.png",
+                    "md5": "1bcf2b38ced7e2a5323bade4580df634"
+                },
+                "exr": {
+                    "size": 884640,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/calathea_orbifolia_01/calathea_orbifolia_01_arm_1k.exr",
+                    "md5": "40bb610dbb57baecfdb99908702bfaf9"
+                }
+            }
+        },
+        "fbx": {
+            "8k": {
+                "fbx": {
+                    "include": {
+                        "textures/calathea_orbifolia_01_nor_gl_8k.exr": {
+                            "size": 63607916,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/calathea_orbifolia_01/calathea_orbifolia_01_nor_gl_8k.exr",
+                            "md5": "698da9c08005c736c6e04ed9797f69d0"
+                        },
+                        "textures/calathea_orbifolia_01_diff_8k.jpg": {
+                            "size": 18231465,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/calathea_orbifolia_01/calathea_orbifolia_01_diff_8k.jpg",
+                            "md5": "6a3ae73f6e802e17c41ee3b3bfe38dd8"
+                        },
+                        "textures/calathea_orbifolia_01_alpha_8k.png": {
+                            "size": 687705,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/calathea_orbifolia_01/calathea_orbifolia_01_alpha_8k.png",
+                            "md5": "d242a65914a679a348db7eab25d3d0bb"
+                        },
+                        "textures/calathea_orbifolia_01_rough_8k.exr": {
+                            "size": 21159536,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/calathea_orbifolia_01/calathea_orbifolia_01_rough_8k.exr",
+                            "md5": "0d818f48c835263c69ea0a98931445be"
+                        },
+                        "textures/calathea_orbifolia_01_disp_8k.png": {
+                            "size": 48841505,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/calathea_orbifolia_01/calathea_orbifolia_01_disp_8k.png",
+                            "md5": "1f4e605cbdb8f696a8f89290613214ed"
+                        }
+                    },
+                    "size": 2073116,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/8k/calathea_orbifolia_01/calathea_orbifolia_01_8k.fbx",
+                    "md5": "448221b7d9843a868900691f99809633"
+                }
+            },
+            "4k": {
+                "fbx": {
+                    "include": {
+                        "textures/calathea_orbifolia_01_alpha_4k.png": {
+                            "size": 291595,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/calathea_orbifolia_01/calathea_orbifolia_01_alpha_4k.png",
+                            "md5": "16220a956c1656caf81b2818284073b5"
+                        },
+                        "textures/calathea_orbifolia_01_rough_4k.exr": {
+                            "size": 8487080,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/calathea_orbifolia_01/calathea_orbifolia_01_rough_4k.exr",
+                            "md5": "a0174bd0e38a1136d7b86b7394ed938c"
+                        },
+                        "textures/calathea_orbifolia_01_nor_gl_4k.exr": {
+                            "size": 20634319,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/calathea_orbifolia_01/calathea_orbifolia_01_nor_gl_4k.exr",
+                            "md5": "fbef3685e69ca1fbac0f3bf0b982045f"
+                        },
+                        "textures/calathea_orbifolia_01_diff_4k.jpg": {
+                            "size": 5516055,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/calathea_orbifolia_01/calathea_orbifolia_01_diff_4k.jpg",
+                            "md5": "d1ed7d51635ffeac851648d29cb10dbb"
+                        },
+                        "textures/calathea_orbifolia_01_disp_4k.png": {
+                            "size": 15554689,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/calathea_orbifolia_01/calathea_orbifolia_01_disp_4k.png",
+                            "md5": "1bf0a4c2f2520a9221330200d504b7f0"
+                        }
+                    },
+                    "size": 2073116,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/4k/calathea_orbifolia_01/calathea_orbifolia_01_4k.fbx",
+                    "md5": "c98b54149d25a73db0f0579e8eb86b8b"
+                }
+            },
+            "2k": {
+                "fbx": {
+                    "include": {
+                        "textures/calathea_orbifolia_01_diff_2k.jpg": {
+                            "size": 1570805,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/calathea_orbifolia_01/calathea_orbifolia_01_diff_2k.jpg",
+                            "md5": "bcca322935beb8e5da625aad2bae1d52"
+                        },
+                        "textures/calathea_orbifolia_01_alpha_2k.png": {
+                            "size": 126232,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/calathea_orbifolia_01/calathea_orbifolia_01_alpha_2k.png",
+                            "md5": "d7a90ee6b3c4c6620078145d0ef4b1b9"
+                        },
+                        "textures/calathea_orbifolia_01_disp_2k.png": {
+                            "size": 4459347,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/calathea_orbifolia_01/calathea_orbifolia_01_disp_2k.png",
+                            "md5": "41dbe2e2b8895018691673212a5d5189"
+                        },
+                        "textures/calathea_orbifolia_01_rough_2k.exr": {
+                            "size": 2764107,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/calathea_orbifolia_01/calathea_orbifolia_01_rough_2k.exr",
+                            "md5": "7c2e4ffcd3351e8ec3e9fa26109f01b8"
+                        },
+                        "textures/calathea_orbifolia_01_nor_gl_2k.exr": {
+                            "size": 5263902,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/calathea_orbifolia_01/calathea_orbifolia_01_nor_gl_2k.exr",
+                            "md5": "d27388172d3d4940ebf214b9fcf6cede"
+                        }
+                    },
+                    "size": 2073116,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/2k/calathea_orbifolia_01/calathea_orbifolia_01_2k.fbx",
+                    "md5": "456e16ff20f53bd4e77ce28748d94c17"
+                }
+            },
+            "1k": {
+                "fbx": {
+                    "include": {
+                        "textures/calathea_orbifolia_01_rough_1k.exr": {
+                            "size": 805944,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/calathea_orbifolia_01/calathea_orbifolia_01_rough_1k.exr",
+                            "md5": "cec1445fc9f9f47d53991aec035ebb55"
+                        },
+                        "textures/calathea_orbifolia_01_alpha_1k.png": {
+                            "size": 57184,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/calathea_orbifolia_01/calathea_orbifolia_01_alpha_1k.png",
+                            "md5": "e21846fecc6bd405e14ab26bc7e4695e"
+                        },
+                        "textures/calathea_orbifolia_01_diff_1k.jpg": {
+                            "size": 453006,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/calathea_orbifolia_01/calathea_orbifolia_01_diff_1k.jpg",
+                            "md5": "3b7321ec2f6eeb192cf68ce50f643029"
+                        },
+                        "textures/calathea_orbifolia_01_nor_gl_1k.exr": {
+                            "size": 1321044,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/calathea_orbifolia_01/calathea_orbifolia_01_nor_gl_1k.exr",
+                            "md5": "912a462ce46a3a67ab4282ce04823746"
+                        },
+                        "textures/calathea_orbifolia_01_disp_1k.png": {
+                            "size": 1284473,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/calathea_orbifolia_01/calathea_orbifolia_01_disp_1k.png",
+                            "md5": "f3936cbd4497d3a758915d6fb551d866"
+                        }
+                    },
+                    "size": 2073116,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/1k/calathea_orbifolia_01/calathea_orbifolia_01_1k.fbx",
+                    "md5": "e563279d5df92175d239efc859586426"
+                }
+            }
+        },
+        "Displacement": {
+            "8k": {
+                "jpg": {
+                    "size": 6801512,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/calathea_orbifolia_01/calathea_orbifolia_01_disp_8k.jpg",
+                    "md5": "c5d4a90fe228b2f59da6d42ebb783daa"
+                },
+                "png": {
+                    "size": 48841505,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/calathea_orbifolia_01/calathea_orbifolia_01_disp_8k.png",
+                    "md5": "1f4e605cbdb8f696a8f89290613214ed"
+                },
+                "exr": {
+                    "size": 23561918,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/calathea_orbifolia_01/calathea_orbifolia_01_disp_8k.exr",
+                    "md5": "45106ad5c805ed5ad9648e7a3110eb05"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 2161739,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/calathea_orbifolia_01/calathea_orbifolia_01_disp_4k.jpg",
+                    "md5": "aa8aa3ae00f72de50ab3e29e20286243"
+                },
+                "png": {
+                    "size": 15554689,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/calathea_orbifolia_01/calathea_orbifolia_01_disp_4k.png",
+                    "md5": "1bf0a4c2f2520a9221330200d504b7f0"
+                },
+                "exr": {
+                    "size": 7475441,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/calathea_orbifolia_01/calathea_orbifolia_01_disp_4k.exr",
+                    "md5": "7d52cd70bdc0fc20fbae4447ff32716a"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 670017,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/calathea_orbifolia_01/calathea_orbifolia_01_disp_2k.jpg",
+                    "md5": "6359b436183ccb6bb163ea325d9b0258"
+                },
+                "png": {
+                    "size": 4459347,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/calathea_orbifolia_01/calathea_orbifolia_01_disp_2k.png",
+                    "md5": "41dbe2e2b8895018691673212a5d5189"
+                },
+                "exr": {
+                    "size": 2297725,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/calathea_orbifolia_01/calathea_orbifolia_01_disp_2k.exr",
+                    "md5": "afc9b76c2f63144b4f54424fccbd856d"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 210462,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/calathea_orbifolia_01/calathea_orbifolia_01_disp_1k.jpg",
+                    "md5": "d14640058dfee673cfed346d747a7fbf"
+                },
+                "png": {
+                    "size": 1284473,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/calathea_orbifolia_01/calathea_orbifolia_01_disp_1k.png",
+                    "md5": "f3936cbd4497d3a758915d6fb551d866"
+                },
+                "exr": {
+                    "size": 721263,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/calathea_orbifolia_01/calathea_orbifolia_01_disp_1k.exr",
+                    "md5": "53ed0b31db006573aa98b920ab3fbf25"
+                }
+            }
+        },
+        "AO": {
+            "8k": {
+                "jpg": {
+                    "size": 7332832,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/calathea_orbifolia_01/calathea_orbifolia_01_ao_8k.jpg",
+                    "md5": "357b9c48e6e11e431de1357529b9650c"
+                },
+                "png": {
+                    "size": 11065595,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/calathea_orbifolia_01/calathea_orbifolia_01_ao_8k.png",
+                    "md5": "8fdd4cadf6833b13feda89f67ed9f16c"
+                },
+                "exr": {
+                    "size": 12874801,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/calathea_orbifolia_01/calathea_orbifolia_01_ao_8k.exr",
+                    "md5": "065cddf48fc95dde9f4ae0ee6ecd756b"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 2339097,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/calathea_orbifolia_01/calathea_orbifolia_01_ao_4k.jpg",
+                    "md5": "28d9708e0f64ce64ac8d14cf67f85997"
+                },
+                "png": {
+                    "size": 7432421,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/calathea_orbifolia_01/calathea_orbifolia_01_ao_4k.png",
+                    "md5": "f5f0f166d5f1dc5603bf418f1d0ec1e6"
+                },
+                "exr": {
+                    "size": 6627938,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/calathea_orbifolia_01/calathea_orbifolia_01_ao_4k.exr",
+                    "md5": "eeee92e9689b1bf77aaf340a1fd248cc"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 693836,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/calathea_orbifolia_01/calathea_orbifolia_01_ao_2k.jpg",
+                    "md5": "8155ded8988a9f1a261169f14635fae3"
+                },
+                "png": {
+                    "size": 3455815,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/calathea_orbifolia_01/calathea_orbifolia_01_ao_2k.png",
+                    "md5": "18f8168df94818978e63313f305070f5"
+                },
+                "exr": {
+                    "size": 2148263,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/calathea_orbifolia_01/calathea_orbifolia_01_ao_2k.exr",
+                    "md5": "ecb43c29225e797a0ba247a73824b105"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 191161,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/calathea_orbifolia_01/calathea_orbifolia_01_ao_1k.jpg",
+                    "md5": "acfdd81640efa47e273dfd50c96e1186"
+                },
+                "png": {
+                    "size": 1141440,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/calathea_orbifolia_01/calathea_orbifolia_01_ao_1k.png",
+                    "md5": "2bbba29990078df10de1d3e3cf98c87f"
+                },
+                "exr": {
+                    "size": 594849,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/calathea_orbifolia_01/calathea_orbifolia_01_ao_1k.exr",
+                    "md5": "50438aae0aef3fb4dfdae07c8ad0be91"
+                }
+            }
+        },
+        "Rough": {
+            "8k": {
+                "jpg": {
+                    "size": 14116223,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/calathea_orbifolia_01/calathea_orbifolia_01_rough_8k.jpg",
+                    "md5": "24615e46e2d8764d564b52f1efbec310"
+                },
+                "png": {
+                    "size": 18307516,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/calathea_orbifolia_01/calathea_orbifolia_01_rough_8k.png",
+                    "md5": "1c8f032fb2e277addb3ee9ae50e69aad"
+                },
+                "exr": {
+                    "size": 21159536,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/calathea_orbifolia_01/calathea_orbifolia_01_rough_8k.exr",
+                    "md5": "0d818f48c835263c69ea0a98931445be"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 4330335,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/calathea_orbifolia_01/calathea_orbifolia_01_rough_4k.jpg",
+                    "md5": "e7a29e09f88da502e5d37f04f2c9ab53"
+                },
+                "png": {
+                    "size": 11705904,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/calathea_orbifolia_01/calathea_orbifolia_01_rough_4k.png",
+                    "md5": "e3948d50b35141a04d5e29df3dfb9838"
+                },
+                "exr": {
+                    "size": 8487080,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/calathea_orbifolia_01/calathea_orbifolia_01_rough_4k.exr",
+                    "md5": "a0174bd0e38a1136d7b86b7394ed938c"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1247339,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/calathea_orbifolia_01/calathea_orbifolia_01_rough_2k.jpg",
+                    "md5": "5afaa72c1624401cde5851ecaae50777"
+                },
+                "png": {
+                    "size": 4109403,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/calathea_orbifolia_01/calathea_orbifolia_01_rough_2k.png",
+                    "md5": "039a78feab2458e5471c26801d1dab87"
+                },
+                "exr": {
+                    "size": 2764107,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/calathea_orbifolia_01/calathea_orbifolia_01_rough_2k.exr",
+                    "md5": "7c2e4ffcd3351e8ec3e9fa26109f01b8"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 362667,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/calathea_orbifolia_01/calathea_orbifolia_01_rough_1k.jpg",
+                    "md5": "cbab6a5b386187e6cb9f609cd8d82410"
+                },
+                "png": {
+                    "size": 1252622,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/calathea_orbifolia_01/calathea_orbifolia_01_rough_1k.png",
+                    "md5": "e52ecfc7004d3182504897fcfb0f1613"
+                },
+                "exr": {
+                    "size": 805944,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/calathea_orbifolia_01/calathea_orbifolia_01_rough_1k.exr",
+                    "md5": "cec1445fc9f9f47d53991aec035ebb55"
+                }
+            }
+        }
+    }
+}

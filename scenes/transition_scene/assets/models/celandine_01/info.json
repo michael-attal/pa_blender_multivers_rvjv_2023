@@ -1,0 +1,1074 @@
+{
+    "name": "Celandine 01",
+    "categories": [
+        "nature",
+        "plants",
+        "ground cover",
+        "flowers"
+    ],
+    "type": 2,
+    "authors": {
+        "Rob Tuytel": "Photography",
+        "Rico Cilliers": "modeling"
+    },
+    "info": null,
+    "tags": [
+        "field",
+        "nature",
+        "green",
+        "shrub",
+        "plant",
+        "outdoor",
+        "leaf",
+        "botany",
+        "leaves",
+        "meadow",
+        "floral",
+        "flower",
+        "small",
+        "natural",
+        "celandine"
+    ],
+    "date_published": 1665100800,
+    "lods": true,
+    "files_hash": "83de3350dbd3765736b87b0af09245f64dd38f58",
+    "sponsors": [
+        "78546118"
+    ],
+    "download_count": 33566,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/celandine_01.png?width=256&height=256",
+    "files": {
+        "Diffuse": {
+            "8k": {
+                "jpg": {
+                    "size": 15386800,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/celandine_01/celandine_01_diff_8k.jpg",
+                    "md5": "cf6adfe75565854c02398e66e0fd50dd"
+                },
+                "png": {
+                    "size": 76046949,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/celandine_01/celandine_01_diff_8k.png",
+                    "md5": "c31cc7382159a0602371d10278ec69ec"
+                },
+                "exr": {
+                    "size": 32796066,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/celandine_01/celandine_01_diff_8k.exr",
+                    "md5": "3d5b0481043d1651489461cb30a93850"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 5061452,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/celandine_01/celandine_01_diff_4k.jpg",
+                    "md5": "663e1b136b8fd0f8b37feb2079c43827"
+                },
+                "png": {
+                    "size": 30677262,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/celandine_01/celandine_01_diff_4k.png",
+                    "md5": "e37c7bc797fe002304c4736af54cb51a"
+                },
+                "exr": {
+                    "size": 10443547,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/celandine_01/celandine_01_diff_4k.exr",
+                    "md5": "f06cb8f03dcc2ed517b9a41cac15a420"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1539887,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/celandine_01/celandine_01_diff_2k.jpg",
+                    "md5": "a65c3147d497f14b5b821d4cdf61989e"
+                },
+                "png": {
+                    "size": 10478344,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/celandine_01/celandine_01_diff_2k.png",
+                    "md5": "399ab284d45fbd86095b372062e2520f"
+                },
+                "exr": {
+                    "size": 3208868,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/celandine_01/celandine_01_diff_2k.exr",
+                    "md5": "7fe99566033737f811c129da9d503b41"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 465167,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/celandine_01/celandine_01_diff_1k.jpg",
+                    "md5": "eb04339cfbeb2519752556525fe576d2"
+                },
+                "png": {
+                    "size": 3335158,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/celandine_01/celandine_01_diff_1k.png",
+                    "md5": "ad969a09a8deee4e2d320fec2f55bf53"
+                },
+                "exr": {
+                    "size": 982162,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/celandine_01/celandine_01_diff_1k.exr",
+                    "md5": "70634f0af9de85d9721e5bf90026452a"
+                }
+            }
+        },
+        "nor_dx": {
+            "8k": {
+                "jpg": {
+                    "size": 13014725,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/celandine_01/celandine_01_nor_dx_8k.jpg",
+                    "md5": "0e2e8efc06869aa046cfd70ead0448f0"
+                },
+                "png": {
+                    "size": 95861477,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/celandine_01/celandine_01_nor_dx_8k.png",
+                    "md5": "e32fc8943dbd83dff78afb91f8ec989b"
+                },
+                "exr": {
+                    "size": 25379164,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/celandine_01/celandine_01_nor_dx_8k.exr",
+                    "md5": "9b2dae07725cec916409dde13058c3c7"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 4220630,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/celandine_01/celandine_01_nor_dx_4k.jpg",
+                    "md5": "c2b0600f97e10d6a65d90077036ca424"
+                },
+                "png": {
+                    "size": 32500826,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/celandine_01/celandine_01_nor_dx_4k.png",
+                    "md5": "bfe2d6e11734c2a8f5bc2f0d9b0c66fd"
+                },
+                "exr": {
+                    "size": 8638269,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/celandine_01/celandine_01_nor_dx_4k.exr",
+                    "md5": "0ff31189f6fe7d314f6f373f8b3b4008"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1326449,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/celandine_01/celandine_01_nor_dx_2k.jpg",
+                    "md5": "585fc85a3fd721cb58e86cd58b98a65d"
+                },
+                "png": {
+                    "size": 10578319,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/celandine_01/celandine_01_nor_dx_2k.png",
+                    "md5": "8496573724d3959378f115d707e9aa1d"
+                },
+                "exr": {
+                    "size": 2787304,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/celandine_01/celandine_01_nor_dx_2k.exr",
+                    "md5": "9ac0880ff545a922c1d7c63b31c39f0d"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 415364,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/celandine_01/celandine_01_nor_dx_1k.jpg",
+                    "md5": "3f63c59aed885841294d84e6b690292f"
+                },
+                "png": {
+                    "size": 3270045,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/celandine_01/celandine_01_nor_dx_1k.png",
+                    "md5": "3a735f8afe2aac7229a6f41f29178621"
+                },
+                "exr": {
+                    "size": 878741,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/celandine_01/celandine_01_nor_dx_1k.exr",
+                    "md5": "70ecbf2de3ff2f22ce3f4add521c520c"
+                }
+            }
+        },
+        "nor_gl": {
+            "8k": {
+                "jpg": {
+                    "size": 12918200,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/celandine_01/celandine_01_nor_gl_8k.jpg",
+                    "md5": "e4732370b5fee91c0f45af3e58db75c0"
+                },
+                "png": {
+                    "size": 95870554,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/celandine_01/celandine_01_nor_gl_8k.png",
+                    "md5": "e0f387007ef184bfef8800c0daf79469"
+                },
+                "exr": {
+                    "size": 25230574,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/celandine_01/celandine_01_nor_gl_8k.exr",
+                    "md5": "49c2ac03084f14f496544ad52d566341"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 4188548,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/celandine_01/celandine_01_nor_gl_4k.jpg",
+                    "md5": "5deb2391620438c7cf64f742584c7a25"
+                },
+                "png": {
+                    "size": 32509757,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/celandine_01/celandine_01_nor_gl_4k.png",
+                    "md5": "d15420f6be9213dc3558e4e7ad8729f5"
+                },
+                "exr": {
+                    "size": 8590761,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/celandine_01/celandine_01_nor_gl_4k.exr",
+                    "md5": "60b463003844695ab5aa346949d88a90"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1315343,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/celandine_01/celandine_01_nor_gl_2k.jpg",
+                    "md5": "5ae8b1636091678941458b3c41f37736"
+                },
+                "png": {
+                    "size": 10584920,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/celandine_01/celandine_01_nor_gl_2k.png",
+                    "md5": "a253c5bb8b465924d270d7b9b82b6e08"
+                },
+                "exr": {
+                    "size": 2762757,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/celandine_01/celandine_01_nor_gl_2k.exr",
+                    "md5": "032ab564005bcc60b60b0868f980f1ad"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 411689,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/celandine_01/celandine_01_nor_gl_1k.jpg",
+                    "md5": "56ac72dd0d8658111df901e717772257"
+                },
+                "png": {
+                    "size": 3271830,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/celandine_01/celandine_01_nor_gl_1k.png",
+                    "md5": "b1785c378e90f12a54b1d8af675c071d"
+                },
+                "exr": {
+                    "size": 871782,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/celandine_01/celandine_01_nor_gl_1k.exr",
+                    "md5": "7867718985efe33a5c63e36fe7542ccd"
+                }
+            }
+        },
+        "blend": {
+            "8k": {
+                "blend": {
+                    "include": {
+                        "textures/celandine_01_nor_gl_8k.exr": {
+                            "size": 25230574,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/celandine_01/celandine_01_nor_gl_8k.exr",
+                            "md5": "49c2ac03084f14f496544ad52d566341"
+                        },
+                        "textures/celandine_01_alpha_8k.png": {
+                            "size": 2783219,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/celandine_01/celandine_01_alpha_8k.png",
+                            "md5": "958e8eb9a8ed9f166c3912810d8d5835"
+                        },
+                        "textures/celandine_01_rough_8k.exr": {
+                            "size": 14304724,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/celandine_01/celandine_01_rough_8k.exr",
+                            "md5": "2f15ef2e9bf10459f40159d4e2db56ca"
+                        },
+                        "textures/celandine_01_diff_8k.jpg": {
+                            "size": 15386800,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/celandine_01/celandine_01_diff_8k.jpg",
+                            "md5": "cf6adfe75565854c02398e66e0fd50dd"
+                        }
+                    },
+                    "size": 427037,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/8k/celandine_01/celandine_01_8k.blend",
+                    "md5": "1b3a06fb403cf25f27c8badfa5db6d2d"
+                }
+            },
+            "4k": {
+                "blend": {
+                    "include": {
+                        "textures/celandine_01_alpha_4k.png": {
+                            "size": 1386316,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/celandine_01/celandine_01_alpha_4k.png",
+                            "md5": "7d86a9196fa57c8b4750945ac59fe8be"
+                        },
+                        "textures/celandine_01_nor_gl_4k.exr": {
+                            "size": 8590761,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/celandine_01/celandine_01_nor_gl_4k.exr",
+                            "md5": "60b463003844695ab5aa346949d88a90"
+                        },
+                        "textures/celandine_01_rough_4k.exr": {
+                            "size": 5584702,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/celandine_01/celandine_01_rough_4k.exr",
+                            "md5": "e5073e5a29b89a913995ca5d5cd3a75b"
+                        },
+                        "textures/celandine_01_diff_4k.jpg": {
+                            "size": 5061452,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/celandine_01/celandine_01_diff_4k.jpg",
+                            "md5": "663e1b136b8fd0f8b37feb2079c43827"
+                        }
+                    },
+                    "size": 427413,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/4k/celandine_01/celandine_01_4k.blend",
+                    "md5": "3678d77a359b0d46d1612fb13f333aa8"
+                }
+            },
+            "2k": {
+                "blend": {
+                    "include": {
+                        "textures/celandine_01_nor_gl_2k.exr": {
+                            "size": 2762757,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/celandine_01/celandine_01_nor_gl_2k.exr",
+                            "md5": "032ab564005bcc60b60b0868f980f1ad"
+                        },
+                        "textures/celandine_01_rough_2k.exr": {
+                            "size": 2058059,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/celandine_01/celandine_01_rough_2k.exr",
+                            "md5": "21c45af8c2dcba47abf2b4072b0c40a0"
+                        },
+                        "textures/celandine_01_diff_2k.jpg": {
+                            "size": 1539887,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/celandine_01/celandine_01_diff_2k.jpg",
+                            "md5": "a65c3147d497f14b5b821d4cdf61989e"
+                        },
+                        "textures/celandine_01_alpha_2k.png": {
+                            "size": 631632,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/celandine_01/celandine_01_alpha_2k.png",
+                            "md5": "dca9089dccb52142964e8c83d9575556"
+                        }
+                    },
+                    "size": 426774,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/2k/celandine_01/celandine_01_2k.blend",
+                    "md5": "604be10dbdf15a81603741b27df60d78"
+                }
+            },
+            "1k": {
+                "blend": {
+                    "include": {
+                        "textures/celandine_01_diff_1k.jpg": {
+                            "size": 465167,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/celandine_01/celandine_01_diff_1k.jpg",
+                            "md5": "eb04339cfbeb2519752556525fe576d2"
+                        },
+                        "textures/celandine_01_alpha_1k.png": {
+                            "size": 296519,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/celandine_01/celandine_01_alpha_1k.png",
+                            "md5": "2f134f46f19c1916f92b75d751c0e43b"
+                        },
+                        "textures/celandine_01_rough_1k.exr": {
+                            "size": 668813,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/celandine_01/celandine_01_rough_1k.exr",
+                            "md5": "721ba3ac63c71781ea1e8956c60796d2"
+                        },
+                        "textures/celandine_01_nor_gl_1k.exr": {
+                            "size": 871782,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/celandine_01/celandine_01_nor_gl_1k.exr",
+                            "md5": "7867718985efe33a5c63e36fe7542ccd"
+                        }
+                    },
+                    "size": 426802,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/1k/celandine_01/celandine_01_1k.blend",
+                    "md5": "6d467d3dd85874efdbe554fd44fc4477"
+                }
+            }
+        },
+        "gltf": {
+            "8k": {
+                "gltf": {
+                    "include": {
+                        "textures/celandine_01_nor_gl_8k.jpg": {
+                            "size": 12918200,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/celandine_01/celandine_01_nor_gl_8k.jpg",
+                            "md5": "e4732370b5fee91c0f45af3e58db75c0"
+                        },
+                        "textures/celandine_01_arm_8k.jpg": {
+                            "size": 12448291,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/celandine_01/celandine_01_arm_8k.jpg",
+                            "md5": "903dac428c75af6c18d5a1dfe494e041"
+                        },
+                        "celandine_01.bin": {
+                            "size": 325764,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/celandine_01/celandine_01.bin",
+                            "md5": "66aab5dcee2b6c9095d58ad73e558d3a"
+                        },
+                        "textures/celandine_01_diff_8k.jpg": {
+                            "size": 15386800,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/celandine_01/celandine_01_diff_8k.jpg",
+                            "md5": "cf6adfe75565854c02398e66e0fd50dd"
+                        }
+                    },
+                    "size": 2745,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/celandine_01/celandine_01_8k.gltf",
+                    "md5": "57e94bccac8aab97b36e5e52d66f826f"
+                }
+            },
+            "4k": {
+                "gltf": {
+                    "include": {
+                        "textures/celandine_01_arm_4k.jpg": {
+                            "size": 4071378,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/celandine_01/celandine_01_arm_4k.jpg",
+                            "md5": "c30f781e8f816d4aef4ba589bbe002db"
+                        },
+                        "celandine_01.bin": {
+                            "size": 325764,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/celandine_01/celandine_01.bin",
+                            "md5": "66aab5dcee2b6c9095d58ad73e558d3a"
+                        },
+                        "textures/celandine_01_diff_4k.jpg": {
+                            "size": 5061452,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/celandine_01/celandine_01_diff_4k.jpg",
+                            "md5": "663e1b136b8fd0f8b37feb2079c43827"
+                        },
+                        "textures/celandine_01_nor_gl_4k.jpg": {
+                            "size": 4188548,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/celandine_01/celandine_01_nor_gl_4k.jpg",
+                            "md5": "5deb2391620438c7cf64f742584c7a25"
+                        }
+                    },
+                    "size": 2745,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/celandine_01/celandine_01_4k.gltf",
+                    "md5": "2d3c2f4b3d4db2426774d41ee5d256ec"
+                }
+            },
+            "2k": {
+                "gltf": {
+                    "include": {
+                        "textures/celandine_01_diff_2k.jpg": {
+                            "size": 1539887,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/celandine_01/celandine_01_diff_2k.jpg",
+                            "md5": "a65c3147d497f14b5b821d4cdf61989e"
+                        },
+                        "textures/celandine_01_nor_gl_2k.jpg": {
+                            "size": 1315343,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/celandine_01/celandine_01_nor_gl_2k.jpg",
+                            "md5": "5ae8b1636091678941458b3c41f37736"
+                        },
+                        "textures/celandine_01_arm_2k.jpg": {
+                            "size": 1249831,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/celandine_01/celandine_01_arm_2k.jpg",
+                            "md5": "f27b10d38f05ed9f61815be6cf4bca32"
+                        },
+                        "celandine_01.bin": {
+                            "size": 325764,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/celandine_01/celandine_01.bin",
+                            "md5": "66aab5dcee2b6c9095d58ad73e558d3a"
+                        }
+                    },
+                    "size": 2745,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/celandine_01/celandine_01_2k.gltf",
+                    "md5": "83cad46ffe9b0de8e2b15fafae54d2b4"
+                }
+            },
+            "1k": {
+                "gltf": {
+                    "include": {
+                        "textures/celandine_01_diff_1k.jpg": {
+                            "size": 465167,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/celandine_01/celandine_01_diff_1k.jpg",
+                            "md5": "eb04339cfbeb2519752556525fe576d2"
+                        },
+                        "textures/celandine_01_arm_1k.jpg": {
+                            "size": 382115,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/celandine_01/celandine_01_arm_1k.jpg",
+                            "md5": "843af9ad08b59f91d895946ec56c92e9"
+                        },
+                        "textures/celandine_01_nor_gl_1k.jpg": {
+                            "size": 411689,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/celandine_01/celandine_01_nor_gl_1k.jpg",
+                            "md5": "56ac72dd0d8658111df901e717772257"
+                        },
+                        "celandine_01.bin": {
+                            "size": 325764,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/celandine_01/celandine_01.bin",
+                            "md5": "66aab5dcee2b6c9095d58ad73e558d3a"
+                        }
+                    },
+                    "size": 2745,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/celandine_01/celandine_01_1k.gltf",
+                    "md5": "34f4d5e28e99d79e6233140aa223ed89"
+                }
+            }
+        },
+        "usd": {
+            "8k": {
+                "usd": {
+                    "include": {
+                        "textures/celandine_01_nor_gl_8k.exr": {
+                            "size": 25230574,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/celandine_01/celandine_01_nor_gl_8k.exr",
+                            "md5": "49c2ac03084f14f496544ad52d566341"
+                        },
+                        "textures/celandine_01_alpha_8k.png": {
+                            "size": 2783219,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/celandine_01/celandine_01_alpha_8k.png",
+                            "md5": "958e8eb9a8ed9f166c3912810d8d5835"
+                        },
+                        "textures/celandine_01_rough_8k.exr": {
+                            "size": 14304724,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/celandine_01/celandine_01_rough_8k.exr",
+                            "md5": "2f15ef2e9bf10459f40159d4e2db56ca"
+                        },
+                        "textures/celandine_01_diff_8k.jpg": {
+                            "size": 15386800,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/celandine_01/celandine_01_diff_8k.jpg",
+                            "md5": "cf6adfe75565854c02398e66e0fd50dd"
+                        }
+                    },
+                    "size": 48265,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/8k/celandine_01/celandine_01_8k.usdc",
+                    "md5": "55331dbb8e5faa3097f35167867f8705"
+                }
+            },
+            "4k": {
+                "usd": {
+                    "include": {
+                        "textures/celandine_01_alpha_4k.png": {
+                            "size": 1386316,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/celandine_01/celandine_01_alpha_4k.png",
+                            "md5": "7d86a9196fa57c8b4750945ac59fe8be"
+                        },
+                        "textures/celandine_01_nor_gl_4k.exr": {
+                            "size": 8590761,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/celandine_01/celandine_01_nor_gl_4k.exr",
+                            "md5": "60b463003844695ab5aa346949d88a90"
+                        },
+                        "textures/celandine_01_rough_4k.exr": {
+                            "size": 5584702,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/celandine_01/celandine_01_rough_4k.exr",
+                            "md5": "e5073e5a29b89a913995ca5d5cd3a75b"
+                        },
+                        "textures/celandine_01_diff_4k.jpg": {
+                            "size": 5061452,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/celandine_01/celandine_01_diff_4k.jpg",
+                            "md5": "663e1b136b8fd0f8b37feb2079c43827"
+                        }
+                    },
+                    "size": 48265,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/4k/celandine_01/celandine_01_4k.usdc",
+                    "md5": "55331dbb8e5faa3097f35167867f8705"
+                }
+            },
+            "2k": {
+                "usd": {
+                    "include": {
+                        "textures/celandine_01_nor_gl_2k.exr": {
+                            "size": 2762757,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/celandine_01/celandine_01_nor_gl_2k.exr",
+                            "md5": "032ab564005bcc60b60b0868f980f1ad"
+                        },
+                        "textures/celandine_01_rough_2k.exr": {
+                            "size": 2058059,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/celandine_01/celandine_01_rough_2k.exr",
+                            "md5": "21c45af8c2dcba47abf2b4072b0c40a0"
+                        },
+                        "textures/celandine_01_diff_2k.jpg": {
+                            "size": 1539887,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/celandine_01/celandine_01_diff_2k.jpg",
+                            "md5": "a65c3147d497f14b5b821d4cdf61989e"
+                        },
+                        "textures/celandine_01_alpha_2k.png": {
+                            "size": 631632,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/celandine_01/celandine_01_alpha_2k.png",
+                            "md5": "dca9089dccb52142964e8c83d9575556"
+                        }
+                    },
+                    "size": 48265,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/2k/celandine_01/celandine_01_2k.usdc",
+                    "md5": "55331dbb8e5faa3097f35167867f8705"
+                }
+            },
+            "1k": {
+                "usd": {
+                    "include": {
+                        "textures/celandine_01_diff_1k.jpg": {
+                            "size": 465167,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/celandine_01/celandine_01_diff_1k.jpg",
+                            "md5": "eb04339cfbeb2519752556525fe576d2"
+                        },
+                        "textures/celandine_01_alpha_1k.png": {
+                            "size": 296519,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/celandine_01/celandine_01_alpha_1k.png",
+                            "md5": "2f134f46f19c1916f92b75d751c0e43b"
+                        },
+                        "textures/celandine_01_rough_1k.exr": {
+                            "size": 668813,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/celandine_01/celandine_01_rough_1k.exr",
+                            "md5": "721ba3ac63c71781ea1e8956c60796d2"
+                        },
+                        "textures/celandine_01_nor_gl_1k.exr": {
+                            "size": 871782,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/celandine_01/celandine_01_nor_gl_1k.exr",
+                            "md5": "7867718985efe33a5c63e36fe7542ccd"
+                        }
+                    },
+                    "size": 48265,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/celandine_01/celandine_01_1k.usdc",
+                    "md5": "55331dbb8e5faa3097f35167867f8705"
+                }
+            }
+        },
+        "Alpha": {
+            "8k": {
+                "jpg": {
+                    "size": 4673362,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/celandine_01/celandine_01_alpha_8k.jpg",
+                    "md5": "9501275c29e186633bf1a92fe035f719"
+                },
+                "png": {
+                    "size": 2783219,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/celandine_01/celandine_01_alpha_8k.png",
+                    "md5": "958e8eb9a8ed9f166c3912810d8d5835"
+                },
+                "exr": {
+                    "size": 3070359,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/celandine_01/celandine_01_alpha_8k.exr",
+                    "md5": "648a4e2032502646882bb2133e0c13fd"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 1672624,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/celandine_01/celandine_01_alpha_4k.jpg",
+                    "md5": "37c2f452a96a537b9252ba03ed1f90d8"
+                },
+                "png": {
+                    "size": 1386316,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/celandine_01/celandine_01_alpha_4k.png",
+                    "md5": "7d86a9196fa57c8b4750945ac59fe8be"
+                },
+                "exr": {
+                    "size": 1425981,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/celandine_01/celandine_01_alpha_4k.exr",
+                    "md5": "e91744950fa5cc510fc50c0cb5190c8c"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 638461,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/celandine_01/celandine_01_alpha_2k.jpg",
+                    "md5": "a783fd7c58b5cc39885d5927d89ed8b3"
+                },
+                "png": {
+                    "size": 631632,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/celandine_01/celandine_01_alpha_2k.png",
+                    "md5": "dca9089dccb52142964e8c83d9575556"
+                },
+                "exr": {
+                    "size": 658341,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/celandine_01/celandine_01_alpha_2k.exr",
+                    "md5": "a315accbd95e7199b86f3f409428cabc"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 259497,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/celandine_01/celandine_01_alpha_1k.jpg",
+                    "md5": "ed4cbd528bccb5923fa9ba69034ee779"
+                },
+                "png": {
+                    "size": 296519,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/celandine_01/celandine_01_alpha_1k.png",
+                    "md5": "2f134f46f19c1916f92b75d751c0e43b"
+                },
+                "exr": {
+                    "size": 281369,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/celandine_01/celandine_01_alpha_1k.exr",
+                    "md5": "2a97da1067316e091281b39ea1c99037"
+                }
+            }
+        },
+        "fbx": {
+            "8k": {
+                "fbx": {
+                    "include": {
+                        "textures/celandine_01_nor_gl_8k.exr": {
+                            "size": 25230574,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/celandine_01/celandine_01_nor_gl_8k.exr",
+                            "md5": "49c2ac03084f14f496544ad52d566341"
+                        },
+                        "textures/celandine_01_rough_8k.exr": {
+                            "size": 14304724,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/celandine_01/celandine_01_rough_8k.exr",
+                            "md5": "2f15ef2e9bf10459f40159d4e2db56ca"
+                        },
+                        "textures/celandine_01_alpha_8k.png": {
+                            "size": 2783219,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/celandine_01/celandine_01_alpha_8k.png",
+                            "md5": "958e8eb9a8ed9f166c3912810d8d5835"
+                        },
+                        "textures/celandine_01_diff_8k.jpg": {
+                            "size": 15386800,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/celandine_01/celandine_01_diff_8k.jpg",
+                            "md5": "cf6adfe75565854c02398e66e0fd50dd"
+                        }
+                    },
+                    "size": 36572,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/8k/celandine_01/celandine_01_8k.fbx",
+                    "md5": "60d8df5a753abcb8607b8e4e4a7d8c9f"
+                }
+            },
+            "4k": {
+                "fbx": {
+                    "include": {
+                        "textures/celandine_01_alpha_4k.png": {
+                            "size": 1386316,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/celandine_01/celandine_01_alpha_4k.png",
+                            "md5": "7d86a9196fa57c8b4750945ac59fe8be"
+                        },
+                        "textures/celandine_01_rough_4k.exr": {
+                            "size": 5584702,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/celandine_01/celandine_01_rough_4k.exr",
+                            "md5": "e5073e5a29b89a913995ca5d5cd3a75b"
+                        },
+                        "textures/celandine_01_nor_gl_4k.exr": {
+                            "size": 8590761,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/celandine_01/celandine_01_nor_gl_4k.exr",
+                            "md5": "60b463003844695ab5aa346949d88a90"
+                        },
+                        "textures/celandine_01_diff_4k.jpg": {
+                            "size": 5061452,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/celandine_01/celandine_01_diff_4k.jpg",
+                            "md5": "663e1b136b8fd0f8b37feb2079c43827"
+                        }
+                    },
+                    "size": 36572,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/4k/celandine_01/celandine_01_4k.fbx",
+                    "md5": "521e38ce728a6bd988869e789d9e1d8f"
+                }
+            },
+            "2k": {
+                "fbx": {
+                    "include": {
+                        "textures/celandine_01_nor_gl_2k.exr": {
+                            "size": 2762757,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/celandine_01/celandine_01_nor_gl_2k.exr",
+                            "md5": "032ab564005bcc60b60b0868f980f1ad"
+                        },
+                        "textures/celandine_01_rough_2k.exr": {
+                            "size": 2058059,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/celandine_01/celandine_01_rough_2k.exr",
+                            "md5": "21c45af8c2dcba47abf2b4072b0c40a0"
+                        },
+                        "textures/celandine_01_diff_2k.jpg": {
+                            "size": 1539887,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/celandine_01/celandine_01_diff_2k.jpg",
+                            "md5": "a65c3147d497f14b5b821d4cdf61989e"
+                        },
+                        "textures/celandine_01_alpha_2k.png": {
+                            "size": 631632,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/celandine_01/celandine_01_alpha_2k.png",
+                            "md5": "dca9089dccb52142964e8c83d9575556"
+                        }
+                    },
+                    "size": 36572,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/2k/celandine_01/celandine_01_2k.fbx",
+                    "md5": "8a5eee0554df7a33ceb5eb872ae25e7b"
+                }
+            },
+            "1k": {
+                "fbx": {
+                    "include": {
+                        "textures/celandine_01_diff_1k.jpg": {
+                            "size": 465167,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/celandine_01/celandine_01_diff_1k.jpg",
+                            "md5": "eb04339cfbeb2519752556525fe576d2"
+                        },
+                        "textures/celandine_01_alpha_1k.png": {
+                            "size": 296519,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/celandine_01/celandine_01_alpha_1k.png",
+                            "md5": "2f134f46f19c1916f92b75d751c0e43b"
+                        },
+                        "textures/celandine_01_rough_1k.exr": {
+                            "size": 668813,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/celandine_01/celandine_01_rough_1k.exr",
+                            "md5": "721ba3ac63c71781ea1e8956c60796d2"
+                        },
+                        "textures/celandine_01_nor_gl_1k.exr": {
+                            "size": 871782,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/celandine_01/celandine_01_nor_gl_1k.exr",
+                            "md5": "7867718985efe33a5c63e36fe7542ccd"
+                        }
+                    },
+                    "size": 36572,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/1k/celandine_01/celandine_01_1k.fbx",
+                    "md5": "5656ef12d0e0e961b2a03591f89bb029"
+                }
+            }
+        },
+        "arm": {
+            "8k": {
+                "jpg": {
+                    "size": 12448291,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/celandine_01/celandine_01_arm_8k.jpg",
+                    "md5": "903dac428c75af6c18d5a1dfe494e041"
+                },
+                "png": {
+                    "size": 14110145,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/celandine_01/celandine_01_arm_8k.png",
+                    "md5": "684a61689ec246fc3718cfa05d334fc3"
+                },
+                "exr": {
+                    "size": 23888159,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/celandine_01/celandine_01_arm_8k.exr",
+                    "md5": "c92c8bed257587e260b5a6d29b8315ef"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 4071378,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/celandine_01/celandine_01_arm_4k.jpg",
+                    "md5": "c30f781e8f816d4aef4ba589bbe002db"
+                },
+                "png": {
+                    "size": 5206996,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/celandine_01/celandine_01_arm_4k.png",
+                    "md5": "64b244f463901f56a9ec76950e0ddd9c"
+                },
+                "exr": {
+                    "size": 8366975,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/celandine_01/celandine_01_arm_4k.exr",
+                    "md5": "0a9e9972a7b51764812c88956f727e92"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1249831,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/celandine_01/celandine_01_arm_2k.jpg",
+                    "md5": "f27b10d38f05ed9f61815be6cf4bca32"
+                },
+                "png": {
+                    "size": 1680399,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/celandine_01/celandine_01_arm_2k.png",
+                    "md5": "63deb07c3bed7802a93e8c6afaf6954b"
+                },
+                "exr": {
+                    "size": 2614401,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/celandine_01/celandine_01_arm_2k.exr",
+                    "md5": "70f3889b2a75717f108d66f4259d79f2"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 382115,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/celandine_01/celandine_01_arm_1k.jpg",
+                    "md5": "843af9ad08b59f91d895946ec56c92e9"
+                },
+                "png": {
+                    "size": 527316,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/celandine_01/celandine_01_arm_1k.png",
+                    "md5": "862f4705fb5513e8b6c6ed4381d89213"
+                },
+                "exr": {
+                    "size": 799504,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/celandine_01/celandine_01_arm_1k.exr",
+                    "md5": "06f95d39b8df846dee3369c2ce2b4d88"
+                }
+            }
+        },
+        "Displacement": {
+            "8k": {
+                "jpg": {
+                    "size": 3852553,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/celandine_01/celandine_01_disp_8k.jpg",
+                    "md5": "81571c8b59d9dd61dc0ba9c9113a5a1d"
+                },
+                "png": {
+                    "size": 21905332,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/celandine_01/celandine_01_disp_8k.png",
+                    "md5": "8495d02ad0c3edc3d2895712212bd668"
+                },
+                "exr": {
+                    "size": 9466780,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/celandine_01/celandine_01_disp_8k.exr",
+                    "md5": "3b8e975620abe37ca268b1bc82af6952"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 1358657,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/celandine_01/celandine_01_disp_4k.jpg",
+                    "md5": "fbb2937138623a17ddaa9367ef48a2ac"
+                },
+                "png": {
+                    "size": 8540913,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/celandine_01/celandine_01_disp_4k.png",
+                    "md5": "927c2c3477582fa4a82cf7eb2fbec001"
+                },
+                "exr": {
+                    "size": 3655200,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/celandine_01/celandine_01_disp_4k.exr",
+                    "md5": "988a6dce622c4b359c4f0b942485fcb6"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 472033,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/celandine_01/celandine_01_disp_2k.jpg",
+                    "md5": "e8ff62fb02f46df1268fee4c1ad22ce3"
+                },
+                "png": {
+                    "size": 2962876,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/celandine_01/celandine_01_disp_2k.png",
+                    "md5": "a3cf262d8185ea1a1aaf87000d2c5817"
+                },
+                "exr": {
+                    "size": 1375328,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/celandine_01/celandine_01_disp_2k.exr",
+                    "md5": "045c80895da3d444532ba46f125e47b7"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 165954,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/celandine_01/celandine_01_disp_1k.jpg",
+                    "md5": "8e21c1a81f7e7f4f0e115f3833de876d"
+                },
+                "png": {
+                    "size": 986514,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/celandine_01/celandine_01_disp_1k.png",
+                    "md5": "ade0db10d854b225a32783be9408825b"
+                },
+                "exr": {
+                    "size": 480401,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/celandine_01/celandine_01_disp_1k.exr",
+                    "md5": "631a7b2c97ecb146532574587085bedd"
+                }
+            }
+        },
+        "Rough": {
+            "8k": {
+                "jpg": {
+                    "size": 10791130,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/celandine_01/celandine_01_rough_8k.jpg",
+                    "md5": "e90ff26075755eac92fa7337fa068ae0"
+                },
+                "png": {
+                    "size": 12716094,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/celandine_01/celandine_01_rough_8k.png",
+                    "md5": "1844edc718096eb60a4fc077240a451e"
+                },
+                "exr": {
+                    "size": 14304724,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/celandine_01/celandine_01_rough_8k.exr",
+                    "md5": "2f15ef2e9bf10459f40159d4e2db56ca"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 3495453,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/celandine_01/celandine_01_rough_4k.jpg",
+                    "md5": "03cdf8d0b27cee1f765d495d71f258a3"
+                },
+                "png": {
+                    "size": 7466731,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/celandine_01/celandine_01_rough_4k.png",
+                    "md5": "e71f7b9f1cdb81ff72ed240f585734b6"
+                },
+                "exr": {
+                    "size": 5584702,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/celandine_01/celandine_01_rough_4k.exr",
+                    "md5": "e5073e5a29b89a913995ca5d5cd3a75b"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1046229,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/celandine_01/celandine_01_rough_2k.jpg",
+                    "md5": "3e714a6c221075254028718c7cc83586"
+                },
+                "png": {
+                    "size": 2838787,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/celandine_01/celandine_01_rough_2k.png",
+                    "md5": "c373083db3d8e139da118a1425a42899"
+                },
+                "exr": {
+                    "size": 2058059,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/celandine_01/celandine_01_rough_2k.exr",
+                    "md5": "21c45af8c2dcba47abf2b4072b0c40a0"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 306279,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/celandine_01/celandine_01_rough_1k.jpg",
+                    "md5": "656005e837deb4479e70757a59708689"
+                },
+                "png": {
+                    "size": 1016468,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/celandine_01/celandine_01_rough_1k.png",
+                    "md5": "ea30edb07c7b500b287138373eb61cb2"
+                },
+                "exr": {
+                    "size": 668813,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/celandine_01/celandine_01_rough_1k.exr",
+                    "md5": "721ba3ac63c71781ea1e8956c60796d2"
+                }
+            }
+        },
+        "AO": {
+            "8k": {
+                "jpg": {
+                    "size": 2946308,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/celandine_01/celandine_01_ao_8k.jpg",
+                    "md5": "829ceca22bdbf628846d9c77e7b649ec"
+                },
+                "png": {
+                    "size": 2068947,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/celandine_01/celandine_01_ao_8k.png",
+                    "md5": "b0dd14dec6a01fd07d6e8c3e78c49b59"
+                },
+                "exr": {
+                    "size": 2337212,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/celandine_01/celandine_01_ao_8k.exr",
+                    "md5": "5a644723288aceea1ba6e147e2ea0796"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 1102774,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/celandine_01/celandine_01_ao_4k.jpg",
+                    "md5": "cf601c29c844705b06f46452d3fb669b"
+                },
+                "png": {
+                    "size": 1500236,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/celandine_01/celandine_01_ao_4k.png",
+                    "md5": "6f622418d4c074e3dca6ad457e1e8b60"
+                },
+                "exr": {
+                    "size": 1341523,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/celandine_01/celandine_01_ao_4k.exr",
+                    "md5": "0ee7d819eb1eef66e89e87b93bba0e15"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 417956,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/celandine_01/celandine_01_ao_2k.jpg",
+                    "md5": "38fcbed17239be6d89e5d8d031028ad4"
+                },
+                "png": {
+                    "size": 924809,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/celandine_01/celandine_01_ao_2k.png",
+                    "md5": "3ba50c88047ac4c2e70209ef73d764e2"
+                },
+                "exr": {
+                    "size": 723434,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/celandine_01/celandine_01_ao_2k.exr",
+                    "md5": "d90fcaebc2aa741c921f5fce8994fa76"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 153005,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/celandine_01/celandine_01_ao_1k.jpg",
+                    "md5": "44b0203c1379ead740551099e9ea2d37"
+                },
+                "png": {
+                    "size": 504071,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/celandine_01/celandine_01_ao_1k.png",
+                    "md5": "e44918370efdca7ebf79d7e9adab8b88"
+                },
+                "exr": {
+                    "size": 301951,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/celandine_01/celandine_01_ao_1k.exr",
+                    "md5": "18f6a275a7749e96746ba42386c64a52"
+                }
+            }
+        }
+    }
+}
