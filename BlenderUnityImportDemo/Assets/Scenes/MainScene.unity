@@ -4202,12 +4202,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: -10}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 1, z: 1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 2016835718}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &968331669 stripped
 GameObject:
@@ -6942,11 +6942,17 @@ PrefabInstance:
     - {fileID: 65702495048144492, guid: 6917248eee5633f4ea625a89d16a3c09, type: 3}
     - {fileID: -8700617353114198275, guid: 6917248eee5633f4ea625a89d16a3c09, type: 3}
     - {fileID: 1365014829529655172, guid: 6917248eee5633f4ea625a89d16a3c09, type: 3}
-    m_AddedGameObjects: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 6917248eee5633f4ea625a89d16a3c09, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 963194228}
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 6917248eee5633f4ea625a89d16a3c09, type: 3}
       insertIndex: -1
       addedObject: {fileID: 2016835716}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 6917248eee5633f4ea625a89d16a3c09, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2016835717}
     - targetCorrespondingSourceObject: {fileID: 4446760728526858943, guid: 6917248eee5633f4ea625a89d16a3c09, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1831691569}
@@ -7845,8 +7851,33 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 80
   m_CollisionDetection: 0
+--- !u!114 &2016835717
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2016835715}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eff1895bc6c4de8428986bea93de140d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  body: {fileID: 2016835716}
+  speed: 10
+  jumpForce: 10
+  timeToForce: 1
+  sensitivity: 100
+  minYRotation: -70
+  maxYRotation: 90
+  firstPersonCamera: {fileID: 963194228}
+--- !u!4 &2016835718 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 6917248eee5633f4ea625a89d16a3c09, type: 3}
+  m_PrefabInstance: {fileID: 1787005173}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2030758294 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 9088081252823424421, guid: 1a7b8147410770a41bb7d0ad3da3afb7, type: 3}
@@ -8364,7 +8395,6 @@ MeshCollider:
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
-  - {fileID: 963194228}
   - {fileID: 705507995}
   - {fileID: 411839476}
   - {fileID: 1787005173}
