@@ -2,3 +2,4 @@ scenes/transition_scene/assets/materials/world_environment_texture/rustig_koppie
 scenes/transition_scene/transition_scene.blend filter=lfs diff=lfs merge=lfs -text
 scenes/transition_scene/transition_scene.blend1 filter=lfs diff=lfs merge=lfs -text
 /scenes/transition_scene/assets/textures/rustig_koppie_puresky_8k.hdr filter=lfs diff=lfs merge=lfs -text
+render_cycles.avi filter=lfs diff=lfs merge=lfs -text
