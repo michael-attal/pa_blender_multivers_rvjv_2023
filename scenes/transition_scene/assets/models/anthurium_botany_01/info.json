@@ -1,0 +1,1125 @@
+{
+    "date_published": 1651017600,
+    "name": "Anthurium Botany 01",
+    "type": 2,
+    "authors": {
+        "Rob Tuytel": "scanning",
+        "Rico Cilliers": "modeling"
+    },
+    "files_hash": "0741e4a06313f578c964154d5075c6ec4b752c3a",
+    "categories": [
+        "plants",
+        "nature",
+        "collection: the_shed",
+        "collection: smugglers_cove"
+    ],
+    "tags": [
+        "nature",
+        "bush",
+        "leaf",
+        "shrub",
+        "leaves",
+        "forest",
+        "plant",
+        "green",
+        "jungle",
+        "outdoor",
+        "botany"
+    ],
+    "download_count": 24998,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/anthurium_botany_01.png?width=256&height=256",
+    "files": {
+        "Diffuse": {
+            "8k": {
+                "jpg": {
+                    "size": 19478201,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/anthurium_botany_01/anthurium_botany_01_diff_8k.jpg",
+                    "md5": "2de514b83593f423bd6fb9550252c0d3"
+                },
+                "png": {
+                    "size": 115599768,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/anthurium_botany_01/anthurium_botany_01_diff_8k.png",
+                    "md5": "806defd04cf0de38a748358c59d6deea"
+                },
+                "exr": {
+                    "size": 52532160,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/anthurium_botany_01/anthurium_botany_01_diff_8k.exr",
+                    "md5": "a73317847e9230934250be77172fe4bb"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 5474717,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/anthurium_botany_01/anthurium_botany_01_diff_4k.jpg",
+                    "md5": "c2250d3323459a10128298e397d6148c"
+                },
+                "png": {
+                    "size": 41288240,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/anthurium_botany_01/anthurium_botany_01_diff_4k.png",
+                    "md5": "12117f9150b293c20a3bb6785df499dd"
+                },
+                "exr": {
+                    "size": 12946045,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/anthurium_botany_01/anthurium_botany_01_diff_4k.exr",
+                    "md5": "83b088a5f29b87a63c63581467f1861e"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1557594,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/anthurium_botany_01/anthurium_botany_01_diff_2k.jpg",
+                    "md5": "5291513766026a7c975ac869d4af2f1e"
+                },
+                "png": {
+                    "size": 12880006,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/anthurium_botany_01/anthurium_botany_01_diff_2k.png",
+                    "md5": "bf17b93504281c55ddbb589b262aa8b5"
+                },
+                "exr": {
+                    "size": 3547933,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/anthurium_botany_01/anthurium_botany_01_diff_2k.exr",
+                    "md5": "068b92248789f46fc7711675c915622b"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 447673,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/anthurium_botany_01/anthurium_botany_01_diff_1k.jpg",
+                    "md5": "3267764fe167ff9f9e6e7d025721abbd"
+                },
+                "png": {
+                    "size": 3603186,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/anthurium_botany_01/anthurium_botany_01_diff_1k.png",
+                    "md5": "bbed1a7406898f68192056fcf6c1f9f2"
+                },
+                "exr": {
+                    "size": 1036554,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/anthurium_botany_01/anthurium_botany_01_diff_1k.exr",
+                    "md5": "65b539407259cafd2c8c6218e67f8f8d"
+                }
+            }
+        },
+        "nor_dx": {
+            "8k": {
+                "jpg": {
+                    "size": 25212489,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/anthurium_botany_01/anthurium_botany_01_nor_dx_8k.jpg",
+                    "md5": "5a9149e6fdd7f0f4568fa6166da1cca5"
+                },
+                "png": {
+                    "size": 173913546,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/anthurium_botany_01/anthurium_botany_01_nor_dx_8k.png",
+                    "md5": "5665bd818aeefad93f91d1e7e3a77e60"
+                },
+                "exr": {
+                    "size": 49256036,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/anthurium_botany_01/anthurium_botany_01_nor_dx_8k.exr",
+                    "md5": "aac825dfc7f3f321f51be26ecaeff3b9"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 7445817,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/anthurium_botany_01/anthurium_botany_01_nor_dx_4k.jpg",
+                    "md5": "1db5e306e59b55097e8784643624b933"
+                },
+                "png": {
+                    "size": 52215355,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/anthurium_botany_01/anthurium_botany_01_nor_dx_4k.png",
+                    "md5": "8d835df9c8349d76cd55fa42b52873bf"
+                },
+                "exr": {
+                    "size": 16240583,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/anthurium_botany_01/anthurium_botany_01_nor_dx_4k.exr",
+                    "md5": "cd59856845d97b80fc1caaec8b571787"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1896307,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/anthurium_botany_01/anthurium_botany_01_nor_dx_2k.jpg",
+                    "md5": "8928cb5810dacf6e67bd421a60e46508"
+                },
+                "png": {
+                    "size": 14883269,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/anthurium_botany_01/anthurium_botany_01_nor_dx_2k.png",
+                    "md5": "daa81848e1e4b807a7e2eb35fe6a9a01"
+                },
+                "exr": {
+                    "size": 4304965,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/anthurium_botany_01/anthurium_botany_01_nor_dx_2k.exr",
+                    "md5": "cda470bed0bf10c588a793c3109ab750"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 496294,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/anthurium_botany_01/anthurium_botany_01_nor_dx_1k.jpg",
+                    "md5": "3d532289140da79e49845fbed77cf082"
+                },
+                "png": {
+                    "size": 3989383,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/anthurium_botany_01/anthurium_botany_01_nor_dx_1k.png",
+                    "md5": "736e58882e9b9b38ed89e4e8f8b8f029"
+                },
+                "exr": {
+                    "size": 1113972,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/anthurium_botany_01/anthurium_botany_01_nor_dx_1k.exr",
+                    "md5": "946b683eb14cd5d19fae2a47b6968d8d"
+                }
+            }
+        },
+        "nor_gl": {
+            "8k": {
+                "jpg": {
+                    "size": 25115530,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/anthurium_botany_01/anthurium_botany_01_nor_gl_8k.jpg",
+                    "md5": "4e35918d4a1f758df3814411cc847bc6"
+                },
+                "png": {
+                    "size": 173915897,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/anthurium_botany_01/anthurium_botany_01_nor_gl_8k.png",
+                    "md5": "b04d93b61a8449ddad82e5cd87427747"
+                },
+                "exr": {
+                    "size": 49239867,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/anthurium_botany_01/anthurium_botany_01_nor_gl_8k.exr",
+                    "md5": "81448babb1136a70083219f63cd965ab"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 7430098,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/anthurium_botany_01/anthurium_botany_01_nor_gl_4k.jpg",
+                    "md5": "fb9e5be5ebf4dcd96ddd43e76dd46bf0"
+                },
+                "png": {
+                    "size": 52207407,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/anthurium_botany_01/anthurium_botany_01_nor_gl_4k.png",
+                    "md5": "65ba03900c7ea602bac13f2377a07e94"
+                },
+                "exr": {
+                    "size": 16245090,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/anthurium_botany_01/anthurium_botany_01_nor_gl_4k.exr",
+                    "md5": "6dd0b8986561482969b4f406610612b4"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1895476,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/anthurium_botany_01/anthurium_botany_01_nor_gl_2k.jpg",
+                    "md5": "bb8eaa732f6c697c7b865687bbaa9ab3"
+                },
+                "png": {
+                    "size": 14878890,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/anthurium_botany_01/anthurium_botany_01_nor_gl_2k.png",
+                    "md5": "a472450f10b1ef71600a879be447e682"
+                },
+                "exr": {
+                    "size": 4308455,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/anthurium_botany_01/anthurium_botany_01_nor_gl_2k.exr",
+                    "md5": "04afbc30e9fcc552436007d6136a2d26"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 495974,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/anthurium_botany_01/anthurium_botany_01_nor_gl_1k.jpg",
+                    "md5": "2bd294f196e68f9a6e004f8382005ff4"
+                },
+                "png": {
+                    "size": 3988122,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/anthurium_botany_01/anthurium_botany_01_nor_gl_1k.png",
+                    "md5": "62fbc8fd565ef68931d5c44509a43a42"
+                },
+                "exr": {
+                    "size": 1115390,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/anthurium_botany_01/anthurium_botany_01_nor_gl_1k.exr",
+                    "md5": "5e2fbdd6a25d7a354aea5e692aa2a6a4"
+                }
+            }
+        },
+        "blend": {
+            "8k": {
+                "blend": {
+                    "include": {
+                        "textures/anthurium_botany_01_diff_8k.jpg": {
+                            "size": 19478201,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/anthurium_botany_01/anthurium_botany_01_diff_8k.jpg",
+                            "md5": "2de514b83593f423bd6fb9550252c0d3"
+                        },
+                        "textures/anthurium_botany_01_disp_8k.png": {
+                            "size": 56137364,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/anthurium_botany_01/anthurium_botany_01_disp_8k.png",
+                            "md5": "841907e58ebee72cf67232a6c19b759d"
+                        },
+                        "textures/anthurium_botany_01_alpha_8k.png": {
+                            "size": 351179,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/anthurium_botany_01/anthurium_botany_01_alpha_8k.png",
+                            "md5": "ec5d561ad04fcf96b81b9d3fdf04fc4a"
+                        },
+                        "textures/anthurium_botany_01_rough_8k.exr": {
+                            "size": 26300458,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/anthurium_botany_01/anthurium_botany_01_rough_8k.exr",
+                            "md5": "ea86207c134db174f5da403526e53275"
+                        },
+                        "textures/anthurium_botany_01_nor_gl_8k.exr": {
+                            "size": 49239867,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/anthurium_botany_01/anthurium_botany_01_nor_gl_8k.exr",
+                            "md5": "81448babb1136a70083219f63cd965ab"
+                        }
+                    },
+                    "size": 221167,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/8k/anthurium_botany_01/anthurium_botany_01_8k.blend",
+                    "md5": "383fbd36fe57527512a8ddf61e66244e"
+                }
+            },
+            "4k": {
+                "blend": {
+                    "include": {
+                        "textures/anthurium_botany_01_alpha_4k.png": {
+                            "size": 184485,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/anthurium_botany_01/anthurium_botany_01_alpha_4k.png",
+                            "md5": "227644630031ef4bcae2b444a4eb0724"
+                        },
+                        "textures/anthurium_botany_01_diff_4k.jpg": {
+                            "size": 5474717,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/anthurium_botany_01/anthurium_botany_01_diff_4k.jpg",
+                            "md5": "c2250d3323459a10128298e397d6148c"
+                        },
+                        "textures/anthurium_botany_01_disp_4k.png": {
+                            "size": 14340453,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/anthurium_botany_01/anthurium_botany_01_disp_4k.png",
+                            "md5": "6aa620d06504f70768f1a2d2091f9be3"
+                        },
+                        "textures/anthurium_botany_01_rough_4k.exr": {
+                            "size": 8847357,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/anthurium_botany_01/anthurium_botany_01_rough_4k.exr",
+                            "md5": "cde65643162cce2e7d1b10a2309e7017"
+                        },
+                        "textures/anthurium_botany_01_nor_gl_4k.exr": {
+                            "size": 16245090,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/anthurium_botany_01/anthurium_botany_01_nor_gl_4k.exr",
+                            "md5": "6dd0b8986561482969b4f406610612b4"
+                        }
+                    },
+                    "size": 221294,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/4k/anthurium_botany_01/anthurium_botany_01_4k.blend",
+                    "md5": "2f2fd3520fadf412ff5af44d1ed89201"
+                }
+            },
+            "2k": {
+                "blend": {
+                    "include": {
+                        "textures/anthurium_botany_01_nor_gl_2k.exr": {
+                            "size": 4308455,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/anthurium_botany_01/anthurium_botany_01_nor_gl_2k.exr",
+                            "md5": "04afbc30e9fcc552436007d6136a2d26"
+                        },
+                        "textures/anthurium_botany_01_rough_2k.exr": {
+                            "size": 3087763,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/anthurium_botany_01/anthurium_botany_01_rough_2k.exr",
+                            "md5": "097c2256b7272dcc50d6fcd458eab720"
+                        },
+                        "textures/anthurium_botany_01_disp_2k.png": {
+                            "size": 4257553,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/anthurium_botany_01/anthurium_botany_01_disp_2k.png",
+                            "md5": "f53ad733ae93e83cd82193415af0b2cf"
+                        },
+                        "textures/anthurium_botany_01_alpha_2k.png": {
+                            "size": 95881,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/anthurium_botany_01/anthurium_botany_01_alpha_2k.png",
+                            "md5": "2a14dde9381b983427adcba195c7d6c6"
+                        },
+                        "textures/anthurium_botany_01_diff_2k.jpg": {
+                            "size": 1557594,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/anthurium_botany_01/anthurium_botany_01_diff_2k.jpg",
+                            "md5": "5291513766026a7c975ac869d4af2f1e"
+                        }
+                    },
+                    "size": 221210,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/2k/anthurium_botany_01/anthurium_botany_01_2k.blend",
+                    "md5": "064f7ac1d3127551fbe776e8c1cb3671"
+                }
+            },
+            "1k": {
+                "blend": {
+                    "include": {
+                        "textures/anthurium_botany_01_alpha_1k.png": {
+                            "size": 45560,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/anthurium_botany_01/anthurium_botany_01_alpha_1k.png",
+                            "md5": "2eeff7ab974784e30a9efa30abea8f3d"
+                        },
+                        "textures/anthurium_botany_01_rough_1k.exr": {
+                            "size": 937796,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/anthurium_botany_01/anthurium_botany_01_rough_1k.exr",
+                            "md5": "b3605aab064a5bb72c424374802f8ad8"
+                        },
+                        "textures/anthurium_botany_01_nor_gl_1k.exr": {
+                            "size": 1115390,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/anthurium_botany_01/anthurium_botany_01_nor_gl_1k.exr",
+                            "md5": "5e2fbdd6a25d7a354aea5e692aa2a6a4"
+                        },
+                        "textures/anthurium_botany_01_disp_1k.png": {
+                            "size": 1201449,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/anthurium_botany_01/anthurium_botany_01_disp_1k.png",
+                            "md5": "d0398f8fb11b475093bac759e5eb1aa5"
+                        },
+                        "textures/anthurium_botany_01_diff_1k.jpg": {
+                            "size": 447673,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/anthurium_botany_01/anthurium_botany_01_diff_1k.jpg",
+                            "md5": "3267764fe167ff9f9e6e7d025721abbd"
+                        }
+                    },
+                    "size": 221418,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/1k/anthurium_botany_01/anthurium_botany_01_1k.blend",
+                    "md5": "b46eb46209e7048968c9ed90c3a801e7"
+                }
+            }
+        },
+        "gltf": {
+            "8k": {
+                "gltf": {
+                    "include": {
+                        "textures/anthurium_botany_01_diff_8k.jpg": {
+                            "size": 19478201,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/anthurium_botany_01/anthurium_botany_01_diff_8k.jpg",
+                            "md5": "2de514b83593f423bd6fb9550252c0d3"
+                        },
+                        "textures/anthurium_botany_01_arm_8k.jpg": {
+                            "size": 22338798,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/anthurium_botany_01/anthurium_botany_01_arm_8k.jpg",
+                            "md5": "b2115127f999a5a3cebca85c5f6a9d25"
+                        },
+                        "anthurium_botany_01.bin": {
+                            "size": 1744256,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/anthurium_botany_01/anthurium_botany_01.bin",
+                            "md5": "cf2a3012afed3e9036e99c7418c3d21b"
+                        },
+                        "textures/anthurium_botany_01_nor_gl_8k.jpg": {
+                            "size": 25115530,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/anthurium_botany_01/anthurium_botany_01_nor_gl_8k.jpg",
+                            "md5": "4e35918d4a1f758df3814411cc847bc6"
+                        }
+                    },
+                    "size": 9829,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/anthurium_botany_01/anthurium_botany_01_8k.gltf",
+                    "md5": "9a37a7ad9cd9714b096d83fde32707fb"
+                }
+            },
+            "4k": {
+                "gltf": {
+                    "include": {
+                        "textures/anthurium_botany_01_diff_4k.jpg": {
+                            "size": 5474717,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/anthurium_botany_01/anthurium_botany_01_diff_4k.jpg",
+                            "md5": "c2250d3323459a10128298e397d6148c"
+                        },
+                        "textures/anthurium_botany_01_arm_4k.jpg": {
+                            "size": 6223568,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/anthurium_botany_01/anthurium_botany_01_arm_4k.jpg",
+                            "md5": "7c5a92cb83bd7bab288634ddfa0d1d62"
+                        },
+                        "anthurium_botany_01.bin": {
+                            "size": 1744256,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/anthurium_botany_01/anthurium_botany_01.bin",
+                            "md5": "cf2a3012afed3e9036e99c7418c3d21b"
+                        },
+                        "textures/anthurium_botany_01_nor_gl_4k.jpg": {
+                            "size": 7430098,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/anthurium_botany_01/anthurium_botany_01_nor_gl_4k.jpg",
+                            "md5": "fb9e5be5ebf4dcd96ddd43e76dd46bf0"
+                        }
+                    },
+                    "size": 9829,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/anthurium_botany_01/anthurium_botany_01_4k.gltf",
+                    "md5": "a63da0858eba5fb6a34394aa71bd83e3"
+                }
+            },
+            "2k": {
+                "gltf": {
+                    "include": {
+                        "textures/anthurium_botany_01_nor_gl_2k.jpg": {
+                            "size": 1895476,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/anthurium_botany_01/anthurium_botany_01_nor_gl_2k.jpg",
+                            "md5": "bb8eaa732f6c697c7b865687bbaa9ab3"
+                        },
+                        "anthurium_botany_01.bin": {
+                            "size": 1744256,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/anthurium_botany_01/anthurium_botany_01.bin",
+                            "md5": "cf2a3012afed3e9036e99c7418c3d21b"
+                        },
+                        "textures/anthurium_botany_01_arm_2k.jpg": {
+                            "size": 1848607,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/anthurium_botany_01/anthurium_botany_01_arm_2k.jpg",
+                            "md5": "8ea1c0fbf09bc54396c6b8903e56517a"
+                        },
+                        "textures/anthurium_botany_01_diff_2k.jpg": {
+                            "size": 1557594,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/anthurium_botany_01/anthurium_botany_01_diff_2k.jpg",
+                            "md5": "5291513766026a7c975ac869d4af2f1e"
+                        }
+                    },
+                    "size": 9829,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/anthurium_botany_01/anthurium_botany_01_2k.gltf",
+                    "md5": "945e8d6d2aa785b360f34ea7e7616ae8"
+                }
+            },
+            "1k": {
+                "gltf": {
+                    "include": {
+                        "textures/anthurium_botany_01_nor_gl_1k.jpg": {
+                            "size": 495974,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/anthurium_botany_01/anthurium_botany_01_nor_gl_1k.jpg",
+                            "md5": "2bd294f196e68f9a6e004f8382005ff4"
+                        },
+                        "textures/anthurium_botany_01_arm_1k.jpg": {
+                            "size": 548291,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/anthurium_botany_01/anthurium_botany_01_arm_1k.jpg",
+                            "md5": "e03e3b9db4c9d9a3c2a6dd84e3a34d8f"
+                        },
+                        "anthurium_botany_01.bin": {
+                            "size": 1744256,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/anthurium_botany_01/anthurium_botany_01.bin",
+                            "md5": "cf2a3012afed3e9036e99c7418c3d21b"
+                        },
+                        "textures/anthurium_botany_01_diff_1k.jpg": {
+                            "size": 447673,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/anthurium_botany_01/anthurium_botany_01_diff_1k.jpg",
+                            "md5": "3267764fe167ff9f9e6e7d025721abbd"
+                        }
+                    },
+                    "size": 9829,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/anthurium_botany_01/anthurium_botany_01_1k.gltf",
+                    "md5": "f81a043d79a1bb608d7f1b632cdf1779"
+                }
+            }
+        },
+        "usd": {
+            "8k": {
+                "usd": {
+                    "include": {
+                        "textures/anthurium_botany_01_diff_8k.jpg": {
+                            "size": 19478201,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/anthurium_botany_01/anthurium_botany_01_diff_8k.jpg",
+                            "md5": "2de514b83593f423bd6fb9550252c0d3"
+                        },
+                        "textures/anthurium_botany_01_disp_8k.png": {
+                            "size": 56137364,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/anthurium_botany_01/anthurium_botany_01_disp_8k.png",
+                            "md5": "841907e58ebee72cf67232a6c19b759d"
+                        },
+                        "textures/anthurium_botany_01_alpha_8k.png": {
+                            "size": 351179,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/anthurium_botany_01/anthurium_botany_01_alpha_8k.png",
+                            "md5": "ec5d561ad04fcf96b81b9d3fdf04fc4a"
+                        },
+                        "textures/anthurium_botany_01_rough_8k.exr": {
+                            "size": 26300458,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/anthurium_botany_01/anthurium_botany_01_rough_8k.exr",
+                            "md5": "ea86207c134db174f5da403526e53275"
+                        },
+                        "textures/anthurium_botany_01_nor_gl_8k.exr": {
+                            "size": 49239867,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/anthurium_botany_01/anthurium_botany_01_nor_gl_8k.exr",
+                            "md5": "81448babb1136a70083219f63cd965ab"
+                        }
+                    },
+                    "size": 12757031,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/8k/anthurium_botany_01/anthurium_botany_01_8k.usdc",
+                    "md5": "f233b6d33d8931fa2fdf77ee158b0b6a"
+                }
+            },
+            "4k": {
+                "usd": {
+                    "include": {
+                        "textures/anthurium_botany_01_alpha_4k.png": {
+                            "size": 184485,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/anthurium_botany_01/anthurium_botany_01_alpha_4k.png",
+                            "md5": "227644630031ef4bcae2b444a4eb0724"
+                        },
+                        "textures/anthurium_botany_01_diff_4k.jpg": {
+                            "size": 5474717,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/anthurium_botany_01/anthurium_botany_01_diff_4k.jpg",
+                            "md5": "c2250d3323459a10128298e397d6148c"
+                        },
+                        "textures/anthurium_botany_01_disp_4k.png": {
+                            "size": 14340453,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/anthurium_botany_01/anthurium_botany_01_disp_4k.png",
+                            "md5": "6aa620d06504f70768f1a2d2091f9be3"
+                        },
+                        "textures/anthurium_botany_01_rough_4k.exr": {
+                            "size": 8847357,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/anthurium_botany_01/anthurium_botany_01_rough_4k.exr",
+                            "md5": "cde65643162cce2e7d1b10a2309e7017"
+                        },
+                        "textures/anthurium_botany_01_nor_gl_4k.exr": {
+                            "size": 16245090,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/anthurium_botany_01/anthurium_botany_01_nor_gl_4k.exr",
+                            "md5": "6dd0b8986561482969b4f406610612b4"
+                        }
+                    },
+                    "size": 12757029,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/4k/anthurium_botany_01/anthurium_botany_01_4k.usdc",
+                    "md5": "7f2ff0ccf33152364fb379a645e49015"
+                }
+            },
+            "2k": {
+                "usd": {
+                    "include": {
+                        "textures/anthurium_botany_01_nor_gl_2k.exr": {
+                            "size": 4308455,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/anthurium_botany_01/anthurium_botany_01_nor_gl_2k.exr",
+                            "md5": "04afbc30e9fcc552436007d6136a2d26"
+                        },
+                        "textures/anthurium_botany_01_rough_2k.exr": {
+                            "size": 3087763,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/anthurium_botany_01/anthurium_botany_01_rough_2k.exr",
+                            "md5": "097c2256b7272dcc50d6fcd458eab720"
+                        },
+                        "textures/anthurium_botany_01_disp_2k.png": {
+                            "size": 4257553,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/anthurium_botany_01/anthurium_botany_01_disp_2k.png",
+                            "md5": "f53ad733ae93e83cd82193415af0b2cf"
+                        },
+                        "textures/anthurium_botany_01_alpha_2k.png": {
+                            "size": 95881,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/anthurium_botany_01/anthurium_botany_01_alpha_2k.png",
+                            "md5": "2a14dde9381b983427adcba195c7d6c6"
+                        },
+                        "textures/anthurium_botany_01_diff_2k.jpg": {
+                            "size": 1557594,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/anthurium_botany_01/anthurium_botany_01_diff_2k.jpg",
+                            "md5": "5291513766026a7c975ac869d4af2f1e"
+                        }
+                    },
+                    "size": 12757029,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/2k/anthurium_botany_01/anthurium_botany_01_2k.usdc",
+                    "md5": "7deebebf50c32000cd24368f9c44519d"
+                }
+            },
+            "1k": {
+                "usd": {
+                    "include": {
+                        "textures/anthurium_botany_01_alpha_1k.png": {
+                            "size": 45560,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/anthurium_botany_01/anthurium_botany_01_alpha_1k.png",
+                            "md5": "2eeff7ab974784e30a9efa30abea8f3d"
+                        },
+                        "textures/anthurium_botany_01_rough_1k.exr": {
+                            "size": 937796,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/anthurium_botany_01/anthurium_botany_01_rough_1k.exr",
+                            "md5": "b3605aab064a5bb72c424374802f8ad8"
+                        },
+                        "textures/anthurium_botany_01_nor_gl_1k.exr": {
+                            "size": 1115390,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/anthurium_botany_01/anthurium_botany_01_nor_gl_1k.exr",
+                            "md5": "5e2fbdd6a25d7a354aea5e692aa2a6a4"
+                        },
+                        "textures/anthurium_botany_01_disp_1k.png": {
+                            "size": 1201449,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/anthurium_botany_01/anthurium_botany_01_disp_1k.png",
+                            "md5": "d0398f8fb11b475093bac759e5eb1aa5"
+                        },
+                        "textures/anthurium_botany_01_diff_1k.jpg": {
+                            "size": 447673,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/anthurium_botany_01/anthurium_botany_01_diff_1k.jpg",
+                            "md5": "3267764fe167ff9f9e6e7d025721abbd"
+                        }
+                    },
+                    "size": 12757028,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/anthurium_botany_01/anthurium_botany_01_1k.usdc",
+                    "md5": "0d8da5916000d2b24ad8757ca64cfd4f"
+                }
+            }
+        },
+        "Alpha": {
+            "8k": {
+                "jpg": {
+                    "size": 1496489,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/anthurium_botany_01/anthurium_botany_01_alpha_8k.jpg",
+                    "md5": "56666c0bedea5682102c185750768670"
+                },
+                "png": {
+                    "size": 351179,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/anthurium_botany_01/anthurium_botany_01_alpha_8k.png",
+                    "md5": "ec5d561ad04fcf96b81b9d3fdf04fc4a"
+                },
+                "exr": {
+                    "size": 439486,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/anthurium_botany_01/anthurium_botany_01_alpha_8k.exr",
+                    "md5": "e02735e76f71e82fb0e88200eefe55f8"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 543085,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/anthurium_botany_01/anthurium_botany_01_alpha_4k.jpg",
+                    "md5": "125a29e5ee37080885a77707df9f2b94"
+                },
+                "png": {
+                    "size": 184485,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/anthurium_botany_01/anthurium_botany_01_alpha_4k.png",
+                    "md5": "227644630031ef4bcae2b444a4eb0724"
+                },
+                "exr": {
+                    "size": 223180,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/anthurium_botany_01/anthurium_botany_01_alpha_4k.exr",
+                    "md5": "4513abc3c6a8dd23a5fa22c3f99c09d7"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 220562,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/anthurium_botany_01/anthurium_botany_01_alpha_2k.jpg",
+                    "md5": "8a5496f79ce5869cb98fb92f4f88f7d9"
+                },
+                "png": {
+                    "size": 95881,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/anthurium_botany_01/anthurium_botany_01_alpha_2k.png",
+                    "md5": "2a14dde9381b983427adcba195c7d6c6"
+                },
+                "exr": {
+                    "size": 115191,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/anthurium_botany_01/anthurium_botany_01_alpha_2k.exr",
+                    "md5": "bdbdb23a3891528d015fda8e0c354e14"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 97557,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/anthurium_botany_01/anthurium_botany_01_alpha_1k.jpg",
+                    "md5": "5b88c1e1a255c0f0ee24c0132a670737"
+                },
+                "png": {
+                    "size": 45560,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/anthurium_botany_01/anthurium_botany_01_alpha_1k.png",
+                    "md5": "2eeff7ab974784e30a9efa30abea8f3d"
+                },
+                "exr": {
+                    "size": 57348,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/anthurium_botany_01/anthurium_botany_01_alpha_1k.exr",
+                    "md5": "106e55fcbd59fab77413db1353346d35"
+                }
+            }
+        },
+        "fbx": {
+            "8k": {
+                "fbx": {
+                    "include": {
+                        "textures/anthurium_botany_01_diff_8k.jpg": {
+                            "size": 19478201,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/anthurium_botany_01/anthurium_botany_01_diff_8k.jpg",
+                            "md5": "2de514b83593f423bd6fb9550252c0d3"
+                        },
+                        "textures/anthurium_botany_01_disp_8k.png": {
+                            "size": 56137364,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/anthurium_botany_01/anthurium_botany_01_disp_8k.png",
+                            "md5": "841907e58ebee72cf67232a6c19b759d"
+                        },
+                        "textures/anthurium_botany_01_alpha_8k.png": {
+                            "size": 351179,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/anthurium_botany_01/anthurium_botany_01_alpha_8k.png",
+                            "md5": "ec5d561ad04fcf96b81b9d3fdf04fc4a"
+                        },
+                        "textures/anthurium_botany_01_rough_8k.exr": {
+                            "size": 26300458,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/anthurium_botany_01/anthurium_botany_01_rough_8k.exr",
+                            "md5": "ea86207c134db174f5da403526e53275"
+                        },
+                        "textures/anthurium_botany_01_nor_gl_8k.exr": {
+                            "size": 49239867,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/anthurium_botany_01/anthurium_botany_01_nor_gl_8k.exr",
+                            "md5": "81448babb1136a70083219f63cd965ab"
+                        }
+                    },
+                    "size": 2101212,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/8k/anthurium_botany_01/anthurium_botany_01_8k.fbx",
+                    "md5": "974d0bb099fa75d71b6151b4b5530bf8"
+                }
+            },
+            "4k": {
+                "fbx": {
+                    "include": {
+                        "textures/anthurium_botany_01_alpha_4k.png": {
+                            "size": 184485,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/anthurium_botany_01/anthurium_botany_01_alpha_4k.png",
+                            "md5": "227644630031ef4bcae2b444a4eb0724"
+                        },
+                        "textures/anthurium_botany_01_diff_4k.jpg": {
+                            "size": 5474717,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/anthurium_botany_01/anthurium_botany_01_diff_4k.jpg",
+                            "md5": "c2250d3323459a10128298e397d6148c"
+                        },
+                        "textures/anthurium_botany_01_disp_4k.png": {
+                            "size": 14340453,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/anthurium_botany_01/anthurium_botany_01_disp_4k.png",
+                            "md5": "6aa620d06504f70768f1a2d2091f9be3"
+                        },
+                        "textures/anthurium_botany_01_rough_4k.exr": {
+                            "size": 8847357,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/anthurium_botany_01/anthurium_botany_01_rough_4k.exr",
+                            "md5": "cde65643162cce2e7d1b10a2309e7017"
+                        },
+                        "textures/anthurium_botany_01_nor_gl_4k.exr": {
+                            "size": 16245090,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/anthurium_botany_01/anthurium_botany_01_nor_gl_4k.exr",
+                            "md5": "6dd0b8986561482969b4f406610612b4"
+                        }
+                    },
+                    "size": 2101212,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/4k/anthurium_botany_01/anthurium_botany_01_4k.fbx",
+                    "md5": "4735501d074eefc10ff799c9db83b6c6"
+                }
+            },
+            "2k": {
+                "fbx": {
+                    "include": {
+                        "textures/anthurium_botany_01_nor_gl_2k.exr": {
+                            "size": 4308455,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/anthurium_botany_01/anthurium_botany_01_nor_gl_2k.exr",
+                            "md5": "04afbc30e9fcc552436007d6136a2d26"
+                        },
+                        "textures/anthurium_botany_01_rough_2k.exr": {
+                            "size": 3087763,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/anthurium_botany_01/anthurium_botany_01_rough_2k.exr",
+                            "md5": "097c2256b7272dcc50d6fcd458eab720"
+                        },
+                        "textures/anthurium_botany_01_disp_2k.png": {
+                            "size": 4257553,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/anthurium_botany_01/anthurium_botany_01_disp_2k.png",
+                            "md5": "f53ad733ae93e83cd82193415af0b2cf"
+                        },
+                        "textures/anthurium_botany_01_alpha_2k.png": {
+                            "size": 95881,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/anthurium_botany_01/anthurium_botany_01_alpha_2k.png",
+                            "md5": "2a14dde9381b983427adcba195c7d6c6"
+                        },
+                        "textures/anthurium_botany_01_diff_2k.jpg": {
+                            "size": 1557594,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/anthurium_botany_01/anthurium_botany_01_diff_2k.jpg",
+                            "md5": "5291513766026a7c975ac869d4af2f1e"
+                        }
+                    },
+                    "size": 2101212,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/2k/anthurium_botany_01/anthurium_botany_01_2k.fbx",
+                    "md5": "460584773ec3f27ffc12b976c2ab97db"
+                }
+            },
+            "1k": {
+                "fbx": {
+                    "include": {
+                        "textures/anthurium_botany_01_alpha_1k.png": {
+                            "size": 45560,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/anthurium_botany_01/anthurium_botany_01_alpha_1k.png",
+                            "md5": "2eeff7ab974784e30a9efa30abea8f3d"
+                        },
+                        "textures/anthurium_botany_01_rough_1k.exr": {
+                            "size": 937796,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/anthurium_botany_01/anthurium_botany_01_rough_1k.exr",
+                            "md5": "b3605aab064a5bb72c424374802f8ad8"
+                        },
+                        "textures/anthurium_botany_01_nor_gl_1k.exr": {
+                            "size": 1115390,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/anthurium_botany_01/anthurium_botany_01_nor_gl_1k.exr",
+                            "md5": "5e2fbdd6a25d7a354aea5e692aa2a6a4"
+                        },
+                        "textures/anthurium_botany_01_disp_1k.png": {
+                            "size": 1201449,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/anthurium_botany_01/anthurium_botany_01_disp_1k.png",
+                            "md5": "d0398f8fb11b475093bac759e5eb1aa5"
+                        },
+                        "textures/anthurium_botany_01_diff_1k.jpg": {
+                            "size": 447673,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/anthurium_botany_01/anthurium_botany_01_diff_1k.jpg",
+                            "md5": "3267764fe167ff9f9e6e7d025721abbd"
+                        }
+                    },
+                    "size": 2101212,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/1k/anthurium_botany_01/anthurium_botany_01_1k.fbx",
+                    "md5": "a7270753d343902f10f5efedecf20d53"
+                }
+            }
+        },
+        "arm": {
+            "8k": {
+                "jpg": {
+                    "size": 22338798,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/anthurium_botany_01/anthurium_botany_01_arm_8k.jpg",
+                    "md5": "b2115127f999a5a3cebca85c5f6a9d25"
+                },
+                "png": {
+                    "size": 32420928,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/anthurium_botany_01/anthurium_botany_01_arm_8k.png",
+                    "md5": "aabde36f9c6fc84611caefa6ec799311"
+                },
+                "exr": {
+                    "size": 51150272,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/anthurium_botany_01/anthurium_botany_01_arm_8k.exr",
+                    "md5": "cd5458e0158e0e68b92981e2301469ee"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 6223568,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/anthurium_botany_01/anthurium_botany_01_arm_4k.jpg",
+                    "md5": "7c5a92cb83bd7bab288634ddfa0d1d62"
+                },
+                "png": {
+                    "size": 9043340,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/anthurium_botany_01/anthurium_botany_01_arm_4k.png",
+                    "md5": "6947c1d5f46135d9d38be3dc72047f08"
+                },
+                "exr": {
+                    "size": 13334907,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/anthurium_botany_01/anthurium_botany_01_arm_4k.exr",
+                    "md5": "89084004e37418ee080ff8b241a74b8c"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1848607,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/anthurium_botany_01/anthurium_botany_01_arm_2k.jpg",
+                    "md5": "8ea1c0fbf09bc54396c6b8903e56517a"
+                },
+                "png": {
+                    "size": 2648608,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/anthurium_botany_01/anthurium_botany_01_arm_2k.png",
+                    "md5": "26e1d10855761cd85dcad6c93dcec1d1"
+                },
+                "exr": {
+                    "size": 3973829,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/anthurium_botany_01/anthurium_botany_01_arm_2k.exr",
+                    "md5": "584b3c3b7e0d651a2a1155dd599ef4a1"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 548291,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/anthurium_botany_01/anthurium_botany_01_arm_1k.jpg",
+                    "md5": "e03e3b9db4c9d9a3c2a6dd84e3a34d8f"
+                },
+                "png": {
+                    "size": 784018,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/anthurium_botany_01/anthurium_botany_01_arm_1k.png",
+                    "md5": "a3204e110d7ffbce8d8e1a59eb27c30f"
+                },
+                "exr": {
+                    "size": 1197087,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/anthurium_botany_01/anthurium_botany_01_arm_1k.exr",
+                    "md5": "79c9027125d00f1165cd0992221bda7e"
+                }
+            }
+        },
+        "Displacement": {
+            "8k": {
+                "jpg": {
+                    "size": 5127858,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/anthurium_botany_01/anthurium_botany_01_disp_8k.jpg",
+                    "md5": "a366a87edda9e5a03a4a0f9cf638e820"
+                },
+                "png": {
+                    "size": 56137364,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/anthurium_botany_01/anthurium_botany_01_disp_8k.png",
+                    "md5": "841907e58ebee72cf67232a6c19b759d"
+                },
+                "exr": {
+                    "size": 3494622,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/anthurium_botany_01/anthurium_botany_01_disp_8k.exr",
+                    "md5": "f6210454f027e9828094c3112a85e004"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 1582309,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/anthurium_botany_01/anthurium_botany_01_disp_4k.jpg",
+                    "md5": "cc700dbacaa8650247a4f7898c367555"
+                },
+                "png": {
+                    "size": 14340453,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/anthurium_botany_01/anthurium_botany_01_disp_4k.png",
+                    "md5": "6aa620d06504f70768f1a2d2091f9be3"
+                },
+                "exr": {
+                    "size": 1350137,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/anthurium_botany_01/anthurium_botany_01_disp_4k.exr",
+                    "md5": "c56853269e30c1b2759a53eaff73c683"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 512990,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/anthurium_botany_01/anthurium_botany_01_disp_2k.jpg",
+                    "md5": "7ada7b617e078fe97048c7165c15760c"
+                },
+                "png": {
+                    "size": 4257553,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/anthurium_botany_01/anthurium_botany_01_disp_2k.png",
+                    "md5": "f53ad733ae93e83cd82193415af0b2cf"
+                },
+                "exr": {
+                    "size": 538866,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/anthurium_botany_01/anthurium_botany_01_disp_2k.exr",
+                    "md5": "e1f43d4ba9e45fc2ed068e8d48d735b8"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 181120,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/anthurium_botany_01/anthurium_botany_01_disp_1k.jpg",
+                    "md5": "b9dbaa2fce57d584b37b8c9d4cc5765a"
+                },
+                "png": {
+                    "size": 1201449,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/anthurium_botany_01/anthurium_botany_01_disp_1k.png",
+                    "md5": "d0398f8fb11b475093bac759e5eb1aa5"
+                },
+                "exr": {
+                    "size": 220735,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/anthurium_botany_01/anthurium_botany_01_disp_1k.exr",
+                    "md5": "706fdd50c8da5e64ab6c2cae1be73583"
+                }
+            }
+        },
+        "Rough": {
+            "8k": {
+                "jpg": {
+                    "size": 20189514,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/anthurium_botany_01/anthurium_botany_01_rough_8k.jpg",
+                    "md5": "ee7fac3d142cc467a513cb681e03ab8a"
+                },
+                "png": {
+                    "size": 24467347,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/anthurium_botany_01/anthurium_botany_01_rough_8k.png",
+                    "md5": "5f866e8053590e6111ced2f9003e2436"
+                },
+                "exr": {
+                    "size": 26300458,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/anthurium_botany_01/anthurium_botany_01_rough_8k.exr",
+                    "md5": "ea86207c134db174f5da403526e53275"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 5409402,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/anthurium_botany_01/anthurium_botany_01_rough_4k.jpg",
+                    "md5": "9f098a41698d3b64443fb0dace4df9e4"
+                },
+                "png": {
+                    "size": 12330343,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/anthurium_botany_01/anthurium_botany_01_rough_4k.png",
+                    "md5": "88543fd43876bb471968e0866639d21d"
+                },
+                "exr": {
+                    "size": 8847357,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/anthurium_botany_01/anthurium_botany_01_rough_4k.exr",
+                    "md5": "cde65643162cce2e7d1b10a2309e7017"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1541581,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/anthurium_botany_01/anthurium_botany_01_rough_2k.jpg",
+                    "md5": "aac93c815416ff661e42997b65098f3d"
+                },
+                "png": {
+                    "size": 4226995,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/anthurium_botany_01/anthurium_botany_01_rough_2k.png",
+                    "md5": "02734675f02723b354d704651a8f42c5"
+                },
+                "exr": {
+                    "size": 3087763,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/anthurium_botany_01/anthurium_botany_01_rough_2k.exr",
+                    "md5": "097c2256b7272dcc50d6fcd458eab720"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 440787,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/anthurium_botany_01/anthurium_botany_01_rough_1k.jpg",
+                    "md5": "9c931d33c979110379833844986a5d62"
+                },
+                "png": {
+                    "size": 1313332,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/anthurium_botany_01/anthurium_botany_01_rough_1k.png",
+                    "md5": "cd9c7f04555290700753cc06e98264bd"
+                },
+                "exr": {
+                    "size": 937796,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/anthurium_botany_01/anthurium_botany_01_rough_1k.exr",
+                    "md5": "b3605aab064a5bb72c424374802f8ad8"
+                }
+            }
+        },
+        "AO": {
+            "8k": {
+                "jpg": {
+                    "size": 5408549,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/anthurium_botany_01/anthurium_botany_01_ao_8k.jpg",
+                    "md5": "938d7fa133c11923478727ff754d21a4"
+                },
+                "png": {
+                    "size": 8873297,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/anthurium_botany_01/anthurium_botany_01_ao_8k.png",
+                    "md5": "0ba73e186c93d136edc379d3d5626c05"
+                },
+                "exr": {
+                    "size": 8811419,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/anthurium_botany_01/anthurium_botany_01_ao_8k.exr",
+                    "md5": "2900805e7b59af77df09f28db43dfb04"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 1404333,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/anthurium_botany_01/anthurium_botany_01_ao_4k.jpg",
+                    "md5": "757cd55a50d443bcd2d3b9486420aa8f"
+                },
+                "png": {
+                    "size": 4429274,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/anthurium_botany_01/anthurium_botany_01_ao_4k.png",
+                    "md5": "b359c04244ed178f0c7363ea4b9c2d8d"
+                },
+                "exr": {
+                    "size": 3320343,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/anthurium_botany_01/anthurium_botany_01_ao_4k.exr",
+                    "md5": "2ae3b4b5bb98ce51bc6c4837bb856a88"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 498768,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/anthurium_botany_01/anthurium_botany_01_ao_2k.jpg",
+                    "md5": "1bf7fb850195bb177d23a9e0a40b255c"
+                },
+                "png": {
+                    "size": 1582567,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/anthurium_botany_01/anthurium_botany_01_ao_2k.png",
+                    "md5": "aafd57bbdf58e05ffebabbf126298d00"
+                },
+                "exr": {
+                    "size": 1093262,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/anthurium_botany_01/anthurium_botany_01_ao_2k.exr",
+                    "md5": "786f3a1662242073f5e34a50f729495e"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 193461,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/anthurium_botany_01/anthurium_botany_01_ao_1k.jpg",
+                    "md5": "8795fa89cdbe89a78b24107dc939e6ff"
+                },
+                "png": {
+                    "size": 503943,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/anthurium_botany_01/anthurium_botany_01_ao_1k.png",
+                    "md5": "d9d2ab7f815531e97d96695f5ebe1d27"
+                },
+                "exr": {
+                    "size": 345831,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/anthurium_botany_01/anthurium_botany_01_ao_1k.exr",
+                    "md5": "20dbd61dccfee965d800f8e817f26303"
+                }
+            }
+        }
+    }
+}

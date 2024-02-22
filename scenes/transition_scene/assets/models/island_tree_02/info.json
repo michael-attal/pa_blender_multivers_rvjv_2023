@@ -1,0 +1,2537 @@
+{
+    "date_published": 1666742400,
+    "sponsors": [
+        "78546118"
+    ],
+    "files_hash": "ca461857b15d0989cd8ba2aa317d52b26a58ef24",
+    "name": "Island Tree 02",
+    "type": 2,
+    "info": null,
+    "authors": {
+        "Rob Tuytel": "scanning, processing",
+        "Rico Cilliers": "cleanup, processing"
+    },
+    "tags": [
+        "tree",
+        "natural",
+        "nature",
+        "green",
+        "plant",
+        "outdoor",
+        "leaf",
+        "botany",
+        "leaves",
+        "forest",
+        "bush",
+        "jungle",
+        "foliage",
+        "small",
+        "geometry nodes",
+        "trunk",
+        "bark",
+        "island",
+        "coastal"
+    ],
+    "geonodes": true,
+    "categories": [
+        "nature",
+        "plants",
+        "trees"
+    ],
+    "download_count": 41219,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/island_tree_02.png?width=256&height=256",
+    "files": {
+        "branches_nor_gl": {
+            "8k": {
+                "jpg": {
+                    "size": 19801579,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/island_tree_02/island_tree_02_branches_nor_gl_8k.jpg",
+                    "md5": "37f74fb64d8deadd7484f70d7497b3d5"
+                },
+                "png": {
+                    "size": 281379336,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/island_tree_02/island_tree_02_branches_nor_gl_8k.png",
+                    "md5": "4ae4dbf8e22717dc18952d46878e3084"
+                },
+                "exr": {
+                    "size": 32542986,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/island_tree_02/island_tree_02_branches_nor_gl_8k.exr",
+                    "md5": "56d32b0762a608cc2bc0582271f89897"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 6940825,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/island_tree_02/island_tree_02_branches_nor_gl_4k.jpg",
+                    "md5": "e91425eda67d296d6257556e32b08163"
+                },
+                "png": {
+                    "size": 78433352,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/island_tree_02/island_tree_02_branches_nor_gl_4k.png",
+                    "md5": "da6dc1bf347e70032360b46bb68ce3bc"
+                },
+                "exr": {
+                    "size": 11739672,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/island_tree_02/island_tree_02_branches_nor_gl_4k.exr",
+                    "md5": "0c615a9432786f97b5d1a9899f556dec"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2472399,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/island_tree_02/island_tree_02_branches_nor_gl_2k.jpg",
+                    "md5": "95d6960f726aa9019f9912364abd45e9"
+                },
+                "png": {
+                    "size": 20594936,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/island_tree_02/island_tree_02_branches_nor_gl_2k.png",
+                    "md5": "98af2803beca2055fde16a4ca8f2151a"
+                },
+                "exr": {
+                    "size": 4594915,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/island_tree_02/island_tree_02_branches_nor_gl_2k.exr",
+                    "md5": "83f6ac4849c1f0d7ecf66e2b96f3536f"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 833470,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_branches_nor_gl_1k.jpg",
+                    "md5": "5699ec98933c31ddd53625dfaee4b909"
+                },
+                "png": {
+                    "size": 5400459,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/island_tree_02/island_tree_02_branches_nor_gl_1k.png",
+                    "md5": "df3d91a9c29266f44b0b17da135a2899"
+                },
+                "exr": {
+                    "size": 1650301,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/island_tree_02/island_tree_02_branches_nor_gl_1k.exr",
+                    "md5": "94e0def072e1cfdb4c682f35fc7bf03a"
+                }
+            }
+        },
+        "nor_dx": {
+            "8k": {
+                "jpg": {
+                    "size": 46558600,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/island_tree_02/island_tree_02_nor_dx_8k.jpg",
+                    "md5": "4fc82b5d5389867349ea6c6b40297c69"
+                },
+                "png": {
+                    "size": 243915597,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/island_tree_02/island_tree_02_nor_dx_8k.png",
+                    "md5": "c698a27a79ea4ec180501d479cc4e559"
+                },
+                "exr": {
+                    "size": 87265331,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/island_tree_02/island_tree_02_nor_dx_8k.exr",
+                    "md5": "fa613fa00c6b65dc0b0ac48665e42eab"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 15121335,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/island_tree_02/island_tree_02_nor_dx_4k.jpg",
+                    "md5": "b4af21a1b625f0f82f55bff046296b41"
+                },
+                "png": {
+                    "size": 67936796,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/island_tree_02/island_tree_02_nor_dx_4k.png",
+                    "md5": "d7de3937d26e3a3630d607d1a105ea85"
+                },
+                "exr": {
+                    "size": 29702303,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/island_tree_02/island_tree_02_nor_dx_4k.exr",
+                    "md5": "db1c2d75417773b1511d448729eb4fd6"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 4389831,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/island_tree_02/island_tree_02_nor_dx_2k.jpg",
+                    "md5": "b6e9d277bd4b42ded0f21b1dfa7735fc"
+                },
+                "png": {
+                    "size": 19273756,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/island_tree_02/island_tree_02_nor_dx_2k.png",
+                    "md5": "f116061127e4d5a7c6496dfe1713a554"
+                },
+                "exr": {
+                    "size": 8747157,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/island_tree_02/island_tree_02_nor_dx_2k.exr",
+                    "md5": "37974cd57feb81a44f5ba338c8f5e47c"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 1170614,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_nor_dx_1k.jpg",
+                    "md5": "3462769708b2c9bde4981907f49cab81"
+                },
+                "png": {
+                    "size": 5319198,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/island_tree_02/island_tree_02_nor_dx_1k.png",
+                    "md5": "26092abae9f8ea35f9f9ccfabfe6ede8"
+                },
+                "exr": {
+                    "size": 2353007,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/island_tree_02/island_tree_02_nor_dx_1k.exr",
+                    "md5": "8a9bde04423ab4c7e5e49dd593b6aa88"
+                }
+            }
+        },
+        "blend": {
+            "8k": {
+                "blend": {
+                    "include": {
+                        "textures/island_tree_02_leaves_rough_8k.png": {
+                            "size": 19347194,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/island_tree_02/island_tree_02_leaves_rough_8k.png",
+                            "md5": "23ebf93a1fda54d3f5a1f92eacf5daeb"
+                        },
+                        "textures/island_tree_02_nor_gl_8k.exr": {
+                            "size": 87222992,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/island_tree_02/island_tree_02_nor_gl_8k.exr",
+                            "md5": "25ff5485e569f65d90a2cc380f548e4a"
+                        },
+                        "textures/island_tree_02_branches_nor_gl_8k.png": {
+                            "size": 281379336,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/island_tree_02/island_tree_02_branches_nor_gl_8k.png",
+                            "md5": "4ae4dbf8e22717dc18952d46878e3084"
+                        },
+                        "textures/island_tree_02_rough_8k.exr": {
+                            "size": 25461878,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/island_tree_02/island_tree_02_rough_8k.exr",
+                            "md5": "755e83907075b6025b54b487d7881286"
+                        },
+                        "textures/island_tree_02_leaves_diff_8k.png": {
+                            "size": 77580347,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/island_tree_02/island_tree_02_leaves_diff_8k.png",
+                            "md5": "8be1579c20364fe97e8619f018284157"
+                        },
+                        "textures/island_tree_02_diff_8k.jpg": {
+                            "size": 29992199,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/island_tree_02/island_tree_02_diff_8k.jpg",
+                            "md5": "7f78eb8625b8a92a7c39efd0abed4b78"
+                        },
+                        "textures/island_tree_02_branches_rough_8k.png": {
+                            "size": 9735754,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/island_tree_02/island_tree_02_branches_rough_8k.png",
+                            "md5": "91f6bde7c383b95af1d5d97e867ec6f6"
+                        },
+                        "textures/island_tree_02_branches_diff_8k.png": {
+                            "size": 179298650,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/island_tree_02/island_tree_02_branches_diff_8k.png",
+                            "md5": "82fb0ba5581cdd5745c390c1eb814601"
+                        },
+                        "textures/island_tree_02_leaves_nor_gl_8k.png": {
+                            "size": 123577595,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/island_tree_02/island_tree_02_leaves_nor_gl_8k.png",
+                            "md5": "cbe8ac81fe711b3660a9ccc977989a49"
+                        },
+                        "textures/island_tree_02_leaves_alpha_8k.png": {
+                            "size": 833036,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/island_tree_02/island_tree_02_leaves_alpha_8k.png",
+                            "md5": "b18449bc7013da8db121b585fa70ec7f"
+                        }
+                    },
+                    "size": 1052750,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/8k/island_tree_02/island_tree_02_8k.blend",
+                    "md5": "2888d21655c9e3094dae4e14460c3dde"
+                }
+            },
+            "4k": {
+                "blend": {
+                    "include": {
+                        "textures/island_tree_02_rough_4k.exr": {
+                            "size": 10135833,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/island_tree_02/island_tree_02_rough_4k.exr",
+                            "md5": "7e48e95dd09aaa05cc4093fdb67dd7cc"
+                        },
+                        "textures/island_tree_02_leaves_diff_4k.png": {
+                            "size": 27092655,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/island_tree_02/island_tree_02_leaves_diff_4k.png",
+                            "md5": "855ba331b083cf84948e74febe214ba7"
+                        },
+                        "textures/island_tree_02_branches_nor_gl_4k.png": {
+                            "size": 78433352,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/island_tree_02/island_tree_02_branches_nor_gl_4k.png",
+                            "md5": "da6dc1bf347e70032360b46bb68ce3bc"
+                        },
+                        "textures/island_tree_02_nor_gl_4k.exr": {
+                            "size": 29697533,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/island_tree_02/island_tree_02_nor_gl_4k.exr",
+                            "md5": "4ea78e7e24d15127de14627e5e86bbdc"
+                        },
+                        "textures/island_tree_02_leaves_rough_4k.png": {
+                            "size": 8595028,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/island_tree_02/island_tree_02_leaves_rough_4k.png",
+                            "md5": "9f932192a4b09ce24b83f7bbd7a69f32"
+                        },
+                        "textures/island_tree_02_diff_4k.jpg": {
+                            "size": 8830405,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/island_tree_02/island_tree_02_diff_4k.jpg",
+                            "md5": "7caf53ee7d737c787445405397dcab40"
+                        },
+                        "textures/island_tree_02_leaves_alpha_4k.png": {
+                            "size": 355395,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/island_tree_02/island_tree_02_leaves_alpha_4k.png",
+                            "md5": "ff188fc0bf371c528c8cacae33fb780e"
+                        },
+                        "textures/island_tree_02_branches_rough_4k.png": {
+                            "size": 8430664,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/island_tree_02/island_tree_02_branches_rough_4k.png",
+                            "md5": "232036dd94f01cd5f35b8e476465e8f5"
+                        },
+                        "textures/island_tree_02_branches_diff_4k.png": {
+                            "size": 72975335,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/island_tree_02/island_tree_02_branches_diff_4k.png",
+                            "md5": "56a1e67965a3b5e635b4bc333f9f67d1"
+                        },
+                        "textures/island_tree_02_leaves_nor_gl_4k.png": {
+                            "size": 33862226,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/island_tree_02/island_tree_02_leaves_nor_gl_4k.png",
+                            "md5": "7f287d0ffce0b7d19daedf42b09430f9"
+                        }
+                    },
+                    "size": 1055324,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/4k/island_tree_02/island_tree_02_4k.blend",
+                    "md5": "aa3969c5840d2ce7d6c5b660b2faa412"
+                }
+            },
+            "2k": {
+                "blend": {
+                    "include": {
+                        "textures/island_tree_02_leaves_nor_gl_2k.png": {
+                            "size": 10109651,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/island_tree_02/island_tree_02_leaves_nor_gl_2k.png",
+                            "md5": "3d3d53270e1a5d6be297307c7ab8629c"
+                        },
+                        "textures/island_tree_02_branches_nor_gl_2k.png": {
+                            "size": 20594936,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/island_tree_02/island_tree_02_branches_nor_gl_2k.png",
+                            "md5": "98af2803beca2055fde16a4ca8f2151a"
+                        },
+                        "textures/island_tree_02_nor_gl_2k.exr": {
+                            "size": 8745440,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/island_tree_02/island_tree_02_nor_gl_2k.exr",
+                            "md5": "9489ba99cbb54869eec0976b94188689"
+                        },
+                        "textures/island_tree_02_leaves_rough_2k.png": {
+                            "size": 2723975,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/island_tree_02/island_tree_02_leaves_rough_2k.png",
+                            "md5": "a49ed311f1d7f504a17d917ffbc83bd1"
+                        },
+                        "textures/island_tree_02_branches_rough_2k.png": {
+                            "size": 4730461,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/island_tree_02/island_tree_02_branches_rough_2k.png",
+                            "md5": "f2c70d75834aa97f7ef173c119f92f8d"
+                        },
+                        "textures/island_tree_02_leaves_alpha_2k.png": {
+                            "size": 139077,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/island_tree_02/island_tree_02_leaves_alpha_2k.png",
+                            "md5": "063774afef8fe1d35ce52d56bf41bf81"
+                        },
+                        "textures/island_tree_02_branches_diff_2k.png": {
+                            "size": 19963228,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/island_tree_02/island_tree_02_branches_diff_2k.png",
+                            "md5": "ea80c42ff281c3f1c931455306988dc8"
+                        },
+                        "textures/island_tree_02_diff_2k.jpg": {
+                            "size": 2665590,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/island_tree_02/island_tree_02_diff_2k.jpg",
+                            "md5": "aece4b593a8bea3b3f0ff335a4005ab1"
+                        },
+                        "textures/island_tree_02_leaves_diff_2k.png": {
+                            "size": 8602424,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/island_tree_02/island_tree_02_leaves_diff_2k.png",
+                            "md5": "8c50c73c17c285c16c9f61debff83354"
+                        },
+                        "textures/island_tree_02_rough_2k.exr": {
+                            "size": 3207515,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/island_tree_02/island_tree_02_rough_2k.exr",
+                            "md5": "c71e0c689601492bc013cf7c9d81c270"
+                        }
+                    },
+                    "size": 1052415,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/2k/island_tree_02/island_tree_02_2k.blend",
+                    "md5": "ec1e4b1a8d9d8f38fd35d01cd356bfa5"
+                }
+            },
+            "1k": {
+                "blend": {
+                    "include": {
+                        "textures/island_tree_02_leaves_alpha_1k.png": {
+                            "size": 57438,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/island_tree_02/island_tree_02_leaves_alpha_1k.png",
+                            "md5": "5ad9fb9a06e70c069bd3d3ba23577375"
+                        },
+                        "textures/island_tree_02_diff_1k.jpg": {
+                            "size": 734163,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_diff_1k.jpg",
+                            "md5": "1cad8b60225bf615f1cd651637e9dd53"
+                        },
+                        "textures/island_tree_02_leaves_diff_1k.png": {
+                            "size": 2627035,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/island_tree_02/island_tree_02_leaves_diff_1k.png",
+                            "md5": "15658604a4cde053603ac91be61d1f51"
+                        },
+                        "textures/island_tree_02_leaves_rough_1k.png": {
+                            "size": 879599,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/island_tree_02/island_tree_02_leaves_rough_1k.png",
+                            "md5": "6195150c02ed2522f8ab60c2ec02f1b9"
+                        },
+                        "textures/island_tree_02_nor_gl_1k.exr": {
+                            "size": 2353247,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/island_tree_02/island_tree_02_nor_gl_1k.exr",
+                            "md5": "368ffe29fb968d172f3f3a389e7e3a56"
+                        },
+                        "textures/island_tree_02_leaves_nor_gl_1k.png": {
+                            "size": 2886859,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/island_tree_02/island_tree_02_leaves_nor_gl_1k.png",
+                            "md5": "13a7610b0459f3175ca049b70eadbfea"
+                        },
+                        "textures/island_tree_02_branches_diff_1k.png": {
+                            "size": 5300271,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/island_tree_02/island_tree_02_branches_diff_1k.png",
+                            "md5": "4ff7259a836d99831908bbae9d2242b4"
+                        },
+                        "textures/island_tree_02_branches_rough_1k.png": {
+                            "size": 1625206,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/island_tree_02/island_tree_02_branches_rough_1k.png",
+                            "md5": "8bd9e066f93c242ef468c7c6ea6dc382"
+                        },
+                        "textures/island_tree_02_branches_nor_gl_1k.png": {
+                            "size": 5400459,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/island_tree_02/island_tree_02_branches_nor_gl_1k.png",
+                            "md5": "df3d91a9c29266f44b0b17da135a2899"
+                        },
+                        "textures/island_tree_02_rough_1k.exr": {
+                            "size": 892360,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/island_tree_02/island_tree_02_rough_1k.exr",
+                            "md5": "7971361937bd0208281706e5dd98d0cb"
+                        }
+                    },
+                    "size": 1050726,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/1k/island_tree_02/island_tree_02_1k.blend",
+                    "md5": "2079a43038a36de130ae41b2bcda0c6b"
+                }
+            }
+        },
+        "usd": {
+            "8k": {
+                "usd": {
+                    "include": {
+                        "textures/island_tree_02_leaves_rough_8k.png": {
+                            "size": 19347194,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/island_tree_02/island_tree_02_leaves_rough_8k.png",
+                            "md5": "23ebf93a1fda54d3f5a1f92eacf5daeb"
+                        },
+                        "textures/island_tree_02_nor_gl_8k.exr": {
+                            "size": 87222992,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/island_tree_02/island_tree_02_nor_gl_8k.exr",
+                            "md5": "25ff5485e569f65d90a2cc380f548e4a"
+                        },
+                        "textures/island_tree_02_branches_nor_gl_8k.png": {
+                            "size": 281379336,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/island_tree_02/island_tree_02_branches_nor_gl_8k.png",
+                            "md5": "4ae4dbf8e22717dc18952d46878e3084"
+                        },
+                        "textures/island_tree_02_rough_8k.exr": {
+                            "size": 25461878,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/island_tree_02/island_tree_02_rough_8k.exr",
+                            "md5": "755e83907075b6025b54b487d7881286"
+                        },
+                        "textures/island_tree_02_leaves_diff_8k.png": {
+                            "size": 77580347,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/island_tree_02/island_tree_02_leaves_diff_8k.png",
+                            "md5": "8be1579c20364fe97e8619f018284157"
+                        },
+                        "textures/island_tree_02_diff_8k.jpg": {
+                            "size": 29992199,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/island_tree_02/island_tree_02_diff_8k.jpg",
+                            "md5": "7f78eb8625b8a92a7c39efd0abed4b78"
+                        },
+                        "textures/island_tree_02_branches_rough_8k.png": {
+                            "size": 9735754,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/island_tree_02/island_tree_02_branches_rough_8k.png",
+                            "md5": "91f6bde7c383b95af1d5d97e867ec6f6"
+                        },
+                        "textures/island_tree_02_branches_diff_8k.png": {
+                            "size": 179298650,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/island_tree_02/island_tree_02_branches_diff_8k.png",
+                            "md5": "82fb0ba5581cdd5745c390c1eb814601"
+                        },
+                        "textures/island_tree_02_leaves_nor_gl_8k.png": {
+                            "size": 123577595,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/island_tree_02/island_tree_02_leaves_nor_gl_8k.png",
+                            "md5": "cbe8ac81fe711b3660a9ccc977989a49"
+                        },
+                        "textures/island_tree_02_leaves_alpha_8k.png": {
+                            "size": 833036,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/island_tree_02/island_tree_02_leaves_alpha_8k.png",
+                            "md5": "b18449bc7013da8db121b585fa70ec7f"
+                        }
+                    },
+                    "size": 1302120,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/8k/island_tree_02/island_tree_02_8k.usdc",
+                    "md5": "28f156df32118724bda2f8b98be58849"
+                }
+            },
+            "4k": {
+                "usd": {
+                    "include": {
+                        "textures/island_tree_02_rough_4k.exr": {
+                            "size": 10135833,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/island_tree_02/island_tree_02_rough_4k.exr",
+                            "md5": "7e48e95dd09aaa05cc4093fdb67dd7cc"
+                        },
+                        "textures/island_tree_02_leaves_diff_4k.png": {
+                            "size": 27092655,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/island_tree_02/island_tree_02_leaves_diff_4k.png",
+                            "md5": "855ba331b083cf84948e74febe214ba7"
+                        },
+                        "textures/island_tree_02_branches_nor_gl_4k.png": {
+                            "size": 78433352,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/island_tree_02/island_tree_02_branches_nor_gl_4k.png",
+                            "md5": "da6dc1bf347e70032360b46bb68ce3bc"
+                        },
+                        "textures/island_tree_02_nor_gl_4k.exr": {
+                            "size": 29697533,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/island_tree_02/island_tree_02_nor_gl_4k.exr",
+                            "md5": "4ea78e7e24d15127de14627e5e86bbdc"
+                        },
+                        "textures/island_tree_02_leaves_rough_4k.png": {
+                            "size": 8595028,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/island_tree_02/island_tree_02_leaves_rough_4k.png",
+                            "md5": "9f932192a4b09ce24b83f7bbd7a69f32"
+                        },
+                        "textures/island_tree_02_diff_4k.jpg": {
+                            "size": 8830405,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/island_tree_02/island_tree_02_diff_4k.jpg",
+                            "md5": "7caf53ee7d737c787445405397dcab40"
+                        },
+                        "textures/island_tree_02_leaves_alpha_4k.png": {
+                            "size": 355395,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/island_tree_02/island_tree_02_leaves_alpha_4k.png",
+                            "md5": "ff188fc0bf371c528c8cacae33fb780e"
+                        },
+                        "textures/island_tree_02_branches_rough_4k.png": {
+                            "size": 8430664,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/island_tree_02/island_tree_02_branches_rough_4k.png",
+                            "md5": "232036dd94f01cd5f35b8e476465e8f5"
+                        },
+                        "textures/island_tree_02_branches_diff_4k.png": {
+                            "size": 72975335,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/island_tree_02/island_tree_02_branches_diff_4k.png",
+                            "md5": "56a1e67965a3b5e635b4bc333f9f67d1"
+                        },
+                        "textures/island_tree_02_leaves_nor_gl_4k.png": {
+                            "size": 33862226,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/island_tree_02/island_tree_02_leaves_nor_gl_4k.png",
+                            "md5": "7f287d0ffce0b7d19daedf42b09430f9"
+                        }
+                    },
+                    "size": 1302120,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/4k/island_tree_02/island_tree_02_4k.usdc",
+                    "md5": "9c432fd7a2fe6ef32175945611be9898"
+                }
+            },
+            "2k": {
+                "usd": {
+                    "include": {
+                        "textures/island_tree_02_leaves_nor_gl_2k.png": {
+                            "size": 10109651,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/island_tree_02/island_tree_02_leaves_nor_gl_2k.png",
+                            "md5": "3d3d53270e1a5d6be297307c7ab8629c"
+                        },
+                        "textures/island_tree_02_branches_nor_gl_2k.png": {
+                            "size": 20594936,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/island_tree_02/island_tree_02_branches_nor_gl_2k.png",
+                            "md5": "98af2803beca2055fde16a4ca8f2151a"
+                        },
+                        "textures/island_tree_02_nor_gl_2k.exr": {
+                            "size": 8745440,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/island_tree_02/island_tree_02_nor_gl_2k.exr",
+                            "md5": "9489ba99cbb54869eec0976b94188689"
+                        },
+                        "textures/island_tree_02_leaves_rough_2k.png": {
+                            "size": 2723975,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/island_tree_02/island_tree_02_leaves_rough_2k.png",
+                            "md5": "a49ed311f1d7f504a17d917ffbc83bd1"
+                        },
+                        "textures/island_tree_02_branches_rough_2k.png": {
+                            "size": 4730461,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/island_tree_02/island_tree_02_branches_rough_2k.png",
+                            "md5": "f2c70d75834aa97f7ef173c119f92f8d"
+                        },
+                        "textures/island_tree_02_leaves_alpha_2k.png": {
+                            "size": 139077,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/island_tree_02/island_tree_02_leaves_alpha_2k.png",
+                            "md5": "063774afef8fe1d35ce52d56bf41bf81"
+                        },
+                        "textures/island_tree_02_branches_diff_2k.png": {
+                            "size": 19963228,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/island_tree_02/island_tree_02_branches_diff_2k.png",
+                            "md5": "ea80c42ff281c3f1c931455306988dc8"
+                        },
+                        "textures/island_tree_02_diff_2k.jpg": {
+                            "size": 2665590,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/island_tree_02/island_tree_02_diff_2k.jpg",
+                            "md5": "aece4b593a8bea3b3f0ff335a4005ab1"
+                        },
+                        "textures/island_tree_02_leaves_diff_2k.png": {
+                            "size": 8602424,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/island_tree_02/island_tree_02_leaves_diff_2k.png",
+                            "md5": "8c50c73c17c285c16c9f61debff83354"
+                        },
+                        "textures/island_tree_02_rough_2k.exr": {
+                            "size": 3207515,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/island_tree_02/island_tree_02_rough_2k.exr",
+                            "md5": "c71e0c689601492bc013cf7c9d81c270"
+                        }
+                    },
+                    "size": 1302120,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/2k/island_tree_02/island_tree_02_2k.usdc",
+                    "md5": "ae76078be8c3fc9f375db7f2044b0c49"
+                }
+            },
+            "1k": {
+                "usd": {
+                    "include": {
+                        "textures/island_tree_02_leaves_alpha_1k.png": {
+                            "size": 57438,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/island_tree_02/island_tree_02_leaves_alpha_1k.png",
+                            "md5": "5ad9fb9a06e70c069bd3d3ba23577375"
+                        },
+                        "textures/island_tree_02_diff_1k.jpg": {
+                            "size": 734163,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_diff_1k.jpg",
+                            "md5": "1cad8b60225bf615f1cd651637e9dd53"
+                        },
+                        "textures/island_tree_02_leaves_diff_1k.png": {
+                            "size": 2627035,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/island_tree_02/island_tree_02_leaves_diff_1k.png",
+                            "md5": "15658604a4cde053603ac91be61d1f51"
+                        },
+                        "textures/island_tree_02_leaves_rough_1k.png": {
+                            "size": 879599,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/island_tree_02/island_tree_02_leaves_rough_1k.png",
+                            "md5": "6195150c02ed2522f8ab60c2ec02f1b9"
+                        },
+                        "textures/island_tree_02_nor_gl_1k.exr": {
+                            "size": 2353247,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/island_tree_02/island_tree_02_nor_gl_1k.exr",
+                            "md5": "368ffe29fb968d172f3f3a389e7e3a56"
+                        },
+                        "textures/island_tree_02_leaves_nor_gl_1k.png": {
+                            "size": 2886859,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/island_tree_02/island_tree_02_leaves_nor_gl_1k.png",
+                            "md5": "13a7610b0459f3175ca049b70eadbfea"
+                        },
+                        "textures/island_tree_02_branches_diff_1k.png": {
+                            "size": 5300271,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/island_tree_02/island_tree_02_branches_diff_1k.png",
+                            "md5": "4ff7259a836d99831908bbae9d2242b4"
+                        },
+                        "textures/island_tree_02_branches_rough_1k.png": {
+                            "size": 1625206,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/island_tree_02/island_tree_02_branches_rough_1k.png",
+                            "md5": "8bd9e066f93c242ef468c7c6ea6dc382"
+                        },
+                        "textures/island_tree_02_branches_nor_gl_1k.png": {
+                            "size": 5400459,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/island_tree_02/island_tree_02_branches_nor_gl_1k.png",
+                            "md5": "df3d91a9c29266f44b0b17da135a2899"
+                        },
+                        "textures/island_tree_02_rough_1k.exr": {
+                            "size": 892360,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/island_tree_02/island_tree_02_rough_1k.exr",
+                            "md5": "7971361937bd0208281706e5dd98d0cb"
+                        }
+                    },
+                    "size": 1302120,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/island_tree_02/island_tree_02_1k.usdc",
+                    "md5": "c5340f8f68eefee90dcdaa258fcb7ff6"
+                }
+            }
+        },
+        "branches_ao": {
+            "8k": {
+                "jpg": {
+                    "size": 11421066,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/island_tree_02/island_tree_02_branches_ao_8k.jpg",
+                    "md5": "4ed4f40beb33fa9cb207e7aaec25e952"
+                },
+                "png": {
+                    "size": 17269410,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/island_tree_02/island_tree_02_branches_ao_8k.png",
+                    "md5": "d04e757f0e98db07bd9220fa8bb4332d"
+                },
+                "exr": {
+                    "size": 18092928,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/island_tree_02/island_tree_02_branches_ao_8k.exr",
+                    "md5": "26a633fc34411f3178ea160984c29cc6"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 4233101,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/island_tree_02/island_tree_02_branches_ao_4k.jpg",
+                    "md5": "d4b75f9b3cd5a1c735694064de956f7c"
+                },
+                "png": {
+                    "size": 12985760,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/island_tree_02/island_tree_02_branches_ao_4k.png",
+                    "md5": "97cac1e6bf4d0f7c944e825047d736a2"
+                },
+                "exr": {
+                    "size": 10056432,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/island_tree_02/island_tree_02_branches_ao_4k.exr",
+                    "md5": "6bddeffa92e40e188f74e5c8af42b733"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1428292,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/island_tree_02/island_tree_02_branches_ao_2k.jpg",
+                    "md5": "890611cb01dffaf81e573f43c5e92834"
+                },
+                "png": {
+                    "size": 5714029,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/island_tree_02/island_tree_02_branches_ao_2k.png",
+                    "md5": "dac239229c4398a729b0e576044f6af8"
+                },
+                "exr": {
+                    "size": 3338825,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/island_tree_02/island_tree_02_branches_ao_2k.exr",
+                    "md5": "b9189342673c58679b2fbae621370a32"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 447002,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_branches_ao_1k.jpg",
+                    "md5": "ff347b6e87d2709c6487fd4f8460e344"
+                },
+                "png": {
+                    "size": 1709788,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/island_tree_02/island_tree_02_branches_ao_1k.png",
+                    "md5": "a40f205b8693365549a8d820e1541367"
+                },
+                "exr": {
+                    "size": 912660,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/island_tree_02/island_tree_02_branches_ao_1k.exr",
+                    "md5": "7a69e28a29d2994044cb54dd3f65dc48"
+                }
+            }
+        },
+        "leaves_disp": {
+            "8k": {
+                "jpg": {
+                    "size": 3060313,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/island_tree_02/island_tree_02_leaves_disp_8k.jpg",
+                    "md5": "2f1246962712bd5f19d9b73d9a073c72"
+                },
+                "png": {
+                    "size": 24488477,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/island_tree_02/island_tree_02_leaves_disp_8k.png",
+                    "md5": "3ca88e56f4e5d59a78d1f8ec3351d9df"
+                },
+                "exr": {
+                    "size": 10627705,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/island_tree_02/island_tree_02_leaves_disp_8k.exr",
+                    "md5": "81c4624fea05e6a7411ebac179c684df"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 1063550,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/island_tree_02/island_tree_02_leaves_disp_4k.jpg",
+                    "md5": "5cc03121fc6f29bcfdec914ff5326de9"
+                },
+                "png": {
+                    "size": 8393201,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/island_tree_02/island_tree_02_leaves_disp_4k.png",
+                    "md5": "35351c69fc42abd0df2ac4ee3a862e8b"
+                },
+                "exr": {
+                    "size": 3734797,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/island_tree_02/island_tree_02_leaves_disp_4k.exr",
+                    "md5": "af1220a72ed53cd8ef505705530711f8"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 330580,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/island_tree_02/island_tree_02_leaves_disp_2k.jpg",
+                    "md5": "8eed318c5c5d276d7082c85a87720bd4"
+                },
+                "png": {
+                    "size": 2524524,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/island_tree_02/island_tree_02_leaves_disp_2k.png",
+                    "md5": "45a653ac0e2fb04c2b14984bc43ddce4"
+                },
+                "exr": {
+                    "size": 1158257,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/island_tree_02/island_tree_02_leaves_disp_2k.exr",
+                    "md5": "c3fba6f82bec600c08d1132977d30e9d"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 105532,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_leaves_disp_1k.jpg",
+                    "md5": "6ffb64dbbd5dc790764ea1f771f82c1f"
+                },
+                "png": {
+                    "size": 784681,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/island_tree_02/island_tree_02_leaves_disp_1k.png",
+                    "md5": "d0ce66a3296508433d61f37159edbf5c"
+                },
+                "exr": {
+                    "size": 360391,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/island_tree_02/island_tree_02_leaves_disp_1k.exr",
+                    "md5": "418fd3b41278a63addaf60f267bb278e"
+                }
+            }
+        },
+        "leaves_alpha": {
+            "8k": {
+                "jpg": {
+                    "size": 1318892,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/island_tree_02/island_tree_02_leaves_alpha_8k.jpg",
+                    "md5": "ad3b2efce6836fda79b0373d0729c707"
+                },
+                "png": {
+                    "size": 833036,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/island_tree_02/island_tree_02_leaves_alpha_8k.png",
+                    "md5": "b18449bc7013da8db121b585fa70ec7f"
+                },
+                "exr": {
+                    "size": 1053532,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/island_tree_02/island_tree_02_leaves_alpha_8k.exr",
+                    "md5": "c5f65a1ad402fbdfa0dc3c26569dedb6"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 476185,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/island_tree_02/island_tree_02_leaves_alpha_4k.jpg",
+                    "md5": "5bc55ecadb9b59c0c49d14693a112460"
+                },
+                "png": {
+                    "size": 355395,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/island_tree_02/island_tree_02_leaves_alpha_4k.png",
+                    "md5": "ff188fc0bf371c528c8cacae33fb780e"
+                },
+                "exr": {
+                    "size": 435371,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/island_tree_02/island_tree_02_leaves_alpha_4k.exr",
+                    "md5": "02eb897df3d46c39d16e7ab013559663"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 189384,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/island_tree_02/island_tree_02_leaves_alpha_2k.jpg",
+                    "md5": "38e12b7531d4c13ec9d3cf70342ccb6c"
+                },
+                "png": {
+                    "size": 139077,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/island_tree_02/island_tree_02_leaves_alpha_2k.png",
+                    "md5": "063774afef8fe1d35ce52d56bf41bf81"
+                },
+                "exr": {
+                    "size": 183304,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/island_tree_02/island_tree_02_leaves_alpha_2k.exr",
+                    "md5": "062792eebdf38ac8c3f93fbde3340122"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 84228,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_leaves_alpha_1k.jpg",
+                    "md5": "da7ea0a883265115f2c0f5fbc6101f8d"
+                },
+                "png": {
+                    "size": 57438,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/island_tree_02/island_tree_02_leaves_alpha_1k.png",
+                    "md5": "5ad9fb9a06e70c069bd3d3ba23577375"
+                },
+                "exr": {
+                    "size": 80270,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/island_tree_02/island_tree_02_leaves_alpha_1k.exr",
+                    "md5": "361ca1471e1b3ec3f99ecce4cd074838"
+                }
+            }
+        },
+        "nor_gl": {
+            "8k": {
+                "jpg": {
+                    "size": 46667254,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/island_tree_02/island_tree_02_nor_gl_8k.jpg",
+                    "md5": "dc7fc71ffd234353eb394b49c229c6d6"
+                },
+                "png": {
+                    "size": 243916332,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/island_tree_02/island_tree_02_nor_gl_8k.png",
+                    "md5": "cf20b391ecb26ab0010144bb8ff38df7"
+                },
+                "exr": {
+                    "size": 87222992,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/island_tree_02/island_tree_02_nor_gl_8k.exr",
+                    "md5": "25ff5485e569f65d90a2cc380f548e4a"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 15129085,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/island_tree_02/island_tree_02_nor_gl_4k.jpg",
+                    "md5": "d37a26d06de4ec1c25e5307fa3b67b8d"
+                },
+                "png": {
+                    "size": 67935188,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/island_tree_02/island_tree_02_nor_gl_4k.png",
+                    "md5": "0de9e726db0205bc1d9f2f0469f06f9a"
+                },
+                "exr": {
+                    "size": 29697533,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/island_tree_02/island_tree_02_nor_gl_4k.exr",
+                    "md5": "4ea78e7e24d15127de14627e5e86bbdc"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 4383978,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/island_tree_02/island_tree_02_nor_gl_2k.jpg",
+                    "md5": "a3fff1f2df6d4222c06d6e947faf61be"
+                },
+                "png": {
+                    "size": 19273040,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/island_tree_02/island_tree_02_nor_gl_2k.png",
+                    "md5": "5797d7a40d3bd61ab2621f0fe252c645"
+                },
+                "exr": {
+                    "size": 8745440,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/island_tree_02/island_tree_02_nor_gl_2k.exr",
+                    "md5": "9489ba99cbb54869eec0976b94188689"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 1167760,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_nor_gl_1k.jpg",
+                    "md5": "d7ba36a4600e2335e03cce01c5c44c1f"
+                },
+                "png": {
+                    "size": 5318747,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/island_tree_02/island_tree_02_nor_gl_1k.png",
+                    "md5": "3ef0a1fd5e23853632ad434a557a2a70"
+                },
+                "exr": {
+                    "size": 2353247,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/island_tree_02/island_tree_02_nor_gl_1k.exr",
+                    "md5": "368ffe29fb968d172f3f3a389e7e3a56"
+                }
+            }
+        },
+        "branches_disp": {
+            "8k": {
+                "jpg": {
+                    "size": 5615237,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/island_tree_02/island_tree_02_branches_disp_8k.jpg",
+                    "md5": "d8207bc3e4bee8467a6d13cdf067fecb"
+                },
+                "png": {
+                    "size": 36719743,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/island_tree_02/island_tree_02_branches_disp_8k.png",
+                    "md5": "2d662f1b6e9cfe8c3716df86a3bd91ad"
+                },
+                "exr": {
+                    "size": 13321777,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/island_tree_02/island_tree_02_branches_disp_8k.exr",
+                    "md5": "5f4bc8662ee5c90fdf6b70a20442c31e"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 1973019,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/island_tree_02/island_tree_02_branches_disp_4k.jpg",
+                    "md5": "2e990dc0f2b989d5ee5d5cf44a652fdd"
+                },
+                "png": {
+                    "size": 16728378,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/island_tree_02/island_tree_02_branches_disp_4k.png",
+                    "md5": "45f736ef9179ee95ba76f898d9d1674b"
+                },
+                "exr": {
+                    "size": 4999719,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/island_tree_02/island_tree_02_branches_disp_4k.exr",
+                    "md5": "41134cf17f44421001c1d5afd60aa31a"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 660046,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/island_tree_02/island_tree_02_branches_disp_2k.jpg",
+                    "md5": "982206bf1d1c857824000724db8d1d59"
+                },
+                "png": {
+                    "size": 5442171,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/island_tree_02/island_tree_02_branches_disp_2k.png",
+                    "md5": "2789c1299d7001a35448764514096d32"
+                },
+                "exr": {
+                    "size": 1929001,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/island_tree_02/island_tree_02_branches_disp_2k.exr",
+                    "md5": "6f6d0b0be64d12e545c5f04537a3ddd7"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 219666,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_branches_disp_1k.jpg",
+                    "md5": "66922b1ac9ec747fbd24cf49075af008"
+                },
+                "png": {
+                    "size": 1536806,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/island_tree_02/island_tree_02_branches_disp_1k.png",
+                    "md5": "644a56e5a38453f25d1d670c4824e5e3"
+                },
+                "exr": {
+                    "size": 714691,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/island_tree_02/island_tree_02_branches_disp_1k.exr",
+                    "md5": "17b567008e82b9c25fdc3d3beb429d2b"
+                }
+            }
+        },
+        "arm": {
+            "8k": {
+                "jpg": {
+                    "size": 24855832,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/island_tree_02/island_tree_02_arm_8k.jpg",
+                    "md5": "239028af7782f9a94cadb46d1fe65a50"
+                },
+                "png": {
+                    "size": 44647809,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/island_tree_02/island_tree_02_arm_8k.png",
+                    "md5": "7ef233d617a04cae14781272515638d4"
+                },
+                "exr": {
+                    "size": 39398732,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/island_tree_02/island_tree_02_arm_8k.exr",
+                    "md5": "2833976b3f67f65c7d840aa784b91ee0"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 7506913,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/island_tree_02/island_tree_02_arm_4k.jpg",
+                    "md5": "7300840b58a301e3515d10ea22fc1299"
+                },
+                "png": {
+                    "size": 14024478,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/island_tree_02/island_tree_02_arm_4k.png",
+                    "md5": "5605c080d3f7b12a10ce016861ca9915"
+                },
+                "exr": {
+                    "size": 12967350,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/island_tree_02/island_tree_02_arm_4k.exr",
+                    "md5": "12f365ae54eff8a18f847d3db42bdd4d"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2374817,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/island_tree_02/island_tree_02_arm_2k.jpg",
+                    "md5": "19630a9748e35285e51f66b002171ac9"
+                },
+                "png": {
+                    "size": 4344219,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/island_tree_02/island_tree_02_arm_2k.png",
+                    "md5": "6e8b20f8095bb23e29492f31c284fa06"
+                },
+                "exr": {
+                    "size": 4577622,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/island_tree_02/island_tree_02_arm_2k.exr",
+                    "md5": "484deb9352ddb8f37498a44fc1a586f9"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 695523,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_arm_1k.jpg",
+                    "md5": "c2def326f508a8da45a318e690e80f00"
+                },
+                "png": {
+                    "size": 1244279,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/island_tree_02/island_tree_02_arm_1k.png",
+                    "md5": "2d634ef61774203b9ab28fc215bfd951"
+                },
+                "exr": {
+                    "size": 1441406,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/island_tree_02/island_tree_02_arm_1k.exr",
+                    "md5": "b4c0201f229042ebfc7b44f9fea2982e"
+                }
+            }
+        },
+        "Diffuse": {
+            "8k": {
+                "jpg": {
+                    "size": 29992199,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/island_tree_02/island_tree_02_diff_8k.jpg",
+                    "md5": "7f78eb8625b8a92a7c39efd0abed4b78"
+                },
+                "png": {
+                    "size": 193709010,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/island_tree_02/island_tree_02_diff_8k.png",
+                    "md5": "7e7433f212c13136c8c08ea1b6e0d659"
+                },
+                "exr": {
+                    "size": 57603477,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/island_tree_02/island_tree_02_diff_8k.exr",
+                    "md5": "42f7bf9b48d6361f3806a1aa85dae520"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 8830405,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/island_tree_02/island_tree_02_diff_4k.jpg",
+                    "md5": "7caf53ee7d737c787445405397dcab40"
+                },
+                "png": {
+                    "size": 62674794,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/island_tree_02/island_tree_02_diff_4k.png",
+                    "md5": "52772c9bf37f9a10e0266d40db147e5c"
+                },
+                "exr": {
+                    "size": 14436554,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/island_tree_02/island_tree_02_diff_4k.exr",
+                    "md5": "732bdabba2a439ed5efd203ee29c6686"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2665590,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/island_tree_02/island_tree_02_diff_2k.jpg",
+                    "md5": "aece4b593a8bea3b3f0ff335a4005ab1"
+                },
+                "png": {
+                    "size": 18223353,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/island_tree_02/island_tree_02_diff_2k.png",
+                    "md5": "35977aded97ff03b3a5517c27aca25a6"
+                },
+                "exr": {
+                    "size": 4444282,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/island_tree_02/island_tree_02_diff_2k.exr",
+                    "md5": "afe4fa218a51569b0f8f4cc979ba03d4"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 734163,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_diff_1k.jpg",
+                    "md5": "1cad8b60225bf615f1cd651637e9dd53"
+                },
+                "png": {
+                    "size": 5059782,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/island_tree_02/island_tree_02_diff_1k.png",
+                    "md5": "9b7949794387e00e2465697f68a296f0"
+                },
+                "exr": {
+                    "size": 1280763,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/island_tree_02/island_tree_02_diff_1k.exr",
+                    "md5": "e94db622c953442729e81b02fe7f5521"
+                }
+            }
+        },
+        "leaves_diff": {
+            "8k": {
+                "jpg": {
+                    "size": 12909989,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/island_tree_02/island_tree_02_leaves_diff_8k.jpg",
+                    "md5": "fbd8c252f42e27fa3dbe497fd5e5a498"
+                },
+                "png": {
+                    "size": 77580347,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/island_tree_02/island_tree_02_leaves_diff_8k.png",
+                    "md5": "8be1579c20364fe97e8619f018284157"
+                },
+                "exr": {
+                    "size": 30894958,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/island_tree_02/island_tree_02_leaves_diff_8k.exr",
+                    "md5": "c0f1e5d97d676bcffefdfe92ec726539"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 3821153,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/island_tree_02/island_tree_02_leaves_diff_4k.jpg",
+                    "md5": "620e1a0f41c95cc91950de57efafab8c"
+                },
+                "png": {
+                    "size": 27092655,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/island_tree_02/island_tree_02_leaves_diff_4k.png",
+                    "md5": "855ba331b083cf84948e74febe214ba7"
+                },
+                "exr": {
+                    "size": 9059680,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/island_tree_02/island_tree_02_leaves_diff_4k.exr",
+                    "md5": "77ce00a8c086a567c2bf05c277196091"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1081516,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/island_tree_02/island_tree_02_leaves_diff_2k.jpg",
+                    "md5": "297ef5d1b549b78e93b01306bf2e8658"
+                },
+                "png": {
+                    "size": 8602424,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/island_tree_02/island_tree_02_leaves_diff_2k.png",
+                    "md5": "8c50c73c17c285c16c9f61debff83354"
+                },
+                "exr": {
+                    "size": 2481151,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/island_tree_02/island_tree_02_leaves_diff_2k.exr",
+                    "md5": "90f586fe030b0580db33dc672e8276db"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 326460,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_leaves_diff_1k.jpg",
+                    "md5": "fdd9ac467185a3a9d7d928ad36f7de58"
+                },
+                "png": {
+                    "size": 2627035,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/island_tree_02/island_tree_02_leaves_diff_1k.png",
+                    "md5": "15658604a4cde053603ac91be61d1f51"
+                },
+                "exr": {
+                    "size": 701752,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/island_tree_02/island_tree_02_leaves_diff_1k.exr",
+                    "md5": "46c2ae75ca0d1ea2b540d1dd9b712fc5"
+                }
+            }
+        },
+        "leaves_ao": {
+            "8k": {
+                "jpg": {
+                    "size": 5678806,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/island_tree_02/island_tree_02_leaves_ao_8k.jpg",
+                    "md5": "c21478d3da3f8926220e69e80d8cbb36"
+                },
+                "png": {
+                    "size": 7819650,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/island_tree_02/island_tree_02_leaves_ao_8k.png",
+                    "md5": "eb634dd421a69e2d89924608054f31ce"
+                },
+                "exr": {
+                    "size": 7743829,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/island_tree_02/island_tree_02_leaves_ao_8k.exr",
+                    "md5": "a6249c1d473db1c406e37c3b5589c1ee"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 2053566,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/island_tree_02/island_tree_02_leaves_ao_4k.jpg",
+                    "md5": "53235feffe7519dab87e0cce964a96cb"
+                },
+                "png": {
+                    "size": 5445592,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/island_tree_02/island_tree_02_leaves_ao_4k.png",
+                    "md5": "baefafb375e28ccace101cc06f28e9a5"
+                },
+                "exr": {
+                    "size": 3827046,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/island_tree_02/island_tree_02_leaves_ao_4k.exr",
+                    "md5": "4531785cdff4d8e9a6b1be614e9bf15a"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 500316,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/island_tree_02/island_tree_02_leaves_ao_2k.jpg",
+                    "md5": "86bfdc4c65e9e39ebf43819daef8b9fa"
+                },
+                "png": {
+                    "size": 1872826,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/island_tree_02/island_tree_02_leaves_ao_2k.png",
+                    "md5": "6f93fcca82c5ead249bc29750e39c19b"
+                },
+                "exr": {
+                    "size": 1068335,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/island_tree_02/island_tree_02_leaves_ao_2k.exr",
+                    "md5": "9c2db3b55690326d764d4c700e3ecc90"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 122186,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_leaves_ao_1k.jpg",
+                    "md5": "738b52ec60049380881b2cb9254ceb50"
+                },
+                "png": {
+                    "size": 561215,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/island_tree_02/island_tree_02_leaves_ao_1k.png",
+                    "md5": "6b66d8620510b53b8dbc31dd7a3481d9"
+                },
+                "exr": {
+                    "size": 296986,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/island_tree_02/island_tree_02_leaves_ao_1k.exr",
+                    "md5": "46c846a4f38bc9167153b38f0e5e4e25"
+                }
+            }
+        },
+        "branches_arm": {
+            "8k": {
+                "jpg": {
+                    "size": 12914091,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/island_tree_02/island_tree_02_branches_arm_8k.jpg",
+                    "md5": "a291e027d694df6f5ec29c3b6523299c"
+                },
+                "png": {
+                    "size": 26562258,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/island_tree_02/island_tree_02_branches_arm_8k.png",
+                    "md5": "b12c10321a0e31d7d475c7951bc3ca71"
+                },
+                "exr": {
+                    "size": 17266750,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/island_tree_02/island_tree_02_branches_arm_8k.exr",
+                    "md5": "9dbe80a1f7a65573feb54fee3ca79f4e"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 4553883,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/island_tree_02/island_tree_02_branches_arm_4k.jpg",
+                    "md5": "b724a05ced8b7d9981dbd42cfbd8abae"
+                },
+                "png": {
+                    "size": 9918026,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/island_tree_02/island_tree_02_branches_arm_4k.png",
+                    "md5": "80f7f6c4b18fe704a8bb4490170f6af9"
+                },
+                "exr": {
+                    "size": 6198667,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/island_tree_02/island_tree_02_branches_arm_4k.exr",
+                    "md5": "6cca9a3bae8640d146b93fddeb9fe8bf"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1517853,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/island_tree_02/island_tree_02_branches_arm_2k.jpg",
+                    "md5": "5b18a3140a4d1567be01b986b964e9b2"
+                },
+                "png": {
+                    "size": 3207839,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/island_tree_02/island_tree_02_branches_arm_2k.png",
+                    "md5": "080f3a1a1549abb18186e4182760181f"
+                },
+                "exr": {
+                    "size": 2219457,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/island_tree_02/island_tree_02_branches_arm_2k.exr",
+                    "md5": "3ab8195dafdb890737f39ee8d6b9615a"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 488034,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_branches_arm_1k.jpg",
+                    "md5": "0e2f2016014bd765f3c9ed5788c30dde"
+                },
+                "png": {
+                    "size": 999330,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/island_tree_02/island_tree_02_branches_arm_1k.png",
+                    "md5": "cfa9063c4a95cbd947fd01cb5ce9f530"
+                },
+                "exr": {
+                    "size": 767679,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/island_tree_02/island_tree_02_branches_arm_1k.exr",
+                    "md5": "bc5b3d7afbf8e7a154430278a465b432"
+                }
+            }
+        },
+        "gltf": {
+            "8k": {
+                "gltf": {
+                    "include": {
+                        "textures/island_tree_02_nor_gl_8k.jpg": {
+                            "size": 46667254,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/island_tree_02/island_tree_02_nor_gl_8k.jpg",
+                            "md5": "dc7fc71ffd234353eb394b49c229c6d6"
+                        },
+                        "textures/island_tree_02_leaves_diff_8k.jpg": {
+                            "size": 12909989,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/island_tree_02/island_tree_02_leaves_diff_8k.jpg",
+                            "md5": "fbd8c252f42e27fa3dbe497fd5e5a498"
+                        },
+                        "textures/island_tree_02_arm_8k.jpg": {
+                            "size": 24855832,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/island_tree_02/island_tree_02_arm_8k.jpg",
+                            "md5": "239028af7782f9a94cadb46d1fe65a50"
+                        },
+                        "textures/island_tree_02_branches_diff_8k.jpg": {
+                            "size": 13789422,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/island_tree_02/island_tree_02_branches_diff_8k.jpg",
+                            "md5": "aa39dbb3187ebe3ffd9ede6619844c58"
+                        },
+                        "island_tree_02.bin": {
+                            "size": 40686576,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/island_tree_02/island_tree_02.bin",
+                            "md5": "1b25c252e7c574f1f2a4e024ce4d8905"
+                        },
+                        "textures/island_tree_02_branches_arm_8k.jpg": {
+                            "size": 12914091,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/island_tree_02/island_tree_02_branches_arm_8k.jpg",
+                            "md5": "a291e027d694df6f5ec29c3b6523299c"
+                        },
+                        "textures/island_tree_02_leaves_nor_gl_8k.jpg": {
+                            "size": 16426686,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/island_tree_02/island_tree_02_leaves_nor_gl_8k.jpg",
+                            "md5": "ac72cdda67fc2bbc24529bd940cc8554"
+                        },
+                        "textures/island_tree_02_leaves_arm_8k.jpg": {
+                            "size": 20523503,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/island_tree_02/island_tree_02_leaves_arm_8k.jpg",
+                            "md5": "78afc7dfe57397bfbceab758cb7b34d2"
+                        },
+                        "textures/island_tree_02_branches_nor_gl_8k.jpg": {
+                            "size": 19801579,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/island_tree_02/island_tree_02_branches_nor_gl_8k.jpg",
+                            "md5": "37f74fb64d8deadd7484f70d7497b3d5"
+                        },
+                        "textures/island_tree_02_diff_8k.jpg": {
+                            "size": 29992199,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/island_tree_02/island_tree_02_diff_8k.jpg",
+                            "md5": "7f78eb8625b8a92a7c39efd0abed4b78"
+                        }
+                    },
+                    "size": 8000,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/island_tree_02/island_tree_02_8k.gltf",
+                    "md5": "f539d4ecf67da5cd10890a6b55c5f859"
+                }
+            },
+            "4k": {
+                "gltf": {
+                    "include": {
+                        "textures/island_tree_02_arm_4k.jpg": {
+                            "size": 7506913,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/island_tree_02/island_tree_02_arm_4k.jpg",
+                            "md5": "7300840b58a301e3515d10ea22fc1299"
+                        },
+                        "textures/island_tree_02_leaves_arm_4k.jpg": {
+                            "size": 5882450,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/island_tree_02/island_tree_02_leaves_arm_4k.jpg",
+                            "md5": "f238b37d71b0f94a328bb2557b8fbb1f"
+                        },
+                        "textures/island_tree_02_branches_arm_4k.jpg": {
+                            "size": 4553883,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/island_tree_02/island_tree_02_branches_arm_4k.jpg",
+                            "md5": "b724a05ced8b7d9981dbd42cfbd8abae"
+                        },
+                        "textures/island_tree_02_branches_diff_4k.jpg": {
+                            "size": 4246736,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/island_tree_02/island_tree_02_branches_diff_4k.jpg",
+                            "md5": "276e396174bfd486e07335abaf36bbfb"
+                        },
+                        "island_tree_02.bin": {
+                            "size": 40686576,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/island_tree_02/island_tree_02.bin",
+                            "md5": "1b25c252e7c574f1f2a4e024ce4d8905"
+                        },
+                        "textures/island_tree_02_leaves_nor_gl_4k.jpg": {
+                            "size": 5083486,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/island_tree_02/island_tree_02_leaves_nor_gl_4k.jpg",
+                            "md5": "9a351689766899ab46bab1ab319bf5ad"
+                        },
+                        "textures/island_tree_02_nor_gl_4k.jpg": {
+                            "size": 15129085,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/island_tree_02/island_tree_02_nor_gl_4k.jpg",
+                            "md5": "d37a26d06de4ec1c25e5307fa3b67b8d"
+                        },
+                        "textures/island_tree_02_leaves_diff_4k.jpg": {
+                            "size": 3821153,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/island_tree_02/island_tree_02_leaves_diff_4k.jpg",
+                            "md5": "620e1a0f41c95cc91950de57efafab8c"
+                        },
+                        "textures/island_tree_02_branches_nor_gl_4k.jpg": {
+                            "size": 6940825,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/island_tree_02/island_tree_02_branches_nor_gl_4k.jpg",
+                            "md5": "e91425eda67d296d6257556e32b08163"
+                        },
+                        "textures/island_tree_02_diff_4k.jpg": {
+                            "size": 8830405,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/island_tree_02/island_tree_02_diff_4k.jpg",
+                            "md5": "7caf53ee7d737c787445405397dcab40"
+                        }
+                    },
+                    "size": 8000,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/island_tree_02/island_tree_02_4k.gltf",
+                    "md5": "d7d0e7ad2b83767aa3652e59ea66db52"
+                }
+            },
+            "2k": {
+                "gltf": {
+                    "include": {
+                        "textures/island_tree_02_arm_2k.jpg": {
+                            "size": 2374817,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/island_tree_02/island_tree_02_arm_2k.jpg",
+                            "md5": "19630a9748e35285e51f66b002171ac9"
+                        },
+                        "textures/island_tree_02_leaves_diff_2k.jpg": {
+                            "size": 1081516,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/island_tree_02/island_tree_02_leaves_diff_2k.jpg",
+                            "md5": "297ef5d1b549b78e93b01306bf2e8658"
+                        },
+                        "island_tree_02.bin": {
+                            "size": 40686576,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/island_tree_02/island_tree_02.bin",
+                            "md5": "1b25c252e7c574f1f2a4e024ce4d8905"
+                        },
+                        "textures/island_tree_02_leaves_nor_gl_2k.jpg": {
+                            "size": 1376949,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/island_tree_02/island_tree_02_leaves_nor_gl_2k.jpg",
+                            "md5": "a0d3e866488f9bcc84c6ffd06c809c7d"
+                        },
+                        "textures/island_tree_02_diff_2k.jpg": {
+                            "size": 2665590,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/island_tree_02/island_tree_02_diff_2k.jpg",
+                            "md5": "aece4b593a8bea3b3f0ff335a4005ab1"
+                        },
+                        "textures/island_tree_02_branches_nor_gl_2k.jpg": {
+                            "size": 2472399,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/island_tree_02/island_tree_02_branches_nor_gl_2k.jpg",
+                            "md5": "95d6960f726aa9019f9912364abd45e9"
+                        },
+                        "textures/island_tree_02_leaves_arm_2k.jpg": {
+                            "size": 1653812,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/island_tree_02/island_tree_02_leaves_arm_2k.jpg",
+                            "md5": "e1d2c2839de876d93f1ffcb9754db854"
+                        },
+                        "textures/island_tree_02_nor_gl_2k.jpg": {
+                            "size": 4383978,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/island_tree_02/island_tree_02_nor_gl_2k.jpg",
+                            "md5": "a3fff1f2df6d4222c06d6e947faf61be"
+                        },
+                        "textures/island_tree_02_branches_arm_2k.jpg": {
+                            "size": 1517853,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/island_tree_02/island_tree_02_branches_arm_2k.jpg",
+                            "md5": "5b18a3140a4d1567be01b986b964e9b2"
+                        },
+                        "textures/island_tree_02_branches_diff_2k.jpg": {
+                            "size": 1456180,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/island_tree_02/island_tree_02_branches_diff_2k.jpg",
+                            "md5": "047baf4dbae6fd2c5f9a2d2f1b236abb"
+                        }
+                    },
+                    "size": 8000,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/island_tree_02/island_tree_02_2k.gltf",
+                    "md5": "80a438fa5b5b8923c96da9299b5df8b5"
+                }
+            },
+            "1k": {
+                "gltf": {
+                    "include": {
+                        "textures/island_tree_02_leaves_arm_1k.jpg": {
+                            "size": 494087,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_leaves_arm_1k.jpg",
+                            "md5": "398a57123c018ed60cbf697077815ea9"
+                        },
+                        "textures/island_tree_02_diff_1k.jpg": {
+                            "size": 734163,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_diff_1k.jpg",
+                            "md5": "1cad8b60225bf615f1cd651637e9dd53"
+                        },
+                        "textures/island_tree_02_leaves_nor_gl_1k.jpg": {
+                            "size": 378925,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_leaves_nor_gl_1k.jpg",
+                            "md5": "c7a96d5d6677b617478f50cb11b3fb74"
+                        },
+                        "textures/island_tree_02_branches_diff_1k.jpg": {
+                            "size": 520785,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_branches_diff_1k.jpg",
+                            "md5": "5194a85506c328ce27ad9480a8c5cb7e"
+                        },
+                        "textures/island_tree_02_branches_nor_gl_1k.jpg": {
+                            "size": 833470,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_branches_nor_gl_1k.jpg",
+                            "md5": "5699ec98933c31ddd53625dfaee4b909"
+                        },
+                        "textures/island_tree_02_arm_1k.jpg": {
+                            "size": 695523,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_arm_1k.jpg",
+                            "md5": "c2def326f508a8da45a318e690e80f00"
+                        },
+                        "island_tree_02.bin": {
+                            "size": 40686576,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/island_tree_02/island_tree_02.bin",
+                            "md5": "1b25c252e7c574f1f2a4e024ce4d8905"
+                        },
+                        "textures/island_tree_02_leaves_diff_1k.jpg": {
+                            "size": 326460,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_leaves_diff_1k.jpg",
+                            "md5": "fdd9ac467185a3a9d7d928ad36f7de58"
+                        },
+                        "textures/island_tree_02_nor_gl_1k.jpg": {
+                            "size": 1167760,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_nor_gl_1k.jpg",
+                            "md5": "d7ba36a4600e2335e03cce01c5c44c1f"
+                        },
+                        "textures/island_tree_02_branches_arm_1k.jpg": {
+                            "size": 488034,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_branches_arm_1k.jpg",
+                            "md5": "0e2f2016014bd765f3c9ed5788c30dde"
+                        }
+                    },
+                    "size": 8000,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/island_tree_02/island_tree_02_1k.gltf",
+                    "md5": "17716cd2bf3e280d012ecf1d58517e40"
+                }
+            }
+        },
+        "branches_rough": {
+            "8k": {
+                "jpg": {
+                    "size": 7956912,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/island_tree_02/island_tree_02_branches_rough_8k.jpg",
+                    "md5": "2332c18b75b71cdeafbf737ef14f2700"
+                },
+                "png": {
+                    "size": 9735754,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/island_tree_02/island_tree_02_branches_rough_8k.png",
+                    "md5": "91f6bde7c383b95af1d5d97e867ec6f6"
+                },
+                "exr": {
+                    "size": 11158769,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/island_tree_02/island_tree_02_branches_rough_8k.exr",
+                    "md5": "10fd88d8d3a049cea321858102608a01"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 2641614,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/island_tree_02/island_tree_02_branches_rough_4k.jpg",
+                    "md5": "cd67eae821fbee96b0cb493efdd937ba"
+                },
+                "png": {
+                    "size": 8430664,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/island_tree_02/island_tree_02_branches_rough_4k.png",
+                    "md5": "232036dd94f01cd5f35b8e476465e8f5"
+                },
+                "exr": {
+                    "size": 6615060,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/island_tree_02/island_tree_02_branches_rough_4k.exr",
+                    "md5": "399a14015a1642545b4d518f1258d1ea"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 869431,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/island_tree_02/island_tree_02_branches_rough_2k.jpg",
+                    "md5": "bf32d4c98c4491bfd7b3dcb791a7813b"
+                },
+                "png": {
+                    "size": 4730461,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/island_tree_02/island_tree_02_branches_rough_2k.png",
+                    "md5": "f2c70d75834aa97f7ef173c119f92f8d"
+                },
+                "exr": {
+                    "size": 2884609,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/island_tree_02/island_tree_02_branches_rough_2k.exr",
+                    "md5": "1d412a81813eeb33f392a07c2e87a410"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 296253,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_branches_rough_1k.jpg",
+                    "md5": "2662769c28909660c926991fcf663f47"
+                },
+                "png": {
+                    "size": 1625206,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/island_tree_02/island_tree_02_branches_rough_1k.png",
+                    "md5": "8bd9e066f93c242ef468c7c6ea6dc382"
+                },
+                "exr": {
+                    "size": 927096,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/island_tree_02/island_tree_02_branches_rough_1k.exr",
+                    "md5": "a7851a1b9cc4969972381aa896fe3367"
+                }
+            }
+        },
+        "leaves_nor_gl": {
+            "8k": {
+                "jpg": {
+                    "size": 16426686,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/island_tree_02/island_tree_02_leaves_nor_gl_8k.jpg",
+                    "md5": "ac72cdda67fc2bbc24529bd940cc8554"
+                },
+                "png": {
+                    "size": 123577595,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/island_tree_02/island_tree_02_leaves_nor_gl_8k.png",
+                    "md5": "cbe8ac81fe711b3660a9ccc977989a49"
+                },
+                "exr": {
+                    "size": 30434383,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/island_tree_02/island_tree_02_leaves_nor_gl_8k.exr",
+                    "md5": "3bd5a478c409342a75c8361df638b99a"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 5083486,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/island_tree_02/island_tree_02_leaves_nor_gl_4k.jpg",
+                    "md5": "9a351689766899ab46bab1ab319bf5ad"
+                },
+                "png": {
+                    "size": 33862226,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/island_tree_02/island_tree_02_leaves_nor_gl_4k.png",
+                    "md5": "7f287d0ffce0b7d19daedf42b09430f9"
+                },
+                "exr": {
+                    "size": 10867327,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/island_tree_02/island_tree_02_leaves_nor_gl_4k.exr",
+                    "md5": "c0ca49737ae196d03b381ef7a9fad9db"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1376949,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/island_tree_02/island_tree_02_leaves_nor_gl_2k.jpg",
+                    "md5": "a0d3e866488f9bcc84c6ffd06c809c7d"
+                },
+                "png": {
+                    "size": 10109651,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/island_tree_02/island_tree_02_leaves_nor_gl_2k.png",
+                    "md5": "3d3d53270e1a5d6be297307c7ab8629c"
+                },
+                "exr": {
+                    "size": 3100217,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/island_tree_02/island_tree_02_leaves_nor_gl_2k.exr",
+                    "md5": "2d18973e10eed7581736bbf2982f5542"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 378925,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_leaves_nor_gl_1k.jpg",
+                    "md5": "c7a96d5d6677b617478f50cb11b3fb74"
+                },
+                "png": {
+                    "size": 2886859,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/island_tree_02/island_tree_02_leaves_nor_gl_1k.png",
+                    "md5": "13a7610b0459f3175ca049b70eadbfea"
+                },
+                "exr": {
+                    "size": 850877,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/island_tree_02/island_tree_02_leaves_nor_gl_1k.exr",
+                    "md5": "e95f366f0952232bcc919794ee8bdcf5"
+                }
+            }
+        },
+        "AO": {
+            "8k": {
+                "jpg": {
+                    "size": 16532247,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/island_tree_02/island_tree_02_ao_8k.jpg",
+                    "md5": "be6bb558d08449f9a278dbc3fb000136"
+                },
+                "png": {
+                    "size": 21335865,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/island_tree_02/island_tree_02_ao_8k.png",
+                    "md5": "c507dec10591fdb0b8fcfb772622fcba"
+                },
+                "exr": {
+                    "size": 28597568,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/island_tree_02/island_tree_02_ao_8k.exr",
+                    "md5": "a79382d35cf83fadb5696ae6a20e908f"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 5907631,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/island_tree_02/island_tree_02_ao_4k.jpg",
+                    "md5": "54024c03c1eca697851b21a2705fd85c"
+                },
+                "png": {
+                    "size": 15931047,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/island_tree_02/island_tree_02_ao_4k.png",
+                    "md5": "5ef4e990123646441ea1d2ef85a80ae9"
+                },
+                "exr": {
+                    "size": 12021790,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/island_tree_02/island_tree_02_ao_4k.exr",
+                    "md5": "32349559725079ead8b1ce3a9afc0006"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2020761,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/island_tree_02/island_tree_02_ao_2k.jpg",
+                    "md5": "28302178650bb6056d00bff5eeea3ca7"
+                },
+                "png": {
+                    "size": 5325973,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/island_tree_02/island_tree_02_ao_2k.png",
+                    "md5": "653e4f3be3525b217e2cc5f5d5e85ab6"
+                },
+                "exr": {
+                    "size": 3690589,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/island_tree_02/island_tree_02_ao_2k.exr",
+                    "md5": "2386b5bbf7420d5c975ffa1cae71e258"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 616297,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_ao_1k.jpg",
+                    "md5": "53c31baa3a9fc5efe10b2886436f9965"
+                },
+                "png": {
+                    "size": 1467652,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/island_tree_02/island_tree_02_ao_1k.png",
+                    "md5": "c9c02768dbfd1540bcad528760efd6b4"
+                },
+                "exr": {
+                    "size": 1057480,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/island_tree_02/island_tree_02_ao_1k.exr",
+                    "md5": "58c4f7cd2cf2c3e480382e40c66c6b8c"
+                }
+            }
+        },
+        "Rough": {
+            "8k": {
+                "jpg": {
+                    "size": 19431513,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/island_tree_02/island_tree_02_rough_8k.jpg",
+                    "md5": "7177c48e93e3ebc8c0fe93997dacc394"
+                },
+                "png": {
+                    "size": 24038973,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/island_tree_02/island_tree_02_rough_8k.png",
+                    "md5": "00c48152e495ff5e4c00144b6ba5e5ad"
+                },
+                "exr": {
+                    "size": 25461878,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/island_tree_02/island_tree_02_rough_8k.exr",
+                    "md5": "755e83907075b6025b54b487d7881286"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 4784611,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/island_tree_02/island_tree_02_rough_4k.jpg",
+                    "md5": "c0b01b9d1e6ad0c00726f47f88e0e169"
+                },
+                "png": {
+                    "size": 13686391,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/island_tree_02/island_tree_02_rough_4k.png",
+                    "md5": "6346e0c31fa6abcc471a476fb29bbe77"
+                },
+                "exr": {
+                    "size": 10135833,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/island_tree_02/island_tree_02_rough_4k.exr",
+                    "md5": "7e48e95dd09aaa05cc4093fdb67dd7cc"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1442872,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/island_tree_02/island_tree_02_rough_2k.jpg",
+                    "md5": "2b1c63a6b0b5e69e69da25ba4ec976a0"
+                },
+                "png": {
+                    "size": 5250512,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/island_tree_02/island_tree_02_rough_2k.png",
+                    "md5": "62e154391999497ea0c8793b06597ab5"
+                },
+                "exr": {
+                    "size": 3207515,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/island_tree_02/island_tree_02_rough_2k.exr",
+                    "md5": "c71e0c689601492bc013cf7c9d81c270"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 403986,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_rough_1k.jpg",
+                    "md5": "2f2b223c2ced98aefe52542ece21df98"
+                },
+                "png": {
+                    "size": 1557477,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/island_tree_02/island_tree_02_rough_1k.png",
+                    "md5": "ee785efc2da9fc1f0b6b1480c2184802"
+                },
+                "exr": {
+                    "size": 892360,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/island_tree_02/island_tree_02_rough_1k.exr",
+                    "md5": "7971361937bd0208281706e5dd98d0cb"
+                }
+            }
+        },
+        "Displacement": {
+            "8k": {
+                "jpg": {
+                    "size": 7959357,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/island_tree_02/island_tree_02_disp_8k.jpg",
+                    "md5": "ec1c1af4578de6b1df846320831d307d"
+                },
+                "png": {
+                    "size": 60856539,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/island_tree_02/island_tree_02_disp_8k.png",
+                    "md5": "8eda703a0f519f7a07a10ee5da5a4b76"
+                },
+                "exr": {
+                    "size": 30242409,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/island_tree_02/island_tree_02_disp_8k.exr",
+                    "md5": "90d042eceb0fc7c9ad6d288de4381ac1"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 2645216,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/island_tree_02/island_tree_02_disp_4k.jpg",
+                    "md5": "12b4c6eb564dea9f0fa443ae9293269f"
+                },
+                "png": {
+                    "size": 18217883,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/island_tree_02/island_tree_02_disp_4k.png",
+                    "md5": "6c2357f9983ac97b0919b84f672a1880"
+                },
+                "exr": {
+                    "size": 9864898,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/island_tree_02/island_tree_02_disp_4k.exr",
+                    "md5": "4a8327ff2c73b303d6f327b1f882c47b"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 866640,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/island_tree_02/island_tree_02_disp_2k.jpg",
+                    "md5": "2c6ee356af313f12fa9b933f4addad55"
+                },
+                "png": {
+                    "size": 5208071,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/island_tree_02/island_tree_02_disp_2k.png",
+                    "md5": "a43a8c3ceef380c7a3221a1c55f0de18"
+                },
+                "exr": {
+                    "size": 2940379,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/island_tree_02/island_tree_02_disp_2k.exr",
+                    "md5": "c34947979f84fafe352f7dbd19c62c33"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 255422,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_disp_1k.jpg",
+                    "md5": "45a7b84a20356736441bf8bef498d6d3"
+                },
+                "png": {
+                    "size": 1458514,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/island_tree_02/island_tree_02_disp_1k.png",
+                    "md5": "79b9ad537495eac3181ddbbaf9077cd3"
+                },
+                "exr": {
+                    "size": 821441,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/island_tree_02/island_tree_02_disp_1k.exr",
+                    "md5": "0e8f2ee6740181450eaeaeae9fea8968"
+                }
+            }
+        },
+        "branches_nor_dx": {
+            "8k": {
+                "jpg": {
+                    "size": 19693860,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/island_tree_02/island_tree_02_branches_nor_dx_8k.jpg",
+                    "md5": "48b46060b175e6ebc760d4a986852674"
+                },
+                "png": {
+                    "size": 281368349,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/island_tree_02/island_tree_02_branches_nor_dx_8k.png",
+                    "md5": "dabec6fa3b898bc891eac9a92cc9c5b1"
+                },
+                "exr": {
+                    "size": 32551072,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/island_tree_02/island_tree_02_branches_nor_dx_8k.exr",
+                    "md5": "a03be747e33a1b8500cd7381ea16e44d"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 6871992,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/island_tree_02/island_tree_02_branches_nor_dx_4k.jpg",
+                    "md5": "536c9b596a3e14f71f5ebc3dc0b6c8cb"
+                },
+                "png": {
+                    "size": 78433312,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/island_tree_02/island_tree_02_branches_nor_dx_4k.png",
+                    "md5": "0124d6ca9c2a6292de2b7c3a31bf1d1c"
+                },
+                "exr": {
+                    "size": 11779013,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/island_tree_02/island_tree_02_branches_nor_dx_4k.exr",
+                    "md5": "acbe610ad57faa855d56c794dcb3a258"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 2429199,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/island_tree_02/island_tree_02_branches_nor_dx_2k.jpg",
+                    "md5": "f12b4a7d1de2d14e1b9cd88e83f1e888"
+                },
+                "png": {
+                    "size": 20594916,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/island_tree_02/island_tree_02_branches_nor_dx_2k.png",
+                    "md5": "23b85ea15b13d0b726ec0e4eca9229b8"
+                },
+                "exr": {
+                    "size": 4610170,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/island_tree_02/island_tree_02_branches_nor_dx_2k.exr",
+                    "md5": "0d121cb57234ce7400e85a9a65cff944"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 816853,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_branches_nor_dx_1k.jpg",
+                    "md5": "39a3330c7dd862af2ec505d4603c8349"
+                },
+                "png": {
+                    "size": 5400494,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/island_tree_02/island_tree_02_branches_nor_dx_1k.png",
+                    "md5": "1231b4f76d6ce842f385e0813965ba03"
+                },
+                "exr": {
+                    "size": 1651484,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/island_tree_02/island_tree_02_branches_nor_dx_1k.exr",
+                    "md5": "1bdf7fcd11debc1157f98d1389dbb1fe"
+                }
+            }
+        },
+        "leaves_rough": {
+            "8k": {
+                "jpg": {
+                    "size": 17254070,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/island_tree_02/island_tree_02_leaves_rough_8k.jpg",
+                    "md5": "92d4f38ca86196ac085aaa0f31d7f4e5"
+                },
+                "png": {
+                    "size": 19347194,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/island_tree_02/island_tree_02_leaves_rough_8k.png",
+                    "md5": "23ebf93a1fda54d3f5a1f92eacf5daeb"
+                },
+                "exr": {
+                    "size": 19226660,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/island_tree_02/island_tree_02_leaves_rough_8k.exr",
+                    "md5": "d09469152b28753cbbeab45abf4f4e65"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 4955093,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/island_tree_02/island_tree_02_leaves_rough_4k.jpg",
+                    "md5": "16c0d3c0229c0d8f8dcc0c0c4035c0e0"
+                },
+                "png": {
+                    "size": 8595028,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/island_tree_02/island_tree_02_leaves_rough_4k.png",
+                    "md5": "9f932192a4b09ce24b83f7bbd7a69f32"
+                },
+                "exr": {
+                    "size": 6518230,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/island_tree_02/island_tree_02_leaves_rough_4k.exr",
+                    "md5": "211611c19f7c11a31a06b20d55b2c3e4"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1365787,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/island_tree_02/island_tree_02_leaves_rough_2k.jpg",
+                    "md5": "d9938e98adbdb3a38f08fbca5270c1a7"
+                },
+                "png": {
+                    "size": 2723975,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/island_tree_02/island_tree_02_leaves_rough_2k.png",
+                    "md5": "a49ed311f1d7f504a17d917ffbc83bd1"
+                },
+                "exr": {
+                    "size": 2037921,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/island_tree_02/island_tree_02_leaves_rough_2k.exr",
+                    "md5": "6e7b1b24dd1bcb457722f7069871e26a"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 394461,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_leaves_rough_1k.jpg",
+                    "md5": "620f7b7309a637d45b267504dae2beab"
+                },
+                "png": {
+                    "size": 879599,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/island_tree_02/island_tree_02_leaves_rough_1k.png",
+                    "md5": "6195150c02ed2522f8ab60c2ec02f1b9"
+                },
+                "exr": {
+                    "size": 641638,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/island_tree_02/island_tree_02_leaves_rough_1k.exr",
+                    "md5": "4c866cb1442a6dba04b1015aafc8423e"
+                }
+            }
+        },
+        "leaves_nor_dx": {
+            "8k": {
+                "jpg": {
+                    "size": 16397647,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/island_tree_02/island_tree_02_leaves_nor_dx_8k.jpg",
+                    "md5": "af9efda5de73b699b22b323060f71e9d"
+                },
+                "png": {
+                    "size": 123570055,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/island_tree_02/island_tree_02_leaves_nor_dx_8k.png",
+                    "md5": "aeefe662782fc295e98b018ef7bebed5"
+                },
+                "exr": {
+                    "size": 30220806,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/island_tree_02/island_tree_02_leaves_nor_dx_8k.exr",
+                    "md5": "f31e90e76585fa7039322b6fd2defe08"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 5056482,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/island_tree_02/island_tree_02_leaves_nor_dx_4k.jpg",
+                    "md5": "638e5c4431d0827934a3b791be9fef66"
+                },
+                "png": {
+                    "size": 33861589,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/island_tree_02/island_tree_02_leaves_nor_dx_4k.png",
+                    "md5": "cdfebfa09182a603910a4d7c5e0dbeee"
+                },
+                "exr": {
+                    "size": 10790807,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/island_tree_02/island_tree_02_leaves_nor_dx_4k.exr",
+                    "md5": "e54eb908a27d1dfa72688b4ae2454887"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1372412,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/island_tree_02/island_tree_02_leaves_nor_dx_2k.jpg",
+                    "md5": "3641e227c059eded4041f61241df6185"
+                },
+                "png": {
+                    "size": 10111447,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/island_tree_02/island_tree_02_leaves_nor_dx_2k.png",
+                    "md5": "580b82a06d834c70ec7e189be13f6ab3"
+                },
+                "exr": {
+                    "size": 3072857,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/island_tree_02/island_tree_02_leaves_nor_dx_2k.exr",
+                    "md5": "af0f4b19e746702988e009e8b3a34e81"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 377920,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_leaves_nor_dx_1k.jpg",
+                    "md5": "154f1521a4c90f578c8835decf53651c"
+                },
+                "png": {
+                    "size": 2887427,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/island_tree_02/island_tree_02_leaves_nor_dx_1k.png",
+                    "md5": "3cbd9a01cd97922f8b089d0aef5961aa"
+                },
+                "exr": {
+                    "size": 842681,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/island_tree_02/island_tree_02_leaves_nor_dx_1k.exr",
+                    "md5": "4054f8200a683c649d8c66cf697a6512"
+                }
+            }
+        },
+        "branches_diff": {
+            "8k": {
+                "jpg": {
+                    "size": 13789422,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/island_tree_02/island_tree_02_branches_diff_8k.jpg",
+                    "md5": "aa39dbb3187ebe3ffd9ede6619844c58"
+                },
+                "png": {
+                    "size": 179298650,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/island_tree_02/island_tree_02_branches_diff_8k.png",
+                    "md5": "82fb0ba5581cdd5745c390c1eb814601"
+                },
+                "exr": {
+                    "size": 18968596,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/island_tree_02/island_tree_02_branches_diff_8k.exr",
+                    "md5": "e904db6a31f240b867e953ee2d452646"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 4246736,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/island_tree_02/island_tree_02_branches_diff_4k.jpg",
+                    "md5": "276e396174bfd486e07335abaf36bbfb"
+                },
+                "png": {
+                    "size": 72975335,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/island_tree_02/island_tree_02_branches_diff_4k.png",
+                    "md5": "56a1e67965a3b5e635b4bc333f9f67d1"
+                },
+                "exr": {
+                    "size": 6269323,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/island_tree_02/island_tree_02_branches_diff_4k.exr",
+                    "md5": "82cec3c6539dbf4dd7562d6392e5d254"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1456180,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/island_tree_02/island_tree_02_branches_diff_2k.jpg",
+                    "md5": "047baf4dbae6fd2c5f9a2d2f1b236abb"
+                },
+                "png": {
+                    "size": 19963228,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/island_tree_02/island_tree_02_branches_diff_2k.png",
+                    "md5": "ea80c42ff281c3f1c931455306988dc8"
+                },
+                "exr": {
+                    "size": 2300089,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/island_tree_02/island_tree_02_branches_diff_2k.exr",
+                    "md5": "36737c507721ae74b8ae7ae90574e4b3"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 520785,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_branches_diff_1k.jpg",
+                    "md5": "5194a85506c328ce27ad9480a8c5cb7e"
+                },
+                "png": {
+                    "size": 5300271,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/island_tree_02/island_tree_02_branches_diff_1k.png",
+                    "md5": "4ff7259a836d99831908bbae9d2242b4"
+                },
+                "exr": {
+                    "size": 842678,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/island_tree_02/island_tree_02_branches_diff_1k.exr",
+                    "md5": "48df6501ac7eeea2cc0f2bd2b74af983"
+                }
+            }
+        },
+        "fbx": {
+            "8k": {
+                "fbx": {
+                    "include": {
+                        "textures/island_tree_02_leaves_rough_8k.png": {
+                            "size": 19347194,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/island_tree_02/island_tree_02_leaves_rough_8k.png",
+                            "md5": "23ebf93a1fda54d3f5a1f92eacf5daeb"
+                        },
+                        "textures/island_tree_02_nor_gl_8k.exr": {
+                            "size": 87222992,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/island_tree_02/island_tree_02_nor_gl_8k.exr",
+                            "md5": "25ff5485e569f65d90a2cc380f548e4a"
+                        },
+                        "textures/island_tree_02_branches_nor_gl_8k.png": {
+                            "size": 281379336,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/island_tree_02/island_tree_02_branches_nor_gl_8k.png",
+                            "md5": "4ae4dbf8e22717dc18952d46878e3084"
+                        },
+                        "textures/island_tree_02_rough_8k.exr": {
+                            "size": 25461878,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/island_tree_02/island_tree_02_rough_8k.exr",
+                            "md5": "755e83907075b6025b54b487d7881286"
+                        },
+                        "textures/island_tree_02_leaves_diff_8k.png": {
+                            "size": 77580347,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/island_tree_02/island_tree_02_leaves_diff_8k.png",
+                            "md5": "8be1579c20364fe97e8619f018284157"
+                        },
+                        "textures/island_tree_02_branches_rough_8k.png": {
+                            "size": 9735754,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/island_tree_02/island_tree_02_branches_rough_8k.png",
+                            "md5": "91f6bde7c383b95af1d5d97e867ec6f6"
+                        },
+                        "textures/island_tree_02_diff_8k.jpg": {
+                            "size": 29992199,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/island_tree_02/island_tree_02_diff_8k.jpg",
+                            "md5": "7f78eb8625b8a92a7c39efd0abed4b78"
+                        },
+                        "textures/island_tree_02_branches_diff_8k.png": {
+                            "size": 179298650,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/island_tree_02/island_tree_02_branches_diff_8k.png",
+                            "md5": "82fb0ba5581cdd5745c390c1eb814601"
+                        },
+                        "textures/island_tree_02_leaves_nor_gl_8k.png": {
+                            "size": 123577595,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/island_tree_02/island_tree_02_leaves_nor_gl_8k.png",
+                            "md5": "cbe8ac81fe711b3660a9ccc977989a49"
+                        },
+                        "textures/island_tree_02_leaves_alpha_8k.png": {
+                            "size": 833036,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/island_tree_02/island_tree_02_leaves_alpha_8k.png",
+                            "md5": "b18449bc7013da8db121b585fa70ec7f"
+                        }
+                    },
+                    "size": 887132,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/8k/island_tree_02/island_tree_02_8k.fbx",
+                    "md5": "1448f49ea2e1122341ddf62bd3cf7488"
+                }
+            },
+            "4k": {
+                "fbx": {
+                    "include": {
+                        "textures/island_tree_02_rough_4k.exr": {
+                            "size": 10135833,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/island_tree_02/island_tree_02_rough_4k.exr",
+                            "md5": "7e48e95dd09aaa05cc4093fdb67dd7cc"
+                        },
+                        "textures/island_tree_02_leaves_diff_4k.png": {
+                            "size": 27092655,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/island_tree_02/island_tree_02_leaves_diff_4k.png",
+                            "md5": "855ba331b083cf84948e74febe214ba7"
+                        },
+                        "textures/island_tree_02_branches_nor_gl_4k.png": {
+                            "size": 78433352,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/island_tree_02/island_tree_02_branches_nor_gl_4k.png",
+                            "md5": "da6dc1bf347e70032360b46bb68ce3bc"
+                        },
+                        "textures/island_tree_02_leaves_rough_4k.png": {
+                            "size": 8595028,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/island_tree_02/island_tree_02_leaves_rough_4k.png",
+                            "md5": "9f932192a4b09ce24b83f7bbd7a69f32"
+                        },
+                        "textures/island_tree_02_nor_gl_4k.exr": {
+                            "size": 29697533,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/island_tree_02/island_tree_02_nor_gl_4k.exr",
+                            "md5": "4ea78e7e24d15127de14627e5e86bbdc"
+                        },
+                        "textures/island_tree_02_diff_4k.jpg": {
+                            "size": 8830405,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/island_tree_02/island_tree_02_diff_4k.jpg",
+                            "md5": "7caf53ee7d737c787445405397dcab40"
+                        },
+                        "textures/island_tree_02_branches_diff_4k.png": {
+                            "size": 72975335,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/island_tree_02/island_tree_02_branches_diff_4k.png",
+                            "md5": "56a1e67965a3b5e635b4bc333f9f67d1"
+                        },
+                        "textures/island_tree_02_leaves_alpha_4k.png": {
+                            "size": 355395,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/island_tree_02/island_tree_02_leaves_alpha_4k.png",
+                            "md5": "ff188fc0bf371c528c8cacae33fb780e"
+                        },
+                        "textures/island_tree_02_branches_rough_4k.png": {
+                            "size": 8430664,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/island_tree_02/island_tree_02_branches_rough_4k.png",
+                            "md5": "232036dd94f01cd5f35b8e476465e8f5"
+                        },
+                        "textures/island_tree_02_leaves_nor_gl_4k.png": {
+                            "size": 33862226,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/island_tree_02/island_tree_02_leaves_nor_gl_4k.png",
+                            "md5": "7f287d0ffce0b7d19daedf42b09430f9"
+                        }
+                    },
+                    "size": 887132,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/4k/island_tree_02/island_tree_02_4k.fbx",
+                    "md5": "0bc87fc91aa81daae9aa95d72eea6793"
+                }
+            },
+            "2k": {
+                "fbx": {
+                    "include": {
+                        "textures/island_tree_02_leaves_nor_gl_2k.png": {
+                            "size": 10109651,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/island_tree_02/island_tree_02_leaves_nor_gl_2k.png",
+                            "md5": "3d3d53270e1a5d6be297307c7ab8629c"
+                        },
+                        "textures/island_tree_02_branches_nor_gl_2k.png": {
+                            "size": 20594936,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/island_tree_02/island_tree_02_branches_nor_gl_2k.png",
+                            "md5": "98af2803beca2055fde16a4ca8f2151a"
+                        },
+                        "textures/island_tree_02_leaves_rough_2k.png": {
+                            "size": 2723975,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/island_tree_02/island_tree_02_leaves_rough_2k.png",
+                            "md5": "a49ed311f1d7f504a17d917ffbc83bd1"
+                        },
+                        "textures/island_tree_02_nor_gl_2k.exr": {
+                            "size": 8745440,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/island_tree_02/island_tree_02_nor_gl_2k.exr",
+                            "md5": "9489ba99cbb54869eec0976b94188689"
+                        },
+                        "textures/island_tree_02_branches_rough_2k.png": {
+                            "size": 4730461,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/island_tree_02/island_tree_02_branches_rough_2k.png",
+                            "md5": "f2c70d75834aa97f7ef173c119f92f8d"
+                        },
+                        "textures/island_tree_02_leaves_alpha_2k.png": {
+                            "size": 139077,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/island_tree_02/island_tree_02_leaves_alpha_2k.png",
+                            "md5": "063774afef8fe1d35ce52d56bf41bf81"
+                        },
+                        "textures/island_tree_02_branches_diff_2k.png": {
+                            "size": 19963228,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/island_tree_02/island_tree_02_branches_diff_2k.png",
+                            "md5": "ea80c42ff281c3f1c931455306988dc8"
+                        },
+                        "textures/island_tree_02_diff_2k.jpg": {
+                            "size": 2665590,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/island_tree_02/island_tree_02_diff_2k.jpg",
+                            "md5": "aece4b593a8bea3b3f0ff335a4005ab1"
+                        },
+                        "textures/island_tree_02_leaves_diff_2k.png": {
+                            "size": 8602424,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/island_tree_02/island_tree_02_leaves_diff_2k.png",
+                            "md5": "8c50c73c17c285c16c9f61debff83354"
+                        },
+                        "textures/island_tree_02_rough_2k.exr": {
+                            "size": 3207515,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/island_tree_02/island_tree_02_rough_2k.exr",
+                            "md5": "c71e0c689601492bc013cf7c9d81c270"
+                        }
+                    },
+                    "size": 887116,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/2k/island_tree_02/island_tree_02_2k.fbx",
+                    "md5": "f93dac3ce3d6152f66fd0c279354a4d9"
+                }
+            },
+            "1k": {
+                "fbx": {
+                    "include": {
+                        "textures/island_tree_02_leaves_alpha_1k.png": {
+                            "size": 57438,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/island_tree_02/island_tree_02_leaves_alpha_1k.png",
+                            "md5": "5ad9fb9a06e70c069bd3d3ba23577375"
+                        },
+                        "textures/island_tree_02_diff_1k.jpg": {
+                            "size": 734163,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_diff_1k.jpg",
+                            "md5": "1cad8b60225bf615f1cd651637e9dd53"
+                        },
+                        "textures/island_tree_02_leaves_diff_1k.png": {
+                            "size": 2627035,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/island_tree_02/island_tree_02_leaves_diff_1k.png",
+                            "md5": "15658604a4cde053603ac91be61d1f51"
+                        },
+                        "textures/island_tree_02_leaves_rough_1k.png": {
+                            "size": 879599,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/island_tree_02/island_tree_02_leaves_rough_1k.png",
+                            "md5": "6195150c02ed2522f8ab60c2ec02f1b9"
+                        },
+                        "textures/island_tree_02_nor_gl_1k.exr": {
+                            "size": 2353247,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/island_tree_02/island_tree_02_nor_gl_1k.exr",
+                            "md5": "368ffe29fb968d172f3f3a389e7e3a56"
+                        },
+                        "textures/island_tree_02_leaves_nor_gl_1k.png": {
+                            "size": 2886859,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/island_tree_02/island_tree_02_leaves_nor_gl_1k.png",
+                            "md5": "13a7610b0459f3175ca049b70eadbfea"
+                        },
+                        "textures/island_tree_02_branches_diff_1k.png": {
+                            "size": 5300271,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/island_tree_02/island_tree_02_branches_diff_1k.png",
+                            "md5": "4ff7259a836d99831908bbae9d2242b4"
+                        },
+                        "textures/island_tree_02_branches_rough_1k.png": {
+                            "size": 1625206,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/island_tree_02/island_tree_02_branches_rough_1k.png",
+                            "md5": "8bd9e066f93c242ef468c7c6ea6dc382"
+                        },
+                        "textures/island_tree_02_branches_nor_gl_1k.png": {
+                            "size": 5400459,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/island_tree_02/island_tree_02_branches_nor_gl_1k.png",
+                            "md5": "df3d91a9c29266f44b0b17da135a2899"
+                        },
+                        "textures/island_tree_02_rough_1k.exr": {
+                            "size": 892360,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/island_tree_02/island_tree_02_rough_1k.exr",
+                            "md5": "7971361937bd0208281706e5dd98d0cb"
+                        }
+                    },
+                    "size": 887148,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/1k/island_tree_02/island_tree_02_1k.fbx",
+                    "md5": "d10601e54bfa5b5577e64824b4c82339"
+                }
+            }
+        },
+        "leaves_arm": {
+            "8k": {
+                "jpg": {
+                    "size": 20523503,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/island_tree_02/island_tree_02_leaves_arm_8k.jpg",
+                    "md5": "78afc7dfe57397bfbceab758cb7b34d2"
+                },
+                "png": {
+                    "size": 25302310,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/island_tree_02/island_tree_02_leaves_arm_8k.png",
+                    "md5": "33b5fb70f09ea94c7cea08a202f01c59"
+                },
+                "exr": {
+                    "size": 42413881,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/island_tree_02/island_tree_02_leaves_arm_8k.exr",
+                    "md5": "b6e91a8162b27934d100b1bb1287323e"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 5882450,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/island_tree_02/island_tree_02_leaves_arm_4k.jpg",
+                    "md5": "f238b37d71b0f94a328bb2557b8fbb1f"
+                },
+                "png": {
+                    "size": 8028888,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/island_tree_02/island_tree_02_leaves_arm_4k.png",
+                    "md5": "555618f7eed00dbb41b2e7d89120cd0d"
+                },
+                "exr": {
+                    "size": 12189788,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/island_tree_02/island_tree_02_leaves_arm_4k.exr",
+                    "md5": "9554480df06a28d2fd6a10ba54687a74"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1653812,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/island_tree_02/island_tree_02_leaves_arm_2k.jpg",
+                    "md5": "e1d2c2839de876d93f1ffcb9754db854"
+                },
+                "png": {
+                    "size": 2213093,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/island_tree_02/island_tree_02_leaves_arm_2k.png",
+                    "md5": "d4e3f69fb2d4b4c8da33e31ecba9d6a5"
+                },
+                "exr": {
+                    "size": 3455539,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/island_tree_02/island_tree_02_leaves_arm_2k.exr",
+                    "md5": "2cd23c482ff8db4ad1d2056c2cf370fe"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 494087,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/island_tree_02/island_tree_02_leaves_arm_1k.jpg",
+                    "md5": "398a57123c018ed60cbf697077815ea9"
+                },
+                "png": {
+                    "size": 610698,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/island_tree_02/island_tree_02_leaves_arm_1k.png",
+                    "md5": "b44f5325361582ede9bc656897f4c517"
+                },
+                "exr": {
+                    "size": 1029765,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/island_tree_02/island_tree_02_leaves_arm_1k.exr",
+                    "md5": "6e45854dd8b16118188015026f843e0e"
+                }
+            }
+        }
+    }
+}
