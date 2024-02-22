@@ -1,0 +1,1203 @@
+{
+    "date_published": 1659484800,
+    "name": "Dandelion 01",
+    "categories": [
+        "plants",
+        "flowers",
+        "nature",
+        "ground cover"
+    ],
+    "type": 2,
+    "authors": {
+        "Rob Tuytel": "Photography",
+        "Rico Cilliers": "Modeling"
+    },
+    "tags": [
+        "plant",
+        "nature",
+        "green",
+        "shrub",
+        "outdoor",
+        "leaf",
+        "bush",
+        "botany",
+        "field",
+        "flower",
+        "meadow",
+        "foliage",
+        "small",
+        "floral"
+    ],
+    "lods": true,
+    "files_hash": "51568dcc43f602c79c3fca2f84926898b7471c46",
+    "sponsors": [
+        "25436656",
+        "4047949"
+    ],
+    "download_count": 30043,
+    "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/dandelion_01.png?width=256&height=256",
+    "files": {
+        "Diffuse": {
+            "8k": {
+                "jpg": {
+                    "size": 17293476,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/dandelion_01/dandelion_01_diff_8k.jpg",
+                    "md5": "f41fdeb0ea71adc1c1aa93beacec0a86"
+                },
+                "png": {
+                    "size": 99916112,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/dandelion_01/dandelion_01_diff_8k.png",
+                    "md5": "cb8d99f6e0796a8f5937b408db0cac78"
+                },
+                "exr": {
+                    "size": 34408350,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/dandelion_01/dandelion_01_diff_8k.exr",
+                    "md5": "acc2b4d4ef97aa2620c806147c277a85"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 5845745,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dandelion_01/dandelion_01_diff_4k.jpg",
+                    "md5": "a49dd54d1edf81fe705c5e6c0945d546"
+                },
+                "png": {
+                    "size": 40990522,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dandelion_01/dandelion_01_diff_4k.png",
+                    "md5": "ab46ceeb78b4f56dea8520a6e50b1485"
+                },
+                "exr": {
+                    "size": 11395685,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/dandelion_01/dandelion_01_diff_4k.exr",
+                    "md5": "5693defdc8da3a3a359ad4e3d0de2ee3"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1803374,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dandelion_01/dandelion_01_diff_2k.jpg",
+                    "md5": "02cf132e4889bf23ab0971bf6c0628fe"
+                },
+                "png": {
+                    "size": 13645919,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dandelion_01/dandelion_01_diff_2k.png",
+                    "md5": "46f34e597de99027cf5bef7393a8a66e"
+                },
+                "exr": {
+                    "size": 3613785,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/dandelion_01/dandelion_01_diff_2k.exr",
+                    "md5": "f63fba6b489c887e774235b99ae0661d"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 542265,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dandelion_01/dandelion_01_diff_1k.jpg",
+                    "md5": "9278bffe3912d0e7cd26694dd3f7e721"
+                },
+                "png": {
+                    "size": 4106535,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dandelion_01/dandelion_01_diff_1k.png",
+                    "md5": "0f140092e584ce78581e0b73d7755699"
+                },
+                "exr": {
+                    "size": 1116624,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/dandelion_01/dandelion_01_diff_1k.exr",
+                    "md5": "c78abae6289c39d8e87d9849289d7983"
+                }
+            }
+        },
+        "nor_dx": {
+            "8k": {
+                "jpg": {
+                    "size": 18336782,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/dandelion_01/dandelion_01_nor_dx_8k.jpg",
+                    "md5": "88de7bbcbcf5c89550964fb962223eb3"
+                },
+                "png": {
+                    "size": 131367522,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/dandelion_01/dandelion_01_nor_dx_8k.png",
+                    "md5": "baac93996d1b62a1a38e81de002380d4"
+                },
+                "exr": {
+                    "size": 33679599,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/dandelion_01/dandelion_01_nor_dx_8k.exr",
+                    "md5": "7f8ad30c91306396a8482967b3522cf9"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 5800685,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dandelion_01/dandelion_01_nor_dx_4k.jpg",
+                    "md5": "440709bb9bdeb89f9f49be1383472887"
+                },
+                "png": {
+                    "size": 40208478,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dandelion_01/dandelion_01_nor_dx_4k.png",
+                    "md5": "8a0516bdcdecaf12232e0f069489f43b"
+                },
+                "exr": {
+                    "size": 11815248,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/dandelion_01/dandelion_01_nor_dx_4k.exr",
+                    "md5": "9340105db16f2bf32ad2104d959fda5e"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1716746,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dandelion_01/dandelion_01_nor_dx_2k.jpg",
+                    "md5": "3de711755d4f86d1e49761e18be9661d"
+                },
+                "png": {
+                    "size": 11623143,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dandelion_01/dandelion_01_nor_dx_2k.png",
+                    "md5": "23fb9f237b54c5856ea5564661f61e4a"
+                },
+                "exr": {
+                    "size": 3628542,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/dandelion_01/dandelion_01_nor_dx_2k.exr",
+                    "md5": "f71f3301716db17afb4ac3f6e3afd802"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 505162,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dandelion_01/dandelion_01_nor_dx_1k.jpg",
+                    "md5": "0ba708d53503bab50f1fb75121dd5c40"
+                },
+                "png": {
+                    "size": 3256863,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dandelion_01/dandelion_01_nor_dx_1k.png",
+                    "md5": "513b4b860836c6cc5e221abcb230745f"
+                },
+                "exr": {
+                    "size": 1081267,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/dandelion_01/dandelion_01_nor_dx_1k.exr",
+                    "md5": "622f526c14bacbff580460cb76d35d0e"
+                }
+            }
+        },
+        "blend": {
+            "8k": {
+                "blend": {
+                    "include": {
+                        "textures/dandelion_01_diff_8k.jpg": {
+                            "size": 17293476,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/dandelion_01/dandelion_01_diff_8k.jpg",
+                            "md5": "f41fdeb0ea71adc1c1aa93beacec0a86"
+                        },
+                        "textures/dandelion_01_alpha_8k.png": {
+                            "size": 1354424,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/dandelion_01/dandelion_01_alpha_8k.png",
+                            "md5": "280ad28b2382989296723422bce06e71"
+                        },
+                        "textures/dandelion_01_mask_8k.png": {
+                            "size": 260529,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/dandelion_01/dandelion_01_mask_8k.png",
+                            "md5": "9d344c1e7a247dea094b8a89aba7a626"
+                        },
+                        "textures/dandelion_01_nor_gl_8k.exr": {
+                            "size": 33649841,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/dandelion_01/dandelion_01_nor_gl_8k.exr",
+                            "md5": "2b8c197a1013f1ff9d876c00c3baf6da"
+                        },
+                        "textures/dandelion_01_rough_8k.exr": {
+                            "size": 16976016,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/dandelion_01/dandelion_01_rough_8k.exr",
+                            "md5": "f3e49d1a8f2d53c492ccc80afe12538b"
+                        }
+                    },
+                    "size": 1502932,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/8k/dandelion_01/dandelion_01_8k.blend",
+                    "md5": "420cb6047b3a3e9087fbe0495bc56c95"
+                }
+            },
+            "4k": {
+                "blend": {
+                    "include": {
+                        "textures/dandelion_01_alpha_4k.png": {
+                            "size": 631619,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dandelion_01/dandelion_01_alpha_4k.png",
+                            "md5": "7e5d3995efad446cee774b61e13feb4d"
+                        },
+                        "textures/dandelion_01_diff_4k.jpg": {
+                            "size": 5845745,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dandelion_01/dandelion_01_diff_4k.jpg",
+                            "md5": "a49dd54d1edf81fe705c5e6c0945d546"
+                        },
+                        "textures/dandelion_01_mask_4k.png": {
+                            "size": 77097,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dandelion_01/dandelion_01_mask_4k.png",
+                            "md5": "2067315913eaae0a9f39afd0bcd8b342"
+                        },
+                        "textures/dandelion_01_nor_gl_4k.exr": {
+                            "size": 11792914,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/dandelion_01/dandelion_01_nor_gl_4k.exr",
+                            "md5": "153b3b01dcaadabddd603344cab110f2"
+                        },
+                        "textures/dandelion_01_rough_4k.exr": {
+                            "size": 7194355,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/dandelion_01/dandelion_01_rough_4k.exr",
+                            "md5": "1b75d66dfd70d60706b930c66ca88b69"
+                        }
+                    },
+                    "size": 1502338,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/4k/dandelion_01/dandelion_01_4k.blend",
+                    "md5": "760aafff9a17af4d78a7d6716df03128"
+                }
+            },
+            "2k": {
+                "blend": {
+                    "include": {
+                        "textures/dandelion_01_rough_2k.exr": {
+                            "size": 2543873,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/dandelion_01/dandelion_01_rough_2k.exr",
+                            "md5": "d63128646434de23650b60d8fc1c1099"
+                        },
+                        "textures/dandelion_01_nor_gl_2k.exr": {
+                            "size": 3622824,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/dandelion_01/dandelion_01_nor_gl_2k.exr",
+                            "md5": "b8532f119cebf81a77764d6fcb196145"
+                        },
+                        "textures/dandelion_01_mask_2k.png": {
+                            "size": 28718,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dandelion_01/dandelion_01_mask_2k.png",
+                            "md5": "9beae5b92bf3c3818e4ec8078c6272f8"
+                        },
+                        "textures/dandelion_01_diff_2k.jpg": {
+                            "size": 1803374,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dandelion_01/dandelion_01_diff_2k.jpg",
+                            "md5": "02cf132e4889bf23ab0971bf6c0628fe"
+                        },
+                        "textures/dandelion_01_alpha_2k.png": {
+                            "size": 294844,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dandelion_01/dandelion_01_alpha_2k.png",
+                            "md5": "622723dcaef80eaadb5b839673c62127"
+                        }
+                    },
+                    "size": 1502904,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/2k/dandelion_01/dandelion_01_2k.blend",
+                    "md5": "4e08c0da1de9291fe2165953401d87f0"
+                }
+            },
+            "1k": {
+                "blend": {
+                    "include": {
+                        "textures/dandelion_01_alpha_1k.png": {
+                            "size": 130791,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dandelion_01/dandelion_01_alpha_1k.png",
+                            "md5": "1e6e6c5badd75294181f8293faf64cdf"
+                        },
+                        "textures/dandelion_01_nor_gl_1k.exr": {
+                            "size": 1081343,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/dandelion_01/dandelion_01_nor_gl_1k.exr",
+                            "md5": "58c418e8fa07d3050e1bd2222dfc4520"
+                        },
+                        "textures/dandelion_01_mask_1k.png": {
+                            "size": 11643,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dandelion_01/dandelion_01_mask_1k.png",
+                            "md5": "645e59c170cb330abbbdfbd7a4599320"
+                        },
+                        "textures/dandelion_01_diff_1k.jpg": {
+                            "size": 542265,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dandelion_01/dandelion_01_diff_1k.jpg",
+                            "md5": "9278bffe3912d0e7cd26694dd3f7e721"
+                        },
+                        "textures/dandelion_01_rough_1k.exr": {
+                            "size": 778291,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/dandelion_01/dandelion_01_rough_1k.exr",
+                            "md5": "504da36e0a7898bc43ae106627a71671"
+                        }
+                    },
+                    "size": 1502780,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/1k/dandelion_01/dandelion_01_1k.blend",
+                    "md5": "22423803f2fa3d02bcb7f33960be8538"
+                }
+            }
+        },
+        "gltf": {
+            "8k": {
+                "gltf": {
+                    "include": {
+                        "dandelion_01.bin": {
+                            "size": 1676648,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/dandelion_01/dandelion_01.bin",
+                            "md5": "518fb2e7699917b45a844e97e5d99183"
+                        },
+                        "textures/dandelion_01_diff_8k.jpg": {
+                            "size": 17293476,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/dandelion_01/dandelion_01_diff_8k.jpg",
+                            "md5": "f41fdeb0ea71adc1c1aa93beacec0a86"
+                        },
+                        "textures/dandelion_01_arm_8k.jpg": {
+                            "size": 16377858,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/dandelion_01/dandelion_01_arm_8k.jpg",
+                            "md5": "59803b579b1776dc76d297e6672acb03"
+                        },
+                        "textures/dandelion_01_nor_gl_8k.jpg": {
+                            "size": 18210820,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/dandelion_01/dandelion_01_nor_gl_8k.jpg",
+                            "md5": "baf5445bde653c62bc8d4a8d7694068b"
+                        }
+                    },
+                    "size": 8129,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/dandelion_01/dandelion_01_8k.gltf",
+                    "md5": "30edaf808e451bf6ddb588ad93210017"
+                }
+            },
+            "4k": {
+                "gltf": {
+                    "include": {
+                        "dandelion_01.bin": {
+                            "size": 1676648,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/dandelion_01/dandelion_01.bin",
+                            "md5": "518fb2e7699917b45a844e97e5d99183"
+                        },
+                        "textures/dandelion_01_nor_gl_4k.jpg": {
+                            "size": 5741804,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dandelion_01/dandelion_01_nor_gl_4k.jpg",
+                            "md5": "8af1f8edd76f15ba91765a7890d4d264"
+                        },
+                        "textures/dandelion_01_arm_4k.jpg": {
+                            "size": 4965971,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dandelion_01/dandelion_01_arm_4k.jpg",
+                            "md5": "2d1dfd0611f6fa03eb27a7575a4a5d5f"
+                        },
+                        "textures/dandelion_01_diff_4k.jpg": {
+                            "size": 5845745,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dandelion_01/dandelion_01_diff_4k.jpg",
+                            "md5": "a49dd54d1edf81fe705c5e6c0945d546"
+                        }
+                    },
+                    "size": 8129,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/dandelion_01/dandelion_01_4k.gltf",
+                    "md5": "f4b3625340b55cfff33cd3119df5b081"
+                }
+            },
+            "2k": {
+                "gltf": {
+                    "include": {
+                        "dandelion_01.bin": {
+                            "size": 1676648,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/dandelion_01/dandelion_01.bin",
+                            "md5": "518fb2e7699917b45a844e97e5d99183"
+                        },
+                        "textures/dandelion_01_arm_2k.jpg": {
+                            "size": 1504494,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dandelion_01/dandelion_01_arm_2k.jpg",
+                            "md5": "258154fbd59ec264ce01ba5749c38a77"
+                        },
+                        "textures/dandelion_01_diff_2k.jpg": {
+                            "size": 1803374,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dandelion_01/dandelion_01_diff_2k.jpg",
+                            "md5": "02cf132e4889bf23ab0971bf6c0628fe"
+                        },
+                        "textures/dandelion_01_nor_gl_2k.jpg": {
+                            "size": 1700151,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dandelion_01/dandelion_01_nor_gl_2k.jpg",
+                            "md5": "585b7fb700b0d8f2dab2d3182621a8a5"
+                        }
+                    },
+                    "size": 8129,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/dandelion_01/dandelion_01_2k.gltf",
+                    "md5": "28091b635c448f8e5cae5b66539cbb81"
+                }
+            },
+            "1k": {
+                "gltf": {
+                    "include": {
+                        "dandelion_01.bin": {
+                            "size": 1676648,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/dandelion_01/dandelion_01.bin",
+                            "md5": "518fb2e7699917b45a844e97e5d99183"
+                        },
+                        "textures/dandelion_01_nor_gl_1k.jpg": {
+                            "size": 501192,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dandelion_01/dandelion_01_nor_gl_1k.jpg",
+                            "md5": "635f33cdce802926d04365e8cf6e2702"
+                        },
+                        "textures/dandelion_01_diff_1k.jpg": {
+                            "size": 542265,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dandelion_01/dandelion_01_diff_1k.jpg",
+                            "md5": "9278bffe3912d0e7cd26694dd3f7e721"
+                        },
+                        "textures/dandelion_01_arm_1k.jpg": {
+                            "size": 451549,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dandelion_01/dandelion_01_arm_1k.jpg",
+                            "md5": "749a9472d4e05595051eed6d75cfc925"
+                        }
+                    },
+                    "size": 8129,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/dandelion_01/dandelion_01_1k.gltf",
+                    "md5": "630b0ae8ce14bfda91a93b2e4360b86d"
+                }
+            }
+        },
+        "usd": {
+            "8k": {
+                "usd": {
+                    "include": {
+                        "textures/dandelion_01_diff_8k.jpg": {
+                            "size": 17293476,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/dandelion_01/dandelion_01_diff_8k.jpg",
+                            "md5": "f41fdeb0ea71adc1c1aa93beacec0a86"
+                        },
+                        "textures/dandelion_01_alpha_8k.png": {
+                            "size": 1354424,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/dandelion_01/dandelion_01_alpha_8k.png",
+                            "md5": "280ad28b2382989296723422bce06e71"
+                        },
+                        "textures/dandelion_01_mask_8k.png": {
+                            "size": 260529,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/dandelion_01/dandelion_01_mask_8k.png",
+                            "md5": "9d344c1e7a247dea094b8a89aba7a626"
+                        },
+                        "textures/dandelion_01_nor_gl_8k.exr": {
+                            "size": 33649841,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/dandelion_01/dandelion_01_nor_gl_8k.exr",
+                            "md5": "2b8c197a1013f1ff9d876c00c3baf6da"
+                        },
+                        "textures/dandelion_01_rough_8k.exr": {
+                            "size": 16976016,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/dandelion_01/dandelion_01_rough_8k.exr",
+                            "md5": "f3e49d1a8f2d53c492ccc80afe12538b"
+                        }
+                    },
+                    "size": 582,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/8k/dandelion_01/dandelion_01_8k.usdc",
+                    "md5": "202ed499d1db83071e2d590332886b5c"
+                }
+            },
+            "4k": {
+                "usd": {
+                    "include": {
+                        "textures/dandelion_01_alpha_4k.png": {
+                            "size": 631619,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dandelion_01/dandelion_01_alpha_4k.png",
+                            "md5": "7e5d3995efad446cee774b61e13feb4d"
+                        },
+                        "textures/dandelion_01_diff_4k.jpg": {
+                            "size": 5845745,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dandelion_01/dandelion_01_diff_4k.jpg",
+                            "md5": "a49dd54d1edf81fe705c5e6c0945d546"
+                        },
+                        "textures/dandelion_01_mask_4k.png": {
+                            "size": 77097,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dandelion_01/dandelion_01_mask_4k.png",
+                            "md5": "2067315913eaae0a9f39afd0bcd8b342"
+                        },
+                        "textures/dandelion_01_nor_gl_4k.exr": {
+                            "size": 11792914,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/dandelion_01/dandelion_01_nor_gl_4k.exr",
+                            "md5": "153b3b01dcaadabddd603344cab110f2"
+                        },
+                        "textures/dandelion_01_rough_4k.exr": {
+                            "size": 7194355,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/dandelion_01/dandelion_01_rough_4k.exr",
+                            "md5": "1b75d66dfd70d60706b930c66ca88b69"
+                        }
+                    },
+                    "size": 582,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/4k/dandelion_01/dandelion_01_4k.usdc",
+                    "md5": "202ed499d1db83071e2d590332886b5c"
+                }
+            },
+            "2k": {
+                "usd": {
+                    "include": {
+                        "textures/dandelion_01_rough_2k.exr": {
+                            "size": 2543873,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/dandelion_01/dandelion_01_rough_2k.exr",
+                            "md5": "d63128646434de23650b60d8fc1c1099"
+                        },
+                        "textures/dandelion_01_nor_gl_2k.exr": {
+                            "size": 3622824,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/dandelion_01/dandelion_01_nor_gl_2k.exr",
+                            "md5": "b8532f119cebf81a77764d6fcb196145"
+                        },
+                        "textures/dandelion_01_mask_2k.png": {
+                            "size": 28718,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dandelion_01/dandelion_01_mask_2k.png",
+                            "md5": "9beae5b92bf3c3818e4ec8078c6272f8"
+                        },
+                        "textures/dandelion_01_diff_2k.jpg": {
+                            "size": 1803374,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dandelion_01/dandelion_01_diff_2k.jpg",
+                            "md5": "02cf132e4889bf23ab0971bf6c0628fe"
+                        },
+                        "textures/dandelion_01_alpha_2k.png": {
+                            "size": 294844,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dandelion_01/dandelion_01_alpha_2k.png",
+                            "md5": "622723dcaef80eaadb5b839673c62127"
+                        }
+                    },
+                    "size": 582,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/2k/dandelion_01/dandelion_01_2k.usdc",
+                    "md5": "202ed499d1db83071e2d590332886b5c"
+                }
+            },
+            "1k": {
+                "usd": {
+                    "include": {
+                        "textures/dandelion_01_alpha_1k.png": {
+                            "size": 130791,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dandelion_01/dandelion_01_alpha_1k.png",
+                            "md5": "1e6e6c5badd75294181f8293faf64cdf"
+                        },
+                        "textures/dandelion_01_nor_gl_1k.exr": {
+                            "size": 1081343,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/dandelion_01/dandelion_01_nor_gl_1k.exr",
+                            "md5": "58c418e8fa07d3050e1bd2222dfc4520"
+                        },
+                        "textures/dandelion_01_mask_1k.png": {
+                            "size": 11643,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dandelion_01/dandelion_01_mask_1k.png",
+                            "md5": "645e59c170cb330abbbdfbd7a4599320"
+                        },
+                        "textures/dandelion_01_diff_1k.jpg": {
+                            "size": 542265,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dandelion_01/dandelion_01_diff_1k.jpg",
+                            "md5": "9278bffe3912d0e7cd26694dd3f7e721"
+                        },
+                        "textures/dandelion_01_rough_1k.exr": {
+                            "size": 778291,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/dandelion_01/dandelion_01_rough_1k.exr",
+                            "md5": "504da36e0a7898bc43ae106627a71671"
+                        }
+                    },
+                    "size": 582,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/dandelion_01/dandelion_01_1k.usdc",
+                    "md5": "202ed499d1db83071e2d590332886b5c"
+                }
+            }
+        },
+        "Mask": {
+            "8k": {
+                "jpg": {
+                    "size": 874386,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/dandelion_01/dandelion_01_mask_8k.jpg",
+                    "md5": "68672c24380c30f6257ce3d9019c96aa"
+                },
+                "png": {
+                    "size": 260529,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/dandelion_01/dandelion_01_mask_8k.png",
+                    "md5": "9d344c1e7a247dea094b8a89aba7a626"
+                },
+                "exr": {
+                    "size": 263269,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/dandelion_01/dandelion_01_mask_8k.exr",
+                    "md5": "3119d0996c25f1775c64028b27379a3d"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 248587,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dandelion_01/dandelion_01_mask_4k.jpg",
+                    "md5": "04761f950bd043b3a3b30cf24e8fd129"
+                },
+                "png": {
+                    "size": 77097,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dandelion_01/dandelion_01_mask_4k.png",
+                    "md5": "2067315913eaae0a9f39afd0bcd8b342"
+                },
+                "exr": {
+                    "size": 85686,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/dandelion_01/dandelion_01_mask_4k.exr",
+                    "md5": "673633fe721091e92833a13f6eee8aec"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 75587,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dandelion_01/dandelion_01_mask_2k.jpg",
+                    "md5": "3a857d2a50f80729515d4fccfb4bc8bf"
+                },
+                "png": {
+                    "size": 28718,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dandelion_01/dandelion_01_mask_2k.png",
+                    "md5": "9beae5b92bf3c3818e4ec8078c6272f8"
+                },
+                "exr": {
+                    "size": 35744,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/dandelion_01/dandelion_01_mask_2k.exr",
+                    "md5": "56d802989233421111555af26fa09230"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 25725,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dandelion_01/dandelion_01_mask_1k.jpg",
+                    "md5": "1f5622953541623b124a9cf333b2c3ba"
+                },
+                "png": {
+                    "size": 11643,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dandelion_01/dandelion_01_mask_1k.png",
+                    "md5": "645e59c170cb330abbbdfbd7a4599320"
+                },
+                "exr": {
+                    "size": 15884,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/dandelion_01/dandelion_01_mask_1k.exr",
+                    "md5": "d7a7ca38abc0f67c1aa7efa499dd14bf"
+                }
+            }
+        },
+        "AO": {
+            "8k": {
+                "jpg": {
+                    "size": 11942997,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/dandelion_01/dandelion_01_ao_8k.jpg",
+                    "md5": "652a14fe40464698393dae8d8aab309a"
+                },
+                "png": {
+                    "size": 15467511,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/dandelion_01/dandelion_01_ao_8k.png",
+                    "md5": "cf79cdd9243e39c2e85c5d10acb87c9d"
+                },
+                "exr": {
+                    "size": 15163010,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/dandelion_01/dandelion_01_ao_8k.exr",
+                    "md5": "ac57bf4b357451e9bcb4bbcb74e8c33d"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 3067109,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dandelion_01/dandelion_01_ao_4k.jpg",
+                    "md5": "82cc3649dfc61515cb3efcf77cc6d2ea"
+                },
+                "png": {
+                    "size": 7601353,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dandelion_01/dandelion_01_ao_4k.png",
+                    "md5": "eb0e7c189762b022d014b6a20f4657ba"
+                },
+                "exr": {
+                    "size": 5320516,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/dandelion_01/dandelion_01_ao_4k.exr",
+                    "md5": "626de524dc4c490424256b280e08b26f"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 850988,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dandelion_01/dandelion_01_ao_2k.jpg",
+                    "md5": "86486abc09090bb2176a3647d7ed82c1"
+                },
+                "png": {
+                    "size": 2740454,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dandelion_01/dandelion_01_ao_2k.png",
+                    "md5": "b421eb11e0a3e66c85bb78b8ff54f536"
+                },
+                "exr": {
+                    "size": 1703360,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/dandelion_01/dandelion_01_ao_2k.exr",
+                    "md5": "cb3875320d8f90b048faf7c243eb7a0d"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 248254,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dandelion_01/dandelion_01_ao_1k.jpg",
+                    "md5": "3a434efd556ee0b9c42b47f9d011d973"
+                },
+                "png": {
+                    "size": 824325,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dandelion_01/dandelion_01_ao_1k.png",
+                    "md5": "56239098cb63e5bbf488a672a0b76f55"
+                },
+                "exr": {
+                    "size": 506513,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/dandelion_01/dandelion_01_ao_1k.exr",
+                    "md5": "15090f749708e5143de2e7b0a19960cf"
+                }
+            }
+        },
+        "Rough": {
+            "8k": {
+                "jpg": {
+                    "size": 11015757,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/dandelion_01/dandelion_01_rough_8k.jpg",
+                    "md5": "23badedb660644462b5c613b035b9635"
+                },
+                "png": {
+                    "size": 13234562,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/dandelion_01/dandelion_01_rough_8k.png",
+                    "md5": "43e4ec1a72d4c60d6756c7e2ce1d4b1c"
+                },
+                "exr": {
+                    "size": 16976016,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/dandelion_01/dandelion_01_rough_8k.exr",
+                    "md5": "f3e49d1a8f2d53c492ccc80afe12538b"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 3746269,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dandelion_01/dandelion_01_rough_4k.jpg",
+                    "md5": "123d0350ac0d7c98efc919a98253c28a"
+                },
+                "png": {
+                    "size": 9560700,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dandelion_01/dandelion_01_rough_4k.png",
+                    "md5": "4d04312a35f3adcf443616e6ce337775"
+                },
+                "exr": {
+                    "size": 7194355,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/dandelion_01/dandelion_01_rough_4k.exr",
+                    "md5": "1b75d66dfd70d60706b930c66ca88b69"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1150016,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dandelion_01/dandelion_01_rough_2k.jpg",
+                    "md5": "3ec694ae5f251fed4d4e24ea48a70ced"
+                },
+                "png": {
+                    "size": 3645791,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dandelion_01/dandelion_01_rough_2k.png",
+                    "md5": "ca19c688dcd4f5cc1c4ff878c1f2e437"
+                },
+                "exr": {
+                    "size": 2543873,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/dandelion_01/dandelion_01_rough_2k.exr",
+                    "md5": "d63128646434de23650b60d8fc1c1099"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 337767,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dandelion_01/dandelion_01_rough_1k.jpg",
+                    "md5": "2c6084aac338ac83d5b7dd6b1b8691eb"
+                },
+                "png": {
+                    "size": 1160876,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dandelion_01/dandelion_01_rough_1k.png",
+                    "md5": "34e4910c20b12f7bcae6902d158684d8"
+                },
+                "exr": {
+                    "size": 778291,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/dandelion_01/dandelion_01_rough_1k.exr",
+                    "md5": "504da36e0a7898bc43ae106627a71671"
+                }
+            }
+        },
+        "Displacement": {
+            "8k": {
+                "jpg": {
+                    "size": 3059356,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/dandelion_01/dandelion_01_disp_8k.jpg",
+                    "md5": "dd015bad5bbfcd68800d944ded46de4b"
+                },
+                "png": {
+                    "size": 12459324,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/dandelion_01/dandelion_01_disp_8k.png",
+                    "md5": "00ee5e5a4911a34f70745c1357ce47d7"
+                },
+                "exr": {
+                    "size": 7535772,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/dandelion_01/dandelion_01_disp_8k.exr",
+                    "md5": "a0b0df7ba6b4fbd57ec9875aa7d3c975"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 1024077,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dandelion_01/dandelion_01_disp_4k.jpg",
+                    "md5": "0d56dec9383047b09caf1893b1eb0959"
+                },
+                "png": {
+                    "size": 6322096,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dandelion_01/dandelion_01_disp_4k.png",
+                    "md5": "1a07627ad08a02a6274074600e63a35d"
+                },
+                "exr": {
+                    "size": 2856188,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/dandelion_01/dandelion_01_disp_4k.exr",
+                    "md5": "d9ba3f9a93824f9c15a5e0fae0820318"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 344041,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dandelion_01/dandelion_01_disp_2k.jpg",
+                    "md5": "37278d05dd9bf003259d1c6b8d6f0786"
+                },
+                "png": {
+                    "size": 2323567,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dandelion_01/dandelion_01_disp_2k.png",
+                    "md5": "f64450ad03e6175150499baddc7bf7a0"
+                },
+                "exr": {
+                    "size": 1073165,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/dandelion_01/dandelion_01_disp_2k.exr",
+                    "md5": "0c2566e48b948d51866bdc652ce9f2f7"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 116020,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dandelion_01/dandelion_01_disp_1k.jpg",
+                    "md5": "a394bfe7648edd00c4e05a4d31676d38"
+                },
+                "png": {
+                    "size": 734316,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dandelion_01/dandelion_01_disp_1k.png",
+                    "md5": "86babb634b6b94ad4594a6e35eea41b4"
+                },
+                "exr": {
+                    "size": 387379,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/dandelion_01/dandelion_01_disp_1k.exr",
+                    "md5": "10ee4ade0c25d7b8eee07055b2f1da98"
+                }
+            }
+        },
+        "nor_gl": {
+            "8k": {
+                "jpg": {
+                    "size": 18210820,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/dandelion_01/dandelion_01_nor_gl_8k.jpg",
+                    "md5": "baf5445bde653c62bc8d4a8d7694068b"
+                },
+                "png": {
+                    "size": 131372412,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/dandelion_01/dandelion_01_nor_gl_8k.png",
+                    "md5": "935dc677b11d58c6728210c0b6476ebe"
+                },
+                "exr": {
+                    "size": 33649841,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/dandelion_01/dandelion_01_nor_gl_8k.exr",
+                    "md5": "2b8c197a1013f1ff9d876c00c3baf6da"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 5741804,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dandelion_01/dandelion_01_nor_gl_4k.jpg",
+                    "md5": "8af1f8edd76f15ba91765a7890d4d264"
+                },
+                "png": {
+                    "size": 40211103,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dandelion_01/dandelion_01_nor_gl_4k.png",
+                    "md5": "30c5f838f42ca863f2536a29a9edae9e"
+                },
+                "exr": {
+                    "size": 11792914,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/dandelion_01/dandelion_01_nor_gl_4k.exr",
+                    "md5": "153b3b01dcaadabddd603344cab110f2"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1700151,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dandelion_01/dandelion_01_nor_gl_2k.jpg",
+                    "md5": "585b7fb700b0d8f2dab2d3182621a8a5"
+                },
+                "png": {
+                    "size": 11623196,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dandelion_01/dandelion_01_nor_gl_2k.png",
+                    "md5": "952ce8108a571884eab1f6f18f88fac8"
+                },
+                "exr": {
+                    "size": 3622824,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/dandelion_01/dandelion_01_nor_gl_2k.exr",
+                    "md5": "b8532f119cebf81a77764d6fcb196145"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 501192,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dandelion_01/dandelion_01_nor_gl_1k.jpg",
+                    "md5": "635f33cdce802926d04365e8cf6e2702"
+                },
+                "png": {
+                    "size": 3257630,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dandelion_01/dandelion_01_nor_gl_1k.png",
+                    "md5": "dd819d5e53b7e9686bcb88d7143ac9ce"
+                },
+                "exr": {
+                    "size": 1081343,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/dandelion_01/dandelion_01_nor_gl_1k.exr",
+                    "md5": "58c418e8fa07d3050e1bd2222dfc4520"
+                }
+            }
+        },
+        "Alpha": {
+            "8k": {
+                "jpg": {
+                    "size": 2903441,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/dandelion_01/dandelion_01_alpha_8k.jpg",
+                    "md5": "bd928c0740ea6ab684fa496ead93b554"
+                },
+                "png": {
+                    "size": 1354424,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/dandelion_01/dandelion_01_alpha_8k.png",
+                    "md5": "280ad28b2382989296723422bce06e71"
+                },
+                "exr": {
+                    "size": 1549289,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/dandelion_01/dandelion_01_alpha_8k.exr",
+                    "md5": "73d731865faf7709886eeb00570f5e78"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 1192238,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dandelion_01/dandelion_01_alpha_4k.jpg",
+                    "md5": "2f58545b64b0f9a5129f41242d8f3286"
+                },
+                "png": {
+                    "size": 631619,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dandelion_01/dandelion_01_alpha_4k.png",
+                    "md5": "7e5d3995efad446cee774b61e13feb4d"
+                },
+                "exr": {
+                    "size": 723190,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/dandelion_01/dandelion_01_alpha_4k.exr",
+                    "md5": "b95fe6ec71f8f40887c731f572444412"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 521166,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dandelion_01/dandelion_01_alpha_2k.jpg",
+                    "md5": "bc1fca282873df424919cf532824f7e4"
+                },
+                "png": {
+                    "size": 294844,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dandelion_01/dandelion_01_alpha_2k.png",
+                    "md5": "622723dcaef80eaadb5b839673c62127"
+                },
+                "exr": {
+                    "size": 342885,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/dandelion_01/dandelion_01_alpha_2k.exr",
+                    "md5": "05ace2fc9ab53bdaa639090201d31e5e"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 232839,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dandelion_01/dandelion_01_alpha_1k.jpg",
+                    "md5": "f99c3709b12d40ebcfc4585ea4f980f0"
+                },
+                "png": {
+                    "size": 130791,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dandelion_01/dandelion_01_alpha_1k.png",
+                    "md5": "1e6e6c5badd75294181f8293faf64cdf"
+                },
+                "exr": {
+                    "size": 160735,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/dandelion_01/dandelion_01_alpha_1k.exr",
+                    "md5": "2fc676aab2e6065aa1fdda0f32407bb7"
+                }
+            }
+        },
+        "arm": {
+            "8k": {
+                "jpg": {
+                    "size": 16377858,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/dandelion_01/dandelion_01_arm_8k.jpg",
+                    "md5": "59803b579b1776dc76d297e6672acb03"
+                },
+                "png": {
+                    "size": 27504130,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/dandelion_01/dandelion_01_arm_8k.png",
+                    "md5": "8009fcc54b88267b67aa589ceaccc102"
+                },
+                "exr": {
+                    "size": 29856325,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/dandelion_01/dandelion_01_arm_8k.exr",
+                    "md5": "8dc94ae8055f315b31e4d2ef77a80ed0"
+                }
+            },
+            "4k": {
+                "jpg": {
+                    "size": 4965971,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dandelion_01/dandelion_01_arm_4k.jpg",
+                    "md5": "2d1dfd0611f6fa03eb27a7575a4a5d5f"
+                },
+                "png": {
+                    "size": 8667932,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dandelion_01/dandelion_01_arm_4k.png",
+                    "md5": "2eb0d4114b322114f7cd1d74e0bec0db"
+                },
+                "exr": {
+                    "size": 9689916,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/dandelion_01/dandelion_01_arm_4k.exr",
+                    "md5": "cfe6db417faaec704963e2fc0d49cbdf"
+                }
+            },
+            "2k": {
+                "jpg": {
+                    "size": 1504494,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dandelion_01/dandelion_01_arm_2k.jpg",
+                    "md5": "258154fbd59ec264ce01ba5749c38a77"
+                },
+                "png": {
+                    "size": 2584457,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dandelion_01/dandelion_01_arm_2k.png",
+                    "md5": "7ced09169c50f6ab28945fdd5b6adb3d"
+                },
+                "exr": {
+                    "size": 3078188,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/dandelion_01/dandelion_01_arm_2k.exr",
+                    "md5": "3e28c7034bf118bc0ba46b9003b036dd"
+                }
+            },
+            "1k": {
+                "jpg": {
+                    "size": 451549,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dandelion_01/dandelion_01_arm_1k.jpg",
+                    "md5": "749a9472d4e05595051eed6d75cfc925"
+                },
+                "png": {
+                    "size": 751128,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dandelion_01/dandelion_01_arm_1k.png",
+                    "md5": "593832bd60edd06314a8f44c3f545f8f"
+                },
+                "exr": {
+                    "size": 934422,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/dandelion_01/dandelion_01_arm_1k.exr",
+                    "md5": "c76560a883765dcd9c77e384406e8a6e"
+                }
+            }
+        },
+        "fbx": {
+            "8k": {
+                "fbx": {
+                    "include": {
+                        "textures/dandelion_01_diff_8k.jpg": {
+                            "size": 17293476,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/dandelion_01/dandelion_01_diff_8k.jpg",
+                            "md5": "f41fdeb0ea71adc1c1aa93beacec0a86"
+                        },
+                        "textures/dandelion_01_alpha_8k.png": {
+                            "size": 1354424,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/dandelion_01/dandelion_01_alpha_8k.png",
+                            "md5": "280ad28b2382989296723422bce06e71"
+                        },
+                        "textures/dandelion_01_nor_gl_8k.exr": {
+                            "size": 33649841,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/dandelion_01/dandelion_01_nor_gl_8k.exr",
+                            "md5": "2b8c197a1013f1ff9d876c00c3baf6da"
+                        },
+                        "textures/dandelion_01_mask_8k.png": {
+                            "size": 260529,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/dandelion_01/dandelion_01_mask_8k.png",
+                            "md5": "9d344c1e7a247dea094b8a89aba7a626"
+                        },
+                        "textures/dandelion_01_rough_8k.exr": {
+                            "size": 16976016,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/dandelion_01/dandelion_01_rough_8k.exr",
+                            "md5": "f3e49d1a8f2d53c492ccc80afe12538b"
+                        }
+                    },
+                    "size": 4172,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/8k/dandelion_01/dandelion_01_8k.fbx",
+                    "md5": "fba819ff34c3781465afe4cf108c5633"
+                }
+            },
+            "4k": {
+                "fbx": {
+                    "include": {
+                        "textures/dandelion_01_alpha_4k.png": {
+                            "size": 631619,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dandelion_01/dandelion_01_alpha_4k.png",
+                            "md5": "7e5d3995efad446cee774b61e13feb4d"
+                        },
+                        "textures/dandelion_01_diff_4k.jpg": {
+                            "size": 5845745,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/dandelion_01/dandelion_01_diff_4k.jpg",
+                            "md5": "a49dd54d1edf81fe705c5e6c0945d546"
+                        },
+                        "textures/dandelion_01_mask_4k.png": {
+                            "size": 77097,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/dandelion_01/dandelion_01_mask_4k.png",
+                            "md5": "2067315913eaae0a9f39afd0bcd8b342"
+                        },
+                        "textures/dandelion_01_nor_gl_4k.exr": {
+                            "size": 11792914,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/dandelion_01/dandelion_01_nor_gl_4k.exr",
+                            "md5": "153b3b01dcaadabddd603344cab110f2"
+                        },
+                        "textures/dandelion_01_rough_4k.exr": {
+                            "size": 7194355,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/dandelion_01/dandelion_01_rough_4k.exr",
+                            "md5": "1b75d66dfd70d60706b930c66ca88b69"
+                        }
+                    },
+                    "size": 4172,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/4k/dandelion_01/dandelion_01_4k.fbx",
+                    "md5": "01e0f52da39d0e063a1ed9536d8c15af"
+                }
+            },
+            "2k": {
+                "fbx": {
+                    "include": {
+                        "textures/dandelion_01_rough_2k.exr": {
+                            "size": 2543873,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/dandelion_01/dandelion_01_rough_2k.exr",
+                            "md5": "d63128646434de23650b60d8fc1c1099"
+                        },
+                        "textures/dandelion_01_nor_gl_2k.exr": {
+                            "size": 3622824,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/dandelion_01/dandelion_01_nor_gl_2k.exr",
+                            "md5": "b8532f119cebf81a77764d6fcb196145"
+                        },
+                        "textures/dandelion_01_mask_2k.png": {
+                            "size": 28718,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dandelion_01/dandelion_01_mask_2k.png",
+                            "md5": "9beae5b92bf3c3818e4ec8078c6272f8"
+                        },
+                        "textures/dandelion_01_diff_2k.jpg": {
+                            "size": 1803374,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dandelion_01/dandelion_01_diff_2k.jpg",
+                            "md5": "02cf132e4889bf23ab0971bf6c0628fe"
+                        },
+                        "textures/dandelion_01_alpha_2k.png": {
+                            "size": 294844,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/dandelion_01/dandelion_01_alpha_2k.png",
+                            "md5": "622723dcaef80eaadb5b839673c62127"
+                        }
+                    },
+                    "size": 4172,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/2k/dandelion_01/dandelion_01_2k.fbx",
+                    "md5": "6463bb9230907460b3b3d6cb057769f9"
+                }
+            },
+            "1k": {
+                "fbx": {
+                    "include": {
+                        "textures/dandelion_01_alpha_1k.png": {
+                            "size": 130791,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dandelion_01/dandelion_01_alpha_1k.png",
+                            "md5": "1e6e6c5badd75294181f8293faf64cdf"
+                        },
+                        "textures/dandelion_01_nor_gl_1k.exr": {
+                            "size": 1081343,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/dandelion_01/dandelion_01_nor_gl_1k.exr",
+                            "md5": "58c418e8fa07d3050e1bd2222dfc4520"
+                        },
+                        "textures/dandelion_01_diff_1k.jpg": {
+                            "size": 542265,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/dandelion_01/dandelion_01_diff_1k.jpg",
+                            "md5": "9278bffe3912d0e7cd26694dd3f7e721"
+                        },
+                        "textures/dandelion_01_mask_1k.png": {
+                            "size": 11643,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/dandelion_01/dandelion_01_mask_1k.png",
+                            "md5": "645e59c170cb330abbbdfbd7a4599320"
+                        },
+                        "textures/dandelion_01_rough_1k.exr": {
+                            "size": 778291,
+                            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/dandelion_01/dandelion_01_rough_1k.exr",
+                            "md5": "504da36e0a7898bc43ae106627a71671"
+                        }
+                    },
+                    "size": 4172,
+                    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/1k/dandelion_01/dandelion_01_1k.fbx",
+                    "md5": "ca8ad4bdd0324f52ba86f068c9c05680"
+                }
+            }
+        }
+    }
+}
